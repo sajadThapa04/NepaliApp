@@ -1,0 +1,4009 @@
+[
+  {
+    "id": 1,
+    "text": "अङ्ग्रेजीको काइदा, भुक्नेलाई फाइदा",
+    "meaning": "English rule benefits those who bark (protest)."
+  },
+  {
+    "id": 2,
+    "text": "अकटको कुलो, बिकटको खेत, बिसँछु दाजै शिलोकको फेद",
+    "meaning": "A canal on a slope, a field on a cliff, I remember the base of the Shilok."
+  },
+  {
+    "id": 3,
+    "text": "अकबर राजा, बिरबल काजि, इन्साफ दिन्छन खुसिराजि",
+    "meaning": "King Akbar, Minister Birbal, happy judge delivers justice."
+  },
+  {
+    "id": 4,
+    "text": "अकबरी सुनलाई कसी लाउन पर्दैन",
+    "meaning": "Akbari gold doesn't need a touchstone to prove its purity."
+  },
+  {
+    "id": 5,
+    "text": "अक्चु खाए बक्छु खाए झुसे बारुलो",
+    "meaning": "Stung by a wasp? Just eat bitter gourd and eggplant."
+  },
+  {
+    "id": 6,
+    "text": "अगुल्टोले हानेको कुकुर बिजुलीदेखि तर्सन्छ",
+    "meaning": "A dog hit by a stick is even scared of lightning."
+  },
+  {
+    "id": 7,
+    "text": "अगुल्टो पनि नठोसी बल्दैन",
+    "meaning": "Even a stick doesn't burn without a spark."
+  },
+  {
+    "id": 8,
+    "text": "अघि हेर्नु चार हात, पछि हेर्नु बाह हात",
+    "meaning": "Look four cubits forward, eight cubits back."
+  },
+  {
+    "id": 9,
+    "text": "अघिको तीतो पछिको मीठो",
+    "meaning": "Today's bitterness is tomorrow's sweetness."
+  },
+  {
+    "id": 10,
+    "text": "अचानो को पिर खुकुरी ले जान्दैन",
+    "meaning": "A khukuri cannot cut away the worry of a lame person."
+  },
+  {
+    "id": 11,
+    "text": "अचार खानु मुलाको, संगत गर्नु ठुलाको",
+    "meaning": "Eat pickles from radish, but keep company with the elders."
+  },
+  {
+    "id": 12,
+    "text": "अच्छा साले जुल्फी पाले, लिखाले टांग हाले",
+    "meaning": "The good brother-in-law grows long hair, the writer scribbles a note."
+  },
+  {
+    "id": 13,
+    "text": "अजिङ्गरको आहारा दैवले जुराउँछ",
+    "meaning": "God provides food for the python."
+  },
+  {
+    "id": 14,
+    "text": "अड्को पड्को तेलको धूप",
+    "meaning": "A stuck and cracked oil lamp."
+  },
+  {
+    "id": 15,
+    "text": "अदुवा खाई सभामा बस, मुला खाई बन पस",
+    "meaning": "Eat ginger and sit in the assembly, eat radish and go to the forest."
+  },
+  {
+    "id": 16,
+    "text": "अनिकालको तोरी, सहकालको जाँ",
+    "meaning": "Mustard during famine, barley during good times."
+  },
+  {
+    "id": 17,
+    "text": "अनिकालको मानु दिनु न खानु",
+    "meaning": "In famine, give neither man nor food."
+  },
+  {
+    "id": 18,
+    "text": "अनिकालमा लाईफ जोगाउनु, आन्दोलनमा बाईक जोगाउनु",
+    "meaning": "Save your life during famine, save your bike during a movement."
+  },
+  {
+    "id": 19,
+    "text": "अनिकाले मानू, बाँडिचूडी खानू",
+    "meaning": "In famine, eat together sharing whatever you have."
+  },
+  {
+    "id": 20,
+    "text": "अनुहार न दनुवार पोइ खोज्न थाली",
+    "meaning": "She has no face or teeth, but started looking for a husband."
+  },
+  {
+    "id": 21,
+    "text": "अनुहार न दनुवार, पाण्डव सुनुवार",
+    "meaning": "No face, no teeth, but a Pandava son-in-law is desired."
+  },
+  {
+    "id": 22,
+    "text": "अन्धाको देशमा आँखा छोप्नु, लङ्गडाको देशमा खुट्टा खोच्याउनु",
+    "meaning": "In the land of the blind, cover your eyes; in the land of the lame, limp."
+  },
+  {
+    "id": 23,
+    "text": "अन्धाको सहारा लङ्गडा",
+    "meaning": "The support of the blind is the lame."
+  },
+  {
+    "id": 24,
+    "text": "अन्धाको हातमा टुकी",
+    "meaning": "A lamp in the hands of a blind person."
+  },
+  {
+    "id": 25,
+    "text": "अन्धोलाई ऐनाको खोजि",
+    "meaning": "A blind man searching for a mirror."
+  },
+  {
+    "id": 26,
+    "text": "अन्नमा भन्दा सन्नमा जोड",
+    "meaning": "Strength lies in the time of trouble, not in the food."
+  },
+  {
+    "id": 27,
+    "text": "अन्यायको धन, कहिल्यै मेरो नभन",
+    "meaning": "Never call wealth earned through injustice your own."
+  },
+  {
+    "id": 28,
+    "text": "अभागी मोरो हरुन बस्यो, बाह हातको घाँचो पस्यो",
+    "meaning": "The unlucky one's peacock flew away, and an eight-cubit splinter got stuck."
+  },
+  {
+    "id": 29,
+    "text": "अभागीको भाई सप्नन्छ, भाग्यमानीको छोरो सप्नन्छ",
+    "meaning": "The unlucky one's brother sleeps, the lucky one's son sleeps."
+  },
+  {
+    "id": 30,
+    "text": "अराएको काम र भराएको मानोले कति दिन चल्छ",
+    "meaning": "How long can a borrowed work and a borrowed plow last?"
+  },
+  {
+    "id": 31,
+    "text": "अरुको बारिको काँक्रो चोर्नी, आफ्नो भने नुनको ढिको नफोर्नी",
+    "meaning": "Steal cucumbers from another's garden, but don't break your own salt block."
+  },
+  {
+    "id": 32,
+    "text": "अरूले हाती चढे भनेर आफूले धुरी चढ्नु हुँदैन",
+    "meaning": "Don't climb a pole just because others ride an elephant."
+  },
+  {
+    "id": 33,
+    "text": "अर्काको आङ्गको जुमा देख्ने, आफ्नो आङ्गको भैसी पनि नदेख्ने",
+    "meaning": "Sees the lice in another's yard, but not the buffalo in his own."
+  },
+  {
+    "id": 34,
+    "text": "अर्काको गहना लगाउनु, नाक कान दुखाउनु",
+    "meaning": "Wearing another's jewelry only hurts your nose and ears."
+  },
+  {
+    "id": 35,
+    "text": "अर्काको नासो गलपासो",
+    "meaning": "Another's claim becomes a noose around the neck."
+  },
+  {
+    "id": 36,
+    "text": "अर्काको बाच्छो चाटी मुखभरी राँ",
+    "meaning": "Licking another's calf, the mouth is full of fur."
+  },
+  {
+    "id": 37,
+    "text": "अर्काको बारीमा साग छ, मुटु मिचेर के लाग्छ",
+    "meaning": "There are greens in another's field, why squeeze your heart for it?"
+  },
+  {
+    "id": 38,
+    "text": "आफ्नो टाउको फुटे पिछि अर्काको टाउको बेल",
+    "meaning": "Only after your own head cracks, you wish another's head had cracked."
+  },
+  {
+    "id": 39,
+    "text": "आफ्नो थैली सुरक्षित राखे अर्कालाई दोष लगाउनु पर्दैन",
+    "meaning": "Secure your own purse first, then you don't have to blame others."
+  },
+  {
+    "id": 40,
+    "text": "आफ्नो थैलोको गाँठो कस्नु, अरुलाई दोष नदिनु",
+    "meaning": "Tighten the knot of your own bag, don't blame others."
+  },
+  {
+    "id": 41,
+    "text": "आफ्नो नुन, आफ्नै पानी, खाउ ज्वाई कोखा तानी",
+    "meaning": "Eat your own salt and water, son-in-law, even if you have to tighten your belt."
+  },
+  {
+    "id": 42,
+    "text": "आफ्नो भाग्य आफैले बनाउनु पर्छ",
+    "meaning": "One must make their own destiny."
+  },
+  {
+    "id": 43,
+    "text": "आफ्नो रुचि खानु, अर्काको रुचि लाउनु",
+    "meaning": "Eat according to your own taste, apply what others like."
+  },
+  {
+    "id": 44,
+    "text": "आफ्नो हात जगन्नाथ",
+    "meaning": "One's own hand is Lord Jagannath (the ultimate provider)."
+  },
+  {
+    "id": 45,
+    "text": "आमा पिन ब्युटी छोरि पिन ब्युटी बाउले गर्नु पर्ने चुलाको ड्युटी",
+    "meaning": "Mother is pin beauty, daughter is pin beauty, father has to do the stove duty."
+  },
+  {
+    "id": 46,
+    "text": "आमा बाबुको मन छोरा छोरी माथि, छोरा छोरीको मन डिडगो जुता माथि",
+    "meaning": "Parents' mind is on children, children's mind is on new shoes."
+  },
+  {
+    "id": 47,
+    "text": "आमा बाबुलाई समस्या टान गाहाँ, छोराछोरीलाई भने स्टाईल नै प्यारो",
+    "meaning": "Parents find it hard to pull through problems, children only love style."
+  },
+  {
+    "id": 48,
+    "text": "आमा-बाबा को मन छोरा तिर, छोरा को मन अर्काको छोरी तिर",
+    "meaning": "Father and mother's mind is on their son, the son's mind is on another's daughter."
+  },
+  {
+    "id": 49,
+    "text": "आमाको माया आँखाको डिलमा",
+    "meaning": "A mother's love is on the edge of her eyelid."
+  },
+  {
+    "id": 50,
+    "text": "आमाबाबुको मन छोराछोरी माथि छोराछोरीको मन ढुंगामुदा माथि",
+    "meaning": "Parents' mind is on children, children's mind is on stones and mortar."
+  },
+  {
+    "id": 51,
+    "text": "आमा-छोराको ऐचोपैंचो, बाबु-छोराको लेनदेन",
+    "meaning": "Mother-son is about care and comfort, father-son is about transactions and obligations."
+  },
+  {
+    "id": 52,
+    "text": "आम्दानी चार आनाको खर्च बाहू आनाको",
+    "meaning": "Income is four annas, expenditure is twelve annas (living beyond one's means)."
+  },
+  {
+    "id": 53,
+    "text": "आयूको छोरालाई वायूको डर",
+    "meaning": "A son with long life is afraid of a little gas (being overly cautious about small things)."
+  },
+  {
+    "id": 54,
+    "text": "आयो गयो माया मोह, आएन गएन को हो को हो",
+    "meaning": "Love and attachment come and go; who is who if they don't come or go?"
+  },
+  {
+    "id": 55,
+    "text": "आलु खाएर पेडाको धाक",
+    "meaning": "Eating potatoes but pretending to have the status of a sweet peda."
+  },
+  {
+    "id": 56,
+    "text": "इखालु स्वास्नीको बचन, बहूला कुकुरको दाँत बराबर",
+    "meaning": "A jealous wife's words are like the teeth of a barking dog."
+  },
+  {
+    "id": 57,
+    "text": "इन्द्रको अगाडि स्वर्गको बयान",
+    "meaning": "Talking about heaven in front of Lord Indra (showing off to the expert)."
+  },
+  {
+    "id": 58,
+    "text": "एउटा थाप्लो दुईटा नाम्लो",
+    "meaning": "One forehead, two ropes (torn between two responsibilities)."
+  },
+  {
+    "id": 59,
+    "text": "एउटा पोईको दुईटा जोई, ख्वाउने बेलामा कोही न कोही",
+    "meaning": "One husband has two wives; when it's time to eat, someone always shows up."
+  },
+  {
+    "id": 60,
+    "text": "एउटा भए सरासर, दुइटा भए भराभर, तिनवटा भए टाउको फोराफोर",
+    "meaning": "One is straightforward, two are quarrelsome, three break each other's heads."
+  },
+  {
+    "id": 61,
+    "text": "एउटा सियो चोर अर्को फाली चोर",
+    "meaning": "One steals a needle, another steals an axe (different scales of wrongdoing)."
+  },
+  {
+    "id": 62,
+    "text": "एउटाले बिरायो साखा पिरायो",
+    "meaning": "One caused the trouble, another suffered the consequence."
+  },
+  {
+    "id": 63,
+    "text": "एक कान दुई कान मैदान",
+    "meaning": "One ear, two ears, and the field (everyone has a different way of hearing)."
+  },
+  {
+    "id": 64,
+    "text": "एक कानले सुन्यो, अर्को कानले उडायो",
+    "meaning": "Heard with one ear, let it fly out the other."
+  },
+  {
+    "id": 65,
+    "text": "एक घर विष्ट, दश घर कामी, जस्ता तिमी उस्तै हामी",
+    "meaning": "One house of Bisht, ten houses of Kami; you are like us."
+  },
+  {
+    "id": 66,
+    "text": "एक छाक खाने जोगी, दुई छाक खाने भोगी, तीन छाक खाने रोगी",
+    "meaning": "Eating once a day is a hermit, twice a day is a householder, thrice a day is a patient."
+  },
+  {
+    "id": 67,
+    "text": "एक थुकी सुकी, सय थुकी नदी",
+    "meaning": "One spit dries up, a hundred spits become a river."
+  },
+  {
+    "id": 68,
+    "text": "एक पटकको चोर सधैंको चोर",
+    "meaning": "A thief once is a thief forever."
+  },
+  {
+    "id": 69,
+    "text": "एक पन्थ, दुई काज",
+    "meaning": "One path, two tasks (two birds with one stone)."
+  },
+  {
+    "id": 70,
+    "text": "एक माघले जाडो जोंदैन",
+    "meaning": "One Magh month does not end the winter."
+  },
+  {
+    "id": 71,
+    "text": "एक रुपैंया धन छ, घोडा किन्छु भन्छ",
+    "meaning": "He has only one rupee but says he'll buy a horse."
+  },
+  {
+    "id": 72,
+    "text": "एक हातले तालि बउदैन",
+    "meaning": "One hand cannot clap."
+  },
+  {
+    "id": 73,
+    "text": "एकता नै बल हो",
+    "meaning": "Unity is strength."
+  },
+  {
+    "id": 74,
+    "text": "एकातिर आँधी, अर्कोतिर झोलुङ्गो",
+    "meaning": "Storm on one side, suspension bridge on the other."
+  },
+  {
+    "id": 75,
+    "text": "एक्लो बूहस्पति झुट्टा",
+    "meaning": "A lonely Brihaspati (Thursday) is false."
+  },
+  {
+    "id": 76,
+    "text": "ओखरबोटमा चिल बस्यो, देखेपछि दिल बस्यो",
+    "meaning": "A kite sat on a walnut tree; after seeing it, the heart became calm."
+  },
+  {
+    "id": 77,
+    "text": "ओरालो लागेको मृगलाई बाच्छाले पनि खेद्छ",
+    "meaning": "Even a calf chases a deer that is going downhill."
+  },
+  {
+    "id": 78,
+    "text": "औंला दिदा डुँडुल्ना निल्ने",
+    "meaning": "While giving a finger, swallows the whole hand."
+  },
+  {
+    "id": 79,
+    "text": "औषधी र उपदेश मीठो हुन्ने",
+    "meaning": "Medicine and advice are never sweet."
+  },
+  {
+    "id": 80,
+    "text": "औसींमा किनेर, पुणेमा फाल्ने",
+    "meaning": "Buy on the new moon and throw away on the full moon."
+  },
+  {
+    "id": 81,
+    "text": "कड्गालको जात छैन, बोक्सीको गाउँ छैन",
+    "meaning": "A sword has no caste, a witch has no village."
+  },
+  {
+    "id": 82,
+    "text": "कच्चा वैद्यको मात्रा यमपुरीको यात्रा",
+    "meaning": "An inexperienced doctor's dose is a journey to the land of death."
+  },
+  {
+    "id": 83,
+    "text": "कता हराइस् नौनी विलौनीमा",
+    "meaning": "Where did you get lost, butter, in the churning?"
+  },
+  {
+    "id": 84,
+    "text": "कतै खातैखात, कतै पुर्पुरोमा हात",
+    "meaning": "Sometimes on the lap, sometimes hand on the knee."
+  },
+  {
+    "id": 85,
+    "text": "कतै दिन, कतै रात, एकातिर भोक अर्कोतिर भात",
+    "meaning": "Somewhere day, somewhere night; hunger on one side, rice on the other."
+  },
+  {
+    "id": 86,
+    "text": "कपाल दुखेको औषधी नाइटोमा लगाउनु",
+    "meaning": "Applying medicine for a headache on the navel."
+  },
+  {
+    "id": 87,
+    "text": "कपाल भन्दा टुपी छोटो",
+    "meaning": "The topknot is shorter than the hair."
+  },
+  {
+    "id": 88,
+    "text": "कमिलालाई सुसुको पहिरो",
+    "meaning": "A drop of urine is a landslide for an ant."
+  },
+  {
+    "id": 89,
+    "text": "कम्बल ओढेर घ्यू खाने",
+    "meaning": "Eating ghee wrapped in a blanket (hiding wealth while enjoying it)."
+  },
+  {
+    "id": 90,
+    "text": "कर्कलालाई बन्चरो",
+    "meaning": "A curved knife for a crooked person."
+  },
+  {
+    "id": 91,
+    "text": "कलिवुडको जात्रा तिघाको व्यापार",
+    "meaning": "A trip to Kalibood is a trade of thighs."
+  },
+  {
+    "id": 92,
+    "text": "कसाईको अगाडि बाख्रा रोएको",
+    "meaning": "A goat crying in front of a butcher."
+  },
+  {
+    "id": 93,
+    "text": "कसाईको अगाडी बाख्राको आँसुको के अर्थ",
+    "meaning": "What does a goat's tear mean in front of a butcher?"
+  },
+  {
+    "id": 94,
+    "text": "कसारको कुन गुदी कुन बोक्नो",
+    "meaning": "Which part of the loom carries which load?"
+  },
+  {
+    "id": 95,
+    "text": "कसैको आहार कसैको विष",
+    "meaning": "One man's food is another man's poison."
+  },
+  {
+    "id": 96,
+    "text": "कसैलाई के धन्दा घरज्वाईलाई खानको धन्दा",
+    "meaning": "The only worry for a live-in son-in-law is worry about food."
+  },
+  {
+    "id": 97,
+    "text": "कसैलाई लाखा, कसैलाई पाखा",
+    "meaning": "For some, a lakh; for others, a slope."
+  },
+  {
+    "id": 98,
+    "text": "कसैले तपाईं भनोस् नभनोस् आफैं मपाई",
+    "meaning": "Whether someone calls you you or not, be your own master."
+  },
+  {
+    "id": 99,
+    "text": "कस्ता कस्ता कहाँ गए मुसाको बच्चा दरबारमा",
+    "meaning": "All kinds have gone; a mouse's child is in the palace."
+  },
+  {
+    "id": 100,
+    "text": "कहाँ जान्छस् मछली मेरे ढडिया",
+    "meaning": "Where are you going, fish, in my basket?"
+  },
+  {
+    "id": 101,
+    "text": "कही नभाको जात्रा प्रग्रया प्रतिस्तानमा",
+    "meaning": "A festival that doesn't exist, celebrated at Pragya Pratisthan."
+  },
+  {
+    "id": 102,
+    "text": "कांही नभएको जात्रा हाँडी गाउँमा",
+    "meaning": "A festival that doesn't exist, celebrated in Handi village."
+  },
+  {
+    "id": 103,
+    "text": "काका भन्नु र कान्छा बाऊ भन्नु एउटै कुरो हो",
+    "meaning": "Calling someone uncle and calling them youngest father is the same thing."
+  },
+  {
+    "id": 104,
+    "text": "काग कराउदै गर्छ, पिना सुक्दै गर्छ",
+    "meaning": "The crow keeps cawing while the anvil keeps drying."
+  },
+  {
+    "id": 105,
+    "text": "काग बस्नु, हाँगा भाँचिनु",
+    "meaning": "When the crow sits, the branch breaks."
+  },
+  {
+    "id": 106,
+    "text": "काग बाठो भयो भने गु खान्छ",
+    "meaning": "If the crow becomes clever, it eats feces."
+  },
+  {
+    "id": 107,
+    "text": "काग भन्दा कोईली चंख",
+    "meaning": "The cuckoo is smarter than the crow."
+  },
+  {
+    "id": 108,
+    "text": "कागको नाम कागले काड्छ",
+    "meaning": "A crow erases the name of a crow."
+  },
+  {
+    "id": 109,
+    "text": "कागको बिचमा बकुल्ला",
+    "meaning": "An egret among crows."
+  },
+  {
+    "id": 110,
+    "text": "कागलाई बेल पाक्यो, हर्ष न विस्मात्",
+    "meaning": "The wood apple is ripe for the crow, neither joy nor sorrow."
+  },
+  {
+    "id": 111,
+    "text": "कागले कोइलिलाइ काले भन्छ",
+    "meaning": "The crow calls the cuckoo black."
+  },
+  {
+    "id": 112,
+    "text": "कानो गोरुलाई औंसी न पूर्णिमा",
+    "meaning": "For a one-eyed ox, there is no new moon or full moon."
+  },
+  {
+    "id": 113,
+    "text": "काम गुरो एकातिर कुम्लो बोकी ठिमीतिर",
+    "meaning": "The main task is one way, carrying the basket is towards Thimi."
+  },
+  {
+    "id": 114,
+    "text": "काम गर्दा नोकरले जसरी, खाना खाँदा राजाले जसरी",
+    "meaning": "Work like a servant, eat like a king."
+  },
+  {
+    "id": 115,
+    "text": "काम गर्ने कालु मकै खाने भालु",
+    "meaning": "Kalu does the work, the bear eats the corn."
+  },
+  {
+    "id": 116,
+    "text": "काम गर्ने हनुमान, पगदी कस्ने ढेडु",
+    "meaning": "Hanuman does the work, the monkey tightens the turban."
+  },
+  {
+    "id": 117,
+    "text": "काम छैन बुहारी पाडाको कन्डो कनाएर बस",
+    "meaning": "Daughter-in-law has nothing to do, so she sits scratching the calf's back."
+  },
+  {
+    "id": 118,
+    "text": "काम छउन्जेल भाँडो, काम सकिएपछि ठाँडो",
+    "meaning": "While there is work, it's a vessel; after work is done, it's cold."
+  },
+  {
+    "id": 119,
+    "text": "काम न काजको, दुश्मन अनाजको",
+    "meaning": "No work or duty, but an enemy of the grain."
+  },
+  {
+    "id": 120,
+    "text": "काम न धाम पेटभरी माम",
+    "meaning": "No work or shelter, but the stomach is full of food."
+  },
+  {
+    "id": 121,
+    "text": "काम पनि छैन दाम पनि छैन",
+    "meaning": "No work, no money either."
+  },
+  {
+    "id": 122,
+    "text": "काम पाईनस् बुहारी पाडाको ढाड कन्याई दे",
+    "meaning": "Daughter-in-law didn't get work, so she bends the calf's back."
+  },
+  {
+    "id": 123,
+    "text": "काम साँचे आफूलाई, खान साँचे अरूलाई",
+    "meaning": "Save work for yourself, save food for others."
+  },
+  {
+    "id": 124,
+    "text": "कामीको पालो कातिकमा",
+    "meaning": "The blacksmith's turn comes in Kartik."
+  },
+  {
+    "id": 125,
+    "text": "कामीको बिहे, अठार खाँचो",
+    "meaning": "A blacksmith's wedding has eighteen problems."
+  },
+  {
+    "id": 126,
+    "text": "काले काले मिलेर खाउँ भाले",
+    "meaning": "When blacks unite, let's eat the rooster."
+  },
+  {
+    "id": 127,
+    "text": "कालो अक्षर भैंसी बराबर",
+    "meaning": "Black letters are equal to a buffalo."
+  },
+  {
+    "id": 128,
+    "text": "कालो बादलले संधै पानी पार्दिन",
+    "meaning": "A black cloud doesn't always produce rain."
+  },
+  {
+    "id": 129,
+    "text": "कालो बाहून, गोरो शुद्र, यिनीदेखि डराउँछन् महारुद्र",
+    "meaning": "Dark Brahmin, light Shudra; even Lord Shiva is afraid of them."
+  },
+  {
+    "id": 130,
+    "text": "काशी जाने कुतिको बाटो",
+    "meaning": "The dog's path to Kashi."
+  },
+  {
+    "id": 131,
+    "text": "किन रोइस् मड्गले आफ्नै ढंगले",
+    "meaning": "Why are you crying, Mangale? In your own way."
+  },
+  {
+    "id": 132,
+    "text": "किनेको दाउरा किनेकै पानी, कर्मचारीका श्रीमती महलका रानी",
+    "meaning": "Bought firewood has its own water; a clerk's wife is a palace queen."
+  },
+  {
+    "id": 133,
+    "text": "कुकुर भुक्दै गर्छ, हाती लम्केँदै गर्छ",
+    "meaning": "The dog keeps barking, the elephant keeps walking."
+  },
+  {
+    "id": 134,
+    "text": "कुकुरको पुच्छर बाह्र बर्ष सम्म ढुङ्गोमा राखेपनी बाड्गाको बाड्गो",
+    "meaning": "A dog's tail remains crooked even if kept on a stone for twelve years."
+  },
+  {
+    "id": 135,
+    "text": "कुकुरलाई मासु पँचो",
+    "meaning": "Meat is a delicacy for a dog."
+  },
+  {
+    "id": 136,
+    "text": "कुकुरलाई घ्यू पच्दैन",
+    "meaning": "A dog cannot digest ghee."
+  },
+  {
+    "id": 137,
+    "text": "कुकुरलाई लुतो",
+    "meaning": "Mange for a dog."
+  },
+  {
+    "id": 138,
+    "text": "कुकुरले खुट्टा टोक्यो भन्दैमा कुकुरको खुट्टा टोक्नु हुन्न",
+    "meaning": "Just because a dog bit your leg, you don't bite the dog's leg."
+  },
+  {
+    "id": 139,
+    "text": "कुकुरलाई हड्डी पैचो",
+    "meaning": "A bone is a delicacy for a dog."
+  },
+  {
+    "id": 140,
+    "text": "कुचोले बढानु पर्ने कसिड्गर हावाले उडायो",
+    "meaning": "The dust that should be removed by a broom was blown away by the wind."
+  },
+  {
+    "id": 141,
+    "text": "कुन्ता कि बुहरी भ्टमास खाकि",
+    "meaning": "Either a spear or a daughter-in-law, eating soybeans."
+  },
+  {
+    "id": 142,
+    "text": "कुन्ताको महादेव खरानी घसेको",
+    "meaning": "A spear's Mahadev is filled with ash."
+  },
+  {
+    "id": 143,
+    "text": "कुग्री बुढीलाई उठी सुख न बसी सुख",
+    "meaning": "For a hunchbacked old woman, there is no comfort in standing or sitting."
+  },
+  {
+    "id": 144,
+    "text": "कुमालेको चक्र घुमी फिरी त्यहीं आउँछ",
+    "meaning": "The potter's wheel keeps spinning and comes back to the same place."
+  },
+  {
+    "id": 145,
+    "text": "कुरो र कुलो जता लग्यो त्यतै जान्छ",
+    "meaning": "A conversation and a canal go wherever you lead them."
+  },
+  {
+    "id": 146,
+    "text": "कुसाइतमा पञ्चेबाजा",
+    "meaning": "Panche baja at a cremation."
+  },
+  {
+    "id": 147,
+    "text": "के खोज्छस् कानो आँखो",
+    "meaning": "What are you looking for, one-eyed man?"
+  },
+  {
+    "id": 148,
+    "text": "के खोज्छस् नेता कुर्सी",
+    "meaning": "What are you looking for, leader? A chair."
+  },
+  {
+    "id": 149,
+    "text": "केटाकेटी आए, गुलेली खेलाए, मट्याड्याको सत्यानाश",
+    "meaning": "Children came, played with the slingshot, and destroyed the muddy thing."
+  },
+  {
+    "id": 150,
+    "text": "केटी हेर्न नपर्ने, केटो बोल्ने नपर्ने",
+    "meaning": "A girl shouldn't have to look, a boy shouldn't have to speak."
+  },
+  {
+    "id": 151,
+    "text": "खसको कुरा पेटको छुरा",
+    "meaning": "A Khas's words are like a knife in the stomach."
+  },
+  {
+    "id": 152,
+    "text": "खसी जोख्नु सय चोटि, मान्छे जोख्नु एक चोटि",
+    "meaning": "Weigh a goat a hundred times, but weigh a person just once."
+  },
+  {
+    "id": 153,
+    "text": "खसी देखाएर फर्सी भिडाउनु",
+    "meaning": "Show a goat but mate a pumpkin."
+  },
+  {
+    "id": 154,
+    "text": "खसी भनम बोसो छैन, बोको भनम नसो छैन",
+    "meaning": "Don't say the goat has no fat; don't say the he-goat has no tendon."
+  },
+  {
+    "id": 155,
+    "text": "खाइछाड कि लाइछाड, मरेपछि लम्पसार",
+    "meaning": "Eat or wear, after death it's all useless."
+  },
+  {
+    "id": 156,
+    "text": "खाई न पाई छालाको टोपी लाई",
+    "meaning": "Neither ate nor got, but puts on a leather cap."
+  },
+  {
+    "id": 157,
+    "text": "खाई न पाई दौरामाथि टाई",
+    "meaning": "Neither ate nor got, but wears a tie over the gown."
+  },
+  {
+    "id": 158,
+    "text": "खाउँ कर्कली, पेट फर्कली, नखाउँ कर्कली, सासू झर्कली",
+    "meaning": "If I eat the stir-fried greens, my stomach turns; if I don't, my mother-in-law is annoyed."
+  },
+  {
+    "id": 159,
+    "text": "खाए खा नखाए घिच",
+    "meaning": "Eat if you want, otherwise pull."
+  },
+  {
+    "id": 160,
+    "text": "खान जाने औषधि, खान नजाने विष",
+    "meaning": "What is medicine for one is poison for another."
+  },
+  {
+    "id": 161,
+    "text": "खाने पिउने रामे, चोट पाउने चामे",
+    "meaning": "Rame does the eating and drinking, Chame gets the beating."
+  },
+  {
+    "id": 162,
+    "text": "खाने बेलामा घिन नसम्झुनु, सुन्ने बेलामा ऋण नसम्झुनु",
+    "meaning": "Don't remember disgust while eating, don't remember debt while listening."
+  },
+  {
+    "id": 163,
+    "text": "खाने मुखलाई जुँगाले छेक्दैन",
+    "meaning": "A mustache does not block the eating mouth."
+  },
+  {
+    "id": 164,
+    "text": "खान्न-खान्न लोकाचार, खाएपछि माना चार",
+    "meaning": "Refuse out of custom, but after eating, four mana."
+  },
+  {
+    "id": 165,
+    "text": "खायो खुदो मुख उँदो",
+    "meaning": "Ate mud, mouth turned the other way."
+  },
+  {
+    "id": 166,
+    "text": "खिर ख्वाएर हिलोले चुठाउँने",
+    "meaning": "Feeds rice pudding but wipes the mouth with mud."
+  },
+  {
+    "id": 167,
+    "text": "खुट्टा भए संसार हिडिन्छ",
+    "meaning": "If you have feet, you can walk the whole world."
+  },
+  {
+    "id": 168,
+    "text": "खुट्टा भए जुता हजार",
+    "meaning": "If you have feet, there are a thousand shoes."
+  },
+  {
+    "id": 169,
+    "text": "खुर्सानी बिना भतेर अड्किन्न",
+    "meaning": "The feast is incomplete without chili pepper."
+  },
+  {
+    "id": 170,
+    "text": "खुस्किन लागेको हाकिमलाई पिउनले पनि लखेट्छ",
+    "meaning": "Even a dog chases a fleeing officer."
+  },
+  {
+    "id": 171,
+    "text": "खेताला पल्काउनु, पाहुना तर्साउनु",
+    "meaning": "Scare the farmhand, terrify the guest."
+  },
+  {
+    "id": 172,
+    "text": "खेताला लाए छैन काम, छोराछोरी पठाए आधा काम, आफू गए पुरै काम",
+    "meaning": "Hiring a laborer does no work; sending children does half work; going yourself does full work."
+  },
+  {
+    "id": 173,
+    "text": "खेती आफ्नो राम्रो, श्रीमती अर्काको",
+    "meaning": "One's own farming is good, another's wife is good."
+  },
+  {
+    "id": 174,
+    "text": "खोला तर्याँ लौरो बिर्सियो",
+    "meaning": "Crossed the river but forgot the stick."
+  },
+  {
+    "id": 175,
+    "text": "खोला र माया तलतिरै बग्छ",
+    "meaning": "Rivers and love flow downward."
+  },
+  {
+    "id": 176,
+    "text": "खोलाको देशमा पानीको दुःख",
+    "meaning": "In a land of rivers, there is shortage of water."
+  },
+  {
+    "id": 177,
+    "text": "गधा भारी नपुगी उठ्दैन",
+    "meaning": "A donkey does not get up until the load is on."
+  },
+  {
+    "id": 178,
+    "text": "गर्जने बादल वर्षदैन",
+    "meaning": "A thundering cloud does not rain."
+  },
+  {
+    "id": 179,
+    "text": "गहिराको घरलाई पहिराको डर, डाँडाको घरलाई जाडाको डर",
+    "meaning": "A house in a deep gorge fears a landslide; a house on a hill fears the cold."
+  },
+  {
+    "id": 180,
+    "text": "गाँस छाड्नु तर साथ नछाड्नु",
+    "meaning": "Leave the morsel, but do not leave the company."
+  },
+  {
+    "id": 181,
+    "text": "गाई गंगा बराबर",
+    "meaning": "A cow is equal to the Ganges."
+  },
+  {
+    "id": 182,
+    "text": "गाउँ भरिको साईनो, पानी खान पाइन",
+    "meaning": "All the relatives in the village, but no water to drink."
+  },
+  {
+    "id": 183,
+    "text": "गाग्रीमा पानी छैन, तिहुनमा झोल",
+    "meaning": "No water in the pot, but liquid in the churn."
+  },
+  {
+    "id": 184,
+    "text": "गिद्धको सामु कौवाको पखेटा",
+    "meaning": "A crow's wing in front of a vulture."
+  },
+  {
+    "id": 185,
+    "text": "गीत गाउनेको सुसेलीबाटै थाहा हुन्छ",
+    "meaning": "A singer is known by his whistling."
+  },
+  {
+    "id": 186,
+    "text": "गु खानेले गु खाए पनि मुल्नेले नचुटे",
+    "meaning": "Let the eater eat feces, but the speaker did not scratch."
+  },
+  {
+    "id": 187,
+    "text": "गु पुछेको टालो पनी बेलामा काम लाग्छ",
+    "meaning": "Even a patch used to wipe feces can be useful at the right time."
+  },
+  {
+    "id": 188,
+    "text": "गु लाई चलाए गन्ध",
+    "meaning": "If you move feces, it stinks."
+  },
+  {
+    "id": 189,
+    "text": "गुनले गुन खान्छ, तँलाई म खान्छु",
+    "meaning": "Virtue eats virtue; I will eat you."
+  },
+  {
+    "id": 190,
+    "text": "गुन्दुक पकाउनु पर्दैन, साली फकाउनु पर्दैन",
+    "meaning": "You don't need to cook a gun, you don't need to coax a sister-in-law."
+  },
+  {
+    "id": 191,
+    "text": "गुन्दुकलाई पकाउनु पर्दैन",
+    "meaning": "You don't need to cook a gun."
+  },
+  {
+    "id": 192,
+    "text": "गुरु मान्नु बुझेर, बिहे गर्नु रोजेर, पानी खानु छानेर, कुरो गर्नु जानेर",
+    "meaning": "Respect a teacher wisely, marry by choice, drink water after filtering, speak with knowledge."
+  },
+  {
+    "id": 193,
+    "text": "गुरू गुँढ चेला चिनी",
+    "meaning": "The master is a lump, the disciple is sugar."
+  },
+  {
+    "id": 194,
+    "text": "गुलाई चलाए गन्ध",
+    "meaning": "If you stir the lump, it stinks."
+  },
+  {
+    "id": 195,
+    "text": "गोडा मुती न्यानो",
+    "meaning": "Feet and fists are warm."
+  },
+  {
+    "id": 196,
+    "text": "गोरु नभएको हली र ठेडी नभएको हलोको के काम",
+    "meaning": "What good is a plowman without an ox, or a plow without a beam?"
+  },
+  {
+    "id": 197,
+    "text": "गोलीको घाउ निको हुन्छ, बोली को हुँदैन",
+    "meaning": "A bullet wound heals, but a wound from words never does."
+  },
+  {
+    "id": 198,
+    "text": "घर न थर, पोडको रहर",
+    "meaning": "No house or lineage, but a desire for a woman."
+  },
+  {
+    "id": 199,
+    "text": "घर नखाएको छोरि, परदेश नखाएको छोरो",
+    "meaning": "A daughter who doesn't eat at home, a son who doesn't eat abroad."
+  },
+  {
+    "id": 200,
+    "text": "घर नभएको छोरो र सुत्केरी नभएको बुहारी",
+    "meaning": "A son without a house, a daughter-in-law who hasn't given birth."
+  },
+  
+  {
+    "id": 201,
+    "text": "घरको बाघ वनको बिरालो",
+    "meaning": "A tiger at home, a cat in the jungle."
+  },
+  {
+    "id": 202,
+    "text": "घरमा चामल सकिएको दिन एकादशी, गोजीमा पैसो सकिएको दिन औंसी",
+    "meaning": "The day rice runs out at home is Ekadashi; the day money runs out is new moon."
+  },
+  {
+    "id": 203,
+    "text": "घरमा छैन तेल, खान खोज्छ सेल",
+    "meaning": "No oil at home, but wants to eat a fried bread."
+  },
+  {
+    "id": 204,
+    "text": "घरमा भुसाहा छैन, खल्तीमा चुरोट",
+    "meaning": "No broom at home, but a cigarette in the pocket."
+  },
+  {
+    "id": 205,
+    "text": "घरै पिँडालु, बने पिँडालु, ससुराली गयो बाह हातको पिँडालु",
+    "meaning": "Taro at home, taro in the forest; went to in-laws and got eight-hand taro."
+  },
+  {
+    "id": 206,
+    "text": "घरै पोले पछि खरानीको के पिर",
+    "meaning": "After burning the house, who cares about the ash?"
+  },
+  {
+    "id": 207,
+    "text": "घाँटी हेरी हाइनेक किन्नु",
+    "meaning": "Buy a necklace according to your neck."
+  },
+  {
+    "id": 208,
+    "text": "घाँटी हेरेर हाड निल्नु",
+    "meaning": "Swallow a bone according to your throat."
+  },
+  {
+    "id": 209,
+    "text": "घित न तेल पका बुढी सेल",
+    "meaning": "No ghee or oil, cook old woman's fried bread."
+  },
+  {
+    "id": 210,
+    "text": "घिच्न जान्दैनन् पकाउनेलाई दोष",
+    "meaning": "Don't know how to pull, but blames the cook."
+  },
+  {
+    "id": 211,
+    "text": "घुमि फिरी रुम्जाटार",
+    "meaning": "Spinning around, Rumjatar."
+  },
+  {
+    "id": 212,
+    "text": "घैया रोपेर धान फल्दैन",
+    "meaning": "Planting a tuber does not yield rice."
+  },
+  {
+    "id": 213,
+    "text": "घोडा चड्ने मान्छे लड्छ",
+    "meaning": "A person who rides a horse eventually falls."
+  },
+  {
+    "id": 214,
+    "text": "घ्यु केमा पोखियो? दालमा",
+    "meaning": "Where did the ghee spill? In the dal."
+  },
+  {
+    "id": 215,
+    "text": "चकचके गोरुको चार ठाउँमा डाम, ठुलो माछो लड्यो समातेर खाम",
+    "meaning": "A restless ox gets tied in four places; a big fish fell, caught and kept in a cage."
+  },
+  {
+    "id": 216,
+    "text": "चण्डाललाई रुद्राक्षको माला",
+    "meaning": "A rosary of rudraksha for an untouchable."
+  },
+  {
+    "id": 217,
+    "text": "घघमण्डको घडा फुट्छ",
+    "meaning": "The pot of Ghaghmandu breaks."
+  },
+  {
+    "id": 218,
+    "text": "चरेस खानु तर हरेस नखानु",
+    "meaning": "Smoke hash, but don't lose heart."
+  },
+  {
+    "id": 219,
+    "text": "चाँदो लाग्ने आगो र मुख लाग्ने नोकर",
+    "meaning": "Fire that catches easily and a servant who talks back."
+  },
+  {
+    "id": 220,
+    "text": "चाल नपाई जाल नहान्नु",
+    "meaning": "Don't cast the net without knowing the current."
+  },
+  {
+    "id": 221,
+    "text": "चित्तीको पनि लोभ, पापाको पनि लोभ",
+    "meaning": "Greed for a leopard, greed for a pigeon."
+  },
+  {
+    "id": 222,
+    "text": "चित्ताले मरेपछि जलाउछ, चिन्ताले जिउदै जलाउछ",
+    "meaning": "A leopard burns after death, worry burns while alive."
+  },
+  {
+    "id": 223,
+    "text": "चित्तुवाको हजार गोठ",
+    "meaning": "A leopard has a thousand pens."
+  },
+  {
+    "id": 224,
+    "text": "चित्तीको भात भाते होइन, स्वास्नीको जात जाते होइन",
+    "meaning": "A leopard's rice is not a meal; a woman's caste is not caste."
+  },
+  {
+    "id": 225,
+    "text": "चिनीको नाम जपेर मुख गुलियो हुदैन",
+    "meaning": "Chanting the name of sugar does not sweeten the mouth."
+  },
+  {
+    "id": 226,
+    "text": "चिन्नु न जान्नु घचेडी माग्नु",
+    "meaning": "Neither know nor recognize, but ask for a push."
+  },
+  {
+    "id": 227,
+    "text": "चीनको राजा भोटको नून ज्यानै दिए नि नदेख्ने गुन",
+    "meaning": "The king of China and the salt of Tibet; even giving life doesn't show gratitude."
+  },
+  {
+    "id": 228,
+    "text": "चैतमा गोरु बेचेर पाखी किन्नु",
+    "meaning": "Sell an ox in Chaitra and buy a bird."
+  },
+  {
+    "id": 229,
+    "text": "चोर ऑला अरु तिर, बॉकी ऑला ऑफे तिर",
+    "meaning": "The thief comes from one side, the bucket comes from the other."
+  },
+  {
+    "id": 230,
+    "text": "चोरको खुट्टा काट भन्दा खुट्टा उचाल्ने",
+    "meaning": "Say cut the thief's foot, but he lifts his foot."
+  },
+  {
+    "id": 231,
+    "text": "चोरको साथी चोर",
+    "meaning": "A thief's friend is a thief."
+  },
+  {
+    "id": 232,
+    "text": "चोरको स्वर ठूलो, डॉकाको ऑखा ठूलो",
+    "meaning": "The thief has a loud voice, the robber has big eyes."
+  },
+  {
+    "id": 233,
+    "text": "चोरको हजार दाउ",
+    "meaning": "A thief has a thousand tricks."
+  },
+  {
+    "id": 234,
+    "text": "चोरलाई चौतारो, साधूलाई सुली",
+    "meaning": "A crossroads for a thief, a stake for a saint."
+  },
+  {
+    "id": 235,
+    "text": "चोरले अरुलाई पनि चोर नै देख्छ",
+    "meaning": "A thief sees everyone else as a thief."
+  },
+  {
+    "id": 236,
+    "text": "चौटा खान गएकी बूढी झोलमा डुबेर मरी",
+    "meaning": "The old woman who went to eat chauta died drowning in the broth."
+  },
+  {
+    "id": 237,
+    "text": "छट्टु छोरालाई पाटील लिदेन",
+    "meaning": "The youngest son does not take the headman's position."
+  },
+  {
+    "id": 238,
+    "text": "छन् गेडी सबै मेरी छैनन् गेडी सबै टेढी",
+    "meaning": "All buttons are mine, but not all buttons are crooked."
+  },
+  {
+    "id": 239,
+    "text": "छाडेको पोइ र हिडेको स्वास्नीको नाम कसले लिन्छ",
+    "meaning": "Who takes the name of a left husband and a walked-away wife?"
+  },
+  {
+    "id": 240,
+    "text": "छातीमा राखी कसले के नै लैजानु छ र",
+    "meaning": "Keeping it on the chest, what can anyone take away?"
+  },
+  {
+    "id": 241,
+    "text": "छालो जाला तर कालो जादैन",
+    "meaning": "The skin may go, but the black does not go away."
+  },
+  {
+    "id": 242,
+    "text": "छुचुन्द्रोको टाउकोमा चमेलीको तेल",
+    "meaning": "Jasmine oil on a shrew's head."
+  },
+  {
+    "id": 243,
+    "text": "छेत्री बिग्रियो मोजले, नेवार बिग्रियो भोजले",
+    "meaning": "A Chhetri is spoiled by pleasure, a Newar is spoiled by feasts."
+  },
+  {
+    "id": 244,
+    "text": "छेपारोको मन्त्र नजान्ने, साँपको दुलाँ हात घुसाने",
+    "meaning": "Doesn't know the lizard's mantra, but puts his hand into the snake's hole."
+  },
+  {
+    "id": 245,
+    "text": "छोरि जन्मे ज्वाईलाई, छोरो जन्मे बुहारीलाई",
+    "meaning": "When a daughter is born, it's for the son-in-law; when a son is born, it's for the daughter-in-law."
+  },
+  {
+    "id": 246,
+    "text": "छोरी कुटी बुहारी तह लाउनु",
+    "meaning": "Beat the daughter and educate the daughter-in-law."
+  },
+  {
+    "id": 247,
+    "text": "छोरीको बैंस बाबुले होइन अरुले देख्छन्",
+    "meaning": "A daughter's youth is seen by others, not by her father."
+  },
+  {
+    "id": 248,
+    "text": "छोरो उताउलो हूँदा घुँडा भाच्छ, छोरी उताउली हूँदा पोइला जान्छे",
+    "meaning": "When a son is impatient, he breaks his knee; when a daughter is impatient, she goes to her husband's home."
+  },
+  {
+    "id": 249,
+    "text": "जंगलमा मड्गल",
+    "meaning": "Mangal in the jungle."
+  },
+  {
+    "id": 250,
+    "text": "जता ओरालो उतै गंगाजी",
+    "meaning": "Wherever the slope goes, there goes the Ganges."
+  },
+  {
+    "id": 251,
+    "text": "जता काफल पाक्छ, त्यता चरी नाच्छ",
+    "meaning": "Wherever the Kafal fruit ripens, the bird dances there."
+  },
+  {
+    "id": 252,
+    "text": "जता खीर उतै भीड",
+    "meaning": "Wherever there is rice pudding, there is a crowd."
+  },
+  {
+    "id": 253,
+    "text": "जति खान नपाएर मर्छेन, त्यो भन्दा बढी खान नजानेर",
+    "meaning": "One doesn't die from not getting enough to eat, but from not knowing how to eat more."
+  },
+  {
+    "id": 254,
+    "text": "जति टाढा उति माया गाढा",
+    "meaning": "The farther the distance, the deeper the love."
+  },
+  {
+    "id": 255,
+    "text": "जति नड्रा उति दान्हा",
+    "meaning": "The less you sleep, the more you milk."
+  },
+  {
+    "id": 256,
+    "text": "जति भाँडो उति चुबुर्का",
+    "meaning": "As many pots, so many splashes."
+  },
+  {
+    "id": 257,
+    "text": "जति भान्छे त्यति खिचडी",
+    "meaning": "As many cooks, so many khichdis."
+  },
+  {
+    "id": 258,
+    "text": "जनतालाई गणतन्त्र, हर्ष न बिस्मात",
+    "meaning": "Republic for the people, neither joy nor sorrow."
+  },
+  {
+    "id": 259,
+    "text": "जब भयो राती, तब बुढी ताती",
+    "meaning": "When night falls, then the old woman warms up."
+  },
+  {
+    "id": 260,
+    "text": "जलै बिष्णु थलै बिष्णु, फाठेर कहाँ फाल्नु",
+    "meaning": "Vishnu in water, Vishnu on land; where to throw the scraped thing?"
+  },
+  {
+    "id": 261,
+    "text": "जसका छोरा उसका धन, जसका भैंसी उसका बन",
+    "meaning": "He who has sons has wealth; he who has buffaloes has the forest."
+  },
+  {
+    "id": 262,
+    "text": "जसकी आमा भान्छे, उसको छोरो भोके",
+    "meaning": "Whose mother is a cook, his son is a beggar."
+  },
+  {
+    "id": 263,
+    "text": "जसको छैन एक फाँक सुती, उसैले लगाउछ दस लाखको फुति",
+    "meaning": "He who doesn't have a single strip of cotton blames others for a ten-million defect."
+  },
+  {
+    "id": 264,
+    "text": "जसको डम्फू उसको ताल",
+    "meaning": "Whose drum it is, his rhythm."
+  },
+  {
+    "id": 265,
+    "text": "जसको तरबार उसको घरबार",
+    "meaning": "Whose sword it is, his home and property."
+  },
+  {
+    "id": 266,
+    "text": "जसको बाँदर उसैले नचाउँछ",
+    "meaning": "He who owns the monkey makes it dance."
+  },
+  {
+    "id": 267,
+    "text": "जसको लाठी उसको भैंसी",
+    "meaning": "Whose stick it is, his buffalo."
+  },
+  {
+    "id": 268,
+    "text": "जसको सिता खानु, उसको गीता गाउनु",
+    "meaning": "Whose rice you eat, his song you sing."
+  },
+  {
+    "id": 269,
+    "text": "जसरी आयो, त्यसरी गयो",
+    "meaning": "As it came, so it went."
+  },
+  {
+    "id": 270,
+    "text": "जसले बोक्छ भारी, खान्छ मेख मारी",
+    "meaning": "He who carries the burden eats the marrow."
+  },
+  {
+    "id": 271,
+    "text": "जसले पैसालाई चिन्दैन, तेस्लाई पैसाले पनी चिन्दैन",
+    "meaning": "He who does not respect money, money does not respect him either."
+  },
+  {
+    "id": 272,
+    "text": "जसले मह काढ्छ, उसले हात चाट्छ",
+    "meaning": "He who extracts honey licks his hand."
+  },
+  {
+    "id": 273,
+    "text": "जापानीले बेसार खाओस् न स्वाद पाओस्",
+    "meaning": "Let the Japanese eat turmeric, maybe he'll taste it."
+  },
+  {
+    "id": 274,
+    "text": "जसो जसो बराजु उसे उसे नाति",
+    "meaning": "The more modest the elder, the more generous the grandson."
+  },
+  {
+    "id": 275,
+    "text": "जसो जसो बाहुन बाजे, उसे उसे स्वाहा",
+    "meaning": "The more like a Brahmin the grandfather, the more Swaha to him."
+  },
+  {
+    "id": 276,
+    "text": "जित पाल्न भन्दा नाम पाल्न गाहो",
+    "meaning": "It is harder to maintain a name than to maintain a victory."
+  },
+  {
+    "id": 277,
+    "text": "जितेंदी कमारीको बाहबिसे पोइ, मदी कमारीको कोहि न कोहि",
+    "meaning": "The victorious servant has a husband far away; the defeated servant has someone or another."
+  },
+  {
+    "id": 278,
+    "text": "जित्दाको जन्ती, मदीको मलामी",
+    "meaning": "The procession of the winner, the funeral of the loser."
+  },
+  {
+    "id": 279,
+    "text": "जिते हस्तिनापुरको राज, हारे चपरी मुनीको बास",
+    "meaning": "Win and rule Hastinapur, lose and live under a thatch."
+  },
+  {
+    "id": 280,
+    "text": "जुत्ता लगाउनेको चुरिफुरी खोला आए पछि देखिन्छ",
+    "meaning": "A shoe wearer's sophistication is seen after the river comes."
+  },
+  {
+    "id": 281,
+    "text": "जुत्ताको माला लगाएको नेता छाला देख्दा तर्सन्छ",
+    "meaning": "A leader wearing a garland of shoes gets scared seeing leather."
+  },
+  {
+    "id": 282,
+    "text": "जुन गोरुको सिंग छैन उसैको नाम तिखे",
+    "meaning": "The ox that has no horns is named Tikhay."
+  },
+  {
+    "id": 283,
+    "text": "जुन जोगी आएपनि कानै चिरेको",
+    "meaning": "Whichever hermit comes, his ear is already pierced."
+  },
+  {
+    "id": 284,
+    "text": "जुन थालमा खायो, त्यही थालमा हग्छ",
+    "meaning": "He eats in the same plate he defecates."
+  },
+  {
+    "id": 285,
+    "text": "जुन नेता आए पनि घुस खान नछाड्ने",
+    "meaning": "Whichever leader comes, he does not stop taking bribes."
+  },
+  {
+    "id": 286,
+    "text": "जुनकिरीको पिंधले स्वर्ग उज्यालो हुदैन",
+    "meaning": "The light of a firefly does not brighten heaven."
+  },
+  {
+    "id": 287,
+    "text": "जुवाको धन गन्दै नगन",
+    "meaning": "Do not count wealth earned from gambling."
+  },
+  {
+    "id": 288,
+    "text": "जेठाज्यूको हातको कोदालो सजिलो",
+    "meaning": "The spade in elder brother's hand is easy."
+  },
+  {
+    "id": 289,
+    "text": "जेठी बुढीको राम्रो कुरा तितो, कान्छीको चाहिँ झटारो नै मिठो",
+    "meaning": "The good advice of the first wife is bitter, but even a quarrel with the youngest wife is sweet."
+  },
+  {
+    "id": 290,
+    "text": "जो अगुवा उही बाटो हगुवा",
+    "meaning": "Whoever is the leader, the path is the same."
+  },
+  {
+    "id": 291,
+    "text": "जो चोर उसकै ठुलो स्वर",
+    "meaning": "The thief himself has the loudest voice."
+  },
+  {
+    "id": 292,
+    "text": "जो डयाँ, सो मयाँ",
+    "meaning": "Whoever is the flier is the peacock."
+  },
+  {
+    "id": 293,
+    "text": "जो निर्धन उसैको नाम धन प्रसाद",
+    "meaning": "He who is poor, his name is Dhan Prasad."
+  },
+  {
+    "id": 294,
+    "text": "जो बोक्सी, उही सुँडेनी",
+    "meaning": "Whoever is the witch is also the sniffer."
+  },
+  {
+    "id": 295,
+    "text": "जो हात, सो साथ",
+    "meaning": "Whoever's hand, that is the support."
+  },
+  {
+    "id": 296,
+    "text": "जो होचो उसको मुखमा घोचो",
+    "meaning": "He who is short, a spike in his mouth."
+  },
+  {
+    "id": 297,
+    "text": "जोईको जोई पोईको पोई हामी बीचमा कोई न कोई",
+    "meaning": "Wife's wife, husband's husband; between us, there is someone."
+  },
+  {
+    "id": 298,
+    "text": "जोगी देख्दा भैंसी तर्सिने, भैंसी देख्दा जोगी तर्सिने",
+    "meaning": "Buffalo gets scared seeing a hermit, hermit gets scared seeing a buffalo."
+  },
+  {
+    "id": 299,
+    "text": "जोगीको घरमा सन्यासी पाहूना",
+    "meaning": "A hermit is a guest at a hermit's house."
+  },
+  {
+    "id": 300,
+    "text": "जोगीको घरमा हिप्पी पाहूना",
+    "meaning": "A hippie is a guest at a hermit's house."
+  },
+  {
+    "id": 301,
+    "text": "झाल रहे चिचिला लाग्छ",
+    "meaning": "If there is a grating sound, it feels sharp."
+  },
+  {
+    "id": 302,
+    "text": "झिंगाको डिंगाले हाती मर्दैन",
+    "meaning": "An elephant does not die from a fly's sting."
+  },
+  {
+    "id": 303,
+    "text": "झिङ्गो मारि धार्नी न बिसौली",
+    "meaning": "Killed the fly, but no handle or winnowing fan."
+  },
+  {
+    "id": 304,
+    "text": "झुकेको शिर र भत्केको भिर प्रति कसैको आश हुदैन",
+    "meaning": "No one has hope for a bowed head or a collapsed cliff."
+  },
+  {
+    "id": 305,
+    "text": "झुटो बोल्नेले छिटो कसम खान्छ",
+    "meaning": "A liar takes an oath quickly."
+  },
+  {
+    "id": 306,
+    "text": "टपरी माझेर कहिल्यै चोखिदैन",
+    "meaning": "No matter how much you wash a leaf plate, it never becomes clean."
+  },
+  {
+    "id": 307,
+    "text": "टपरीमा भात, हातमा सिन्को, निर्बाह भयो आजको दिनको",
+    "meaning": "Rice on a leaf plate, a twig in hand, today's living is managed."
+  },
+  {
+    "id": 308,
+    "text": "टल्कदैमा सुन हुदैन",
+    "meaning": "Just because it shines does not make it gold."
+  },
+  {
+    "id": 309,
+    "text": "टाढाको देउता भन्दा नजिकको भुत काम लाग्छ",
+    "meaning": "A nearby ghost is more useful than a faraway god."
+  },
+  {
+    "id": 310,
+    "text": "टाढाको देउता, करेसाको भुत",
+    "meaning": "A distant god, a garden ghost."
+  },
+  {
+    "id": 311,
+    "text": "टुपी समाएर गालामा चड्कन",
+    "meaning": "Hold the topknot and slap the cheek."
+  },
+  {
+    "id": 312,
+    "text": "टुप्पीभन्दा माथि थात छैन, बाहूनभन्दा माथि जात छैन",
+    "meaning": "There is no nest above the topknot, no caste above a Brahmin."
+  },
+  {
+    "id": 313,
+    "text": "टुहुराको पनि दिन फर्कन्छ",
+    "meaning": "Even an orphan's day turns around."
+  },
+  {
+    "id": 314,
+    "text": "टुहुराको सहारा दैव",
+    "meaning": "God is the only support of an orphan."
+  },
+  {
+    "id": 315,
+    "text": "टोपी न सोपी, कपाल केले छोपी",
+    "meaning": "No cap or anything, what will cover the hair?"
+  },
+  {
+    "id": 316,
+    "text": "ठाउँ न ठहर, बूढीको रहर",
+    "meaning": "No place or fix, an old woman's desire."
+  },
+  {
+    "id": 317,
+    "text": "ठाउँमा लगाए गाजल, कुठाउँमा लगाए मोसो",
+    "meaning": "Put kajal in the right place, put soot in the wrong place."
+  },
+  {
+    "id": 318,
+    "text": "ठाडो टिका लाउछे, स्वामी कहाँ धाउछे",
+    "meaning": "She puts a vertical tika, where will she run for her husband?"
+  },
+  {
+    "id": 319,
+    "text": "ठेस लागेन भने उखुबारी पस्नु, ऋण लागेन भने जमानी बस्नु",
+    "meaning": "If you don't get a push, don't enter the sugarcane field; if you don't have debt, don't stand as guarantor."
+  },
+  {
+    "id": 320,
+    "text": "ठेस लाग्न भिर चाहिन्न",
+    "meaning": "A cliff is not needed to get a push."
+  },
+  {
+    "id": 321,
+    "text": "ठेस नलागे उखुबारी पस्नु",
+    "meaning": "Don't enter the sugarcane field without getting a push."
+  },
+  {
+    "id": 322,
+    "text": "डढेको मुखमा खुदो हालेको रोटि",
+    "meaning": "A bread with mud smeared on a burnt mouth."
+  },
+  {
+    "id": 323,
+    "text": "डरलाग्दा मान्छेका घिनलाग्दा कुरा",
+    "meaning": "Fearful people have disgusting words."
+  },
+  {
+    "id": 324,
+    "text": "डराउने मान्छेलाई रुखको ठुटो पनि बाघ बन्छ",
+    "meaning": "For a fearful person, even a tree stump becomes a tiger."
+  },
+  {
+    "id": 325,
+    "text": "डाँकाले खाएको धन, आगोले खाएको बन",
+    "meaning": "Wealth eaten by a robber, forest eaten by fire."
+  },
+  {
+    "id": 326,
+    "text": "ढाँटको निम्तो खाई पत्याउनु",
+    "meaning": "Eat a deceiver's invitation and trust him."
+  },
+  {
+    "id": 327,
+    "text": "ढिँडो र फाँडो एउटै हो",
+    "meaning": "The lump and the split are the same."
+  },
+  {
+    "id": 328,
+    "text": "दिकील सवगमा पनि धानै कुट्छ",
+    "meaning": "Even in Dikil Savaga, they pound rice."
+  },
+  {
+    "id": 329,
+    "text": "दिले होस् तर छोरो होस्",
+    "meaning": "Let it be the heart, but let it be a son."
+  },
+  {
+    "id": 330,
+    "text": "ढुंगा खोज्दा देउता मिल्नु",
+    "meaning": "While searching for a stone, found a god."
+  },
+  {
+    "id": 331,
+    "text": "ढुंगाको भर माटो, माटोको भर ढुंगा",
+    "meaning": "Soil depends on stone, stone depends on soil."
+  },
+  {
+    "id": 332,
+    "text": "ढुटेकी छोरी कननकाको खानेमा परी, कननका देखेर उफेर मरी",
+    "meaning": "The fallen daughter ended up eating at Kananko's, saw Kananka and jumped and died."
+  },
+  {
+    "id": 333,
+    "text": "तँ आँट म पु¥याउँछु",
+    "meaning": "You dare, I will get it there."
+  },
+  {
+    "id": 334,
+    "text": "तँ आउँदा मोही पाईनस, तेरो कमारी पठाईदे दही दिउँला",
+    "meaning": "When you came, I didn't get a tenant; send your maidservant, I'll give you yogurt."
+  },
+  {
+    "id": 335,
+    "text": "तँ कुटे जस्तो गर, म रोए जस्तो गर्छु",
+    "meaning": "You do as if you beat me, I will do as if I cry."
+  },
+  {
+    "id": 336,
+    "text": "तन्नेरीको साथमा तरुनीको नासो",
+    "meaning": "A young woman's claim with a young man's company."
+  },
+  {
+    "id": 337,
+    "text": "तरुनी हुँदा सयवटा पोई, मरन् बेला कोइ न कोइ",
+    "meaning": "When young, a hundred husbands; at the time of death, someone or no one."
+  },
+  {
+    "id": 338,
+    "text": "ताउलोमा जाउलो छैन, प्रधान शत्रु अमेरिका",
+    "meaning": "No rice in the pot, but the main enemy is America."
+  },
+  {
+    "id": 339,
+    "text": "ताक परे तिवारी नत्र गोतामे",
+    "meaning": "When the occasion comes, a khukuri; otherwise, a lump."
+  },
+  {
+    "id": 340,
+    "text": "ताकेर हान, हानेपछि छिनाल",
+    "meaning": "Take aim and hit; after hitting, it's fate."
+  },
+  {
+    "id": 341,
+    "text": "तातै खाऊँ जली मगँ",
+    "meaning": "Let me eat it hot, even if it burns."
+  },
+  {
+    "id": 342,
+    "text": "तातो दुध निल्नु न ओकल्नु",
+    "meaning": "Can neither swallow nor spit out hot milk."
+  },
+  {
+    "id": 343,
+    "text": "तातो पानीले घर डढ्दैन",
+    "meaning": "Hot water does not burn the house."
+  },
+  {
+    "id": 344,
+    "text": "ताप्के ताते पो काम हुन्छ, बिँड मात्रै तातेर के काम",
+    "meaning": "Work gets done only when the blade is hot; what is the use of just heating the handle?"
+  },
+  {
+    "id": 345,
+    "text": "तालिममा पसिना बगाउनेले लडाईमा रगत बगाउन पर्दैन",
+    "meaning": "He who sweats in training does not have to shed blood in battle."
+  },
+  {
+    "id": 346,
+    "text": "तावाबाट फुत्केर भुइग्योमा",
+    "meaning": "Escaped from the frying pan and fell into the floor."
+  },
+  {
+    "id": 347,
+    "text": "तित्राको मुखै वैरी",
+    "meaning": "The partridge's own mouth is its enemy."
+  },
+  {
+    "id": 348,
+    "text": "तित्रो बास्यो आफ्नै खती",
+    "meaning": "Bitterness arose from one's own fault."
+  },
+  {
+    "id": 349,
+    "text": "तिम्रो पोड लोते लोते, कसले दियो पोते",
+    "meaning": "Your desire is dangling, who gave you the bead?"
+  },
+  {
+    "id": 350,
+    "text": "तिर्खा धाउँछ, खोला धाउँदैन",
+    "meaning": "Thirst runs, the river does not run."
+  },
+  {
+    "id": 351,
+    "text": "तीर्थ न ब्रत, भुडी भर्त",
+    "meaning": "No pilgrimage or fasting, just a full belly."
+  },
+  {
+    "id": 352,
+    "text": "तीजको झरी, चेलीबेटीको आँसु",
+    "meaning": "Rain during Teej, tears of daughters."
+  },
+  {
+    "id": 353,
+    "text": "तेरो पो धान छन्, कुट्यो खायो, आफ्ना त चामल छन्, कहिले निफन्नु कहिले केलाउनु",
+    "meaning": "You have paddy, pounded and ate; I have rice, sometimes winnowing, sometimes sorting."
+  },
+  {
+    "id": 354,
+    "text": "तेल कम चिडचिड ज्यादा",
+    "meaning": "Less oil, more irritation."
+  },
+  {
+    "id": 355,
+    "text": "तँ रानी म रानी, को भला कुवाको पानी",
+    "meaning": "You are a queen, I am a queen; who is good for the well's water?"
+  },
+  {
+    "id": 356,
+    "text": "थाकेको बेलामा पाकेको केरा",
+    "meaning": "A ripe banana when tired."
+  },
+  {
+    "id": 357,
+    "text": "थापा गयो नेपाल, खेत भयो सस्तै, कुलो लग्यो पहिरोले, जस्ताको तस्तै",
+    "meaning": "Nepal lost its Thapa, fields became cheap; landslide took the canal, same as before."
+  },
+  {
+    "id": 358,
+    "text": "थारुलाई दारु र मुसा भए केही चाहिँदैन",
+    "meaning": "If a Tharu has liquor and a mouse, he needs nothing else."
+  },
+  {
+    "id": 359,
+    "text": "थुत्नो र मुत्नो जोगाउनु",
+    "meaning": "Protect the mouth and the urinary organ."
+  },
+  {
+    "id": 360,
+    "text": "थैली बलियो भए साथीको के कलम",
+    "meaning": "If the purse is strong, what does a friend's pen matter?"
+  },
+  {
+    "id": 361,
+    "text": "थोत्रो घरमा मुसाको रजाई",
+    "meaning": "A mouse's quilt in a dilapidated house."
+  },
+  {
+    "id": 362,
+    "text": "थोपा थोपा लमलेर सागर बन्छ",
+    "meaning": "Drip by drip, the ocean is formed."
+  },
+  {
+    "id": 363,
+    "text": "थोपडा न सोप्डा प्रियंका चोपडा",
+    "meaning": "No slap or anything, Priyanka Chopra."
+  },
+  {
+    "id": 364,
+    "text": "थोरे भए ठिक्क, धेरे भए ठिक्क",
+    "meaning": "Few is fine, many is also fine."
+  },
+  {
+    "id": 365,
+    "text": "दमाइको लुगामा तुना छिनेको",
+    "meaning": "A tailor's clothes have the thread cut."
+  },
+  {
+    "id": 366,
+    "text": "दरबारमा जन्मदैमा सबैजना राजा हुदैनन्",
+    "meaning": "Just being born in a palace does not make everyone a king."
+  },
+  {
+    "id": 367,
+    "text": "दरबारमा प्रवेश गर्दैमा साँढे राजा बन्दैन, बरु दरबार गोठ बन्छ",
+    "meaning": "Just entering the palace does not make a bull a king; rather, the palace becomes a cowshed."
+  },
+  {
+    "id": 368,
+    "text": "दशा भनेको बाजा बजाएर आउँदैन",
+    "meaning": "Bad times do not come playing music."
+  },
+  {
+    "id": 369,
+    "text": "दशा लागेको बेला नभरेको बन्दुक पनि पडकन्छ",
+    "meaning": "During bad times, even an unloaded gun goes off."
+  },
+  {
+    "id": 370,
+    "text": "दाजुलाई सक्दिन, भाउजुलाई राख्दिन",
+    "meaning": "Can't finish the elder brother, won't keep the sister-in-law."
+  },
+  {
+    "id": 371,
+    "text": "दाजुसँग काम लिनु छ भने भाउजु रिझाउनु, श्रीमान फकाउनु छ भने सासु रिझाउनु",
+    "meaning": "If you want work from the elder brother, please the sister-in-law; if you want to coax the husband, please the mother-in-law."
+  },
+  {
+    "id": 372,
+    "text": "दाहिने हातले खाप्पनि देख्ने हातले खाप्पनि पर्ने त उही मुखमा नै हो",
+    "meaning": "Whether the right hand slaps or the seeing hand slaps, it falls on the same face."
+  },
+  {
+    "id": 373,
+    "text": "दिउ आफू नाड्गो, नदिउ इष्ट बाड्गो",
+    "meaning": "Give and I am naked, don't give and my friend is crooked."
+  },
+  {
+    "id": 374,
+    "text": "दिउ आफू रितो, नदिउ इष्टको मुख बाड्गो",
+    "meaning": "Give and I am empty, don't give and my friend's mouth is crooked."
+  },
+  {
+    "id": 375,
+    "text": "दिन उजेली सुती बिताइ, रात उजेली बिस्कुन सुकाइ",
+    "meaning": "Spent the bright day sleeping, drying biscuits in the bright night."
+  },
+  {
+    "id": 376,
+    "text": "दिनमा कमिनी कपाल कोर रातमा कमिनी घोचा चोर",
+    "meaning": "During the day, comb the servant's hair; at night, the servant is a thorn and a thief."
+  },
+  {
+    "id": 377,
+    "text": "दुःखीलाई दिन्छु नभन्नू, विधवालाई लान्छु नभन्नु",
+    "meaning": "Don't say 'I will give to the poor', don't say 'I will take the widow'."
+  },
+  {
+    "id": 378,
+    "text": "दुःख पाइस मंगले आफ्नै ढड्गले",
+    "meaning": "You got trouble, Mangale, in your own way."
+  },
+  {
+    "id": 379,
+    "text": "दुइ जोइको पोइ, कुना बसी रोइ",
+    "meaning": "A husband of two wives sits in a corner and cries."
+  },
+  {
+    "id": 380,
+    "text": "दुइटी बुहारी, एउटा बुलाकी",
+    "meaning": "Two daughters-in-law, one nose ring."
+  },
+  {
+    "id": 381,
+    "text": "दुई जोइको पोइ, अन्तिममा कोही न कोही",
+    "meaning": "A husband of two wives, in the end, someone or no one."
+  },
+  {
+    "id": 382,
+    "text": "दुधको साक्षी बिरालो",
+    "meaning": "The cat is the witness to the milk."
+  },
+  {
+    "id": 383,
+    "text": "दुबो मौलाएँ मौलाउनु तर कुकुर बौलाएँ नबौलाउनु",
+    "meaning": "Let the grass flourish, but let the dog not go mad."
+  },
+  {
+    "id": 384,
+    "text": "दुर्गन्धित भन्ने थाहा पापपछि उधिनिरहनु पर्दैन",
+    "meaning": "Knowing it stinks, you don't need to keep digging after sin."
+  },
+  {
+    "id": 385,
+    "text": "दुश्मन खोज्न टाढा जानु पर्दैन",
+    "meaning": "You don't need to go far to find an enemy."
+  },
+  {
+    "id": 386,
+    "text": "दूध दिने गाईको लाती पनि सहनुपर्छ",
+    "meaning": "You have to bear the kick of a cow that gives milk."
+  },
+  {
+    "id": 387,
+    "text": "देख्नेका आँखा फुटे सुन्नेका सही",
+    "meaning": "If the seer's eyes burst, the listener's proof is gone."
+  },
+  {
+    "id": 388,
+    "text": "दैवले दिन्छ, पित्ने हर्छ",
+    "meaning": "God gives, the spender rejoices."
+  },
+  {
+    "id": 389,
+    "text": "दौरा न सौराको खल्नी",
+    "meaning": "A shed for neither the gown nor the helper."
+  },
+  {
+    "id": 390,
+    "text": "धन कमाई धाक, साथी कमाई लाख",
+    "meaning": "Earning wealth is boast, earning a friend is a million."
+  },
+  {
+    "id": 391,
+    "text": "धन देख्दा महादेवको तीन नेत्र",
+    "meaning": "Seeing wealth, even Lord Shiva has three eyes."
+  },
+  {
+    "id": 392,
+    "text": "धन भने पछि महादेवको पनि तीन नेत्र",
+    "meaning": "When wealth is mentioned, even Lord Shiva has three eyes."
+  },
+  {
+    "id": 393,
+    "text": "धन परेको भन्दा मन परेको राम्रो",
+    "meaning": "What is liked by the heart is better than what is liked by wealth."
+  },
+  {
+    "id": 394,
+    "text": "धनै रह्यो, मनै रह्यो",
+    "meaning": "Wealth remains, heart remains."
+  },
+  {
+    "id": 395,
+    "text": "धर्ममा बसेकी स्वास्नी एउटैको, पोडला हिडेकी सबैको",
+    "meaning": "A woman who stays in dharma is for one man; one who walks in desire is for everyone."
+  },
+  {
+    "id": 396,
+    "text": "धाक भन्दा धक्कु ठुलो, हिड्ने बेला खुट्टा लुलो",
+    "meaning": "The push is bigger than the boast; at the time of walking, the leg is lame."
+  },
+  {
+    "id": 397,
+    "text": "धान खाने मुसा, चोट पाउने भ्यागुतो",
+    "meaning": "The mouse eats the rice, the frog gets the beating."
+  },
+  {
+    "id": 398,
+    "text": "धान पाके निहरन्छ, कोदो पाके ठडिन्छ",
+    "meaning": "Rice bends when ripe, millet stands straight when ripe."
+  },
+  {
+    "id": 399,
+    "text": "धेरै खाए मल, थोरै खाए बल",
+    "meaning": "Eat too much, it's waste; eat a little, it's strength."
+  },
+  {
+    "id": 400,
+    "text": "धेरै खायो भने चीनी पनि तितो हुन्छ",
+    "meaning": "If you eat too much, even sugar becomes bitter."
+  },
+  {
+    "id": 401,
+    "text": "धेरै बिरालो हुँदा मुसा मर्दैन",
+    "meaning": "When there are too many cats, the mice don't die."
+  },
+  {
+    "id": 402,
+    "text": "धोबीको कुकुर, घरको न घाटको",
+    "meaning": "A washerman's dog belongs to neither home nor the riverbank."
+  },
+  {
+    "id": 403,
+    "text": "धोबीको कुता यता न उता",
+    "meaning": "A washerman's dog is neither here nor there."
+  },
+  {
+    "id": 404,
+    "text": "धोबीलाई हतार भयो भन्दैमा रातिमा घाम लाग्दैन",
+    "meaning": "Just because a washerman is in a hurry doesn't mean the sun will rise at night."
+  },
+  {
+    "id": 405,
+    "text": "न आमा पट्टिको न मामा पट्टिको",
+    "meaning": "Neither from the mother's side nor from the uncle's side."
+  },
+  {
+    "id": 406,
+    "text": "न धुँदा जाने, न रूँदा जाने",
+    "meaning": "Doesn't know how to wash, doesn't know how to cry."
+  },
+  {
+    "id": 407,
+    "text": "नकचरा को ओखति छैन",
+    "meaning": "There is no cure for clumsiness."
+  },
+  {
+    "id": 408,
+    "text": "नक्कल गर्न पनि अक्कल चाहिन्छ",
+    "meaning": "Even to imitate, you need intelligence."
+  },
+  {
+    "id": 409,
+    "text": "नखाउँ भने दिन भरीको सिकार, खाउँ भने कान्छा बाउको अनुहार",
+    "meaning": "If I don't eat, it's a day-long hunt; if I eat, it's the face of the youngest father."
+  },
+  {
+    "id": 410,
+    "text": "नडले चिमोटे हुनेलाई बन्चरो किन लगाउने",
+    "meaning": "Why use a curved knife on someone who gets pinched without stepping?"
+  },
+  {
+    "id": 411,
+    "text": "नजाने गाउँको बाटो नसोध्नु",
+    "meaning": "Don't ask for the road to a village you don't know."
+  },
+  {
+    "id": 412,
+    "text": "नजाने शहरको GPS नलगाउनु",
+    "meaning": "Don't use GPS for a city you don't know."
+  },
+  {
+    "id": 413,
+    "text": "नजिकको तीर्थ हेला",
+    "meaning": "A nearby pilgrimage is neglected."
+  },
+  {
+    "id": 414,
+    "text": "नजानेको लडाइँ नलडेकै राम्रो",
+    "meaning": "A battle you don't know is best not fought."
+  },
+  {
+    "id": 415,
+    "text": "नदिने बजैले बुधबार बाँछन्",
+    "meaning": "A miserly trader picks Wednesday (an inauspicious day to ask)."
+  },
+  {
+    "id": 416,
+    "text": "नदुखेको कपाल डोरी लगाई लगाई किन दुखाउनु",
+    "meaning": "Why hurt hair that doesn't hurt by putting a rope on it again and again?"
+  },
+  {
+    "id": 417,
+    "text": "नपत्याउने खोलाले बगाउँछ",
+    "meaning": "The river you don't trust will sweep you away."
+  },
+  {
+    "id": 418,
+    "text": "नपाउनेले केरा पायो बियर संगै खायो",
+    "meaning": "One who never gets anything got a banana and ate it with beer."
+  },
+  {
+    "id": 419,
+    "text": "नपाउनेले केरा पायो बोक्रा समेत चपायो",
+    "meaning": "One who never gets anything got a banana and chewed even the peel."
+  },
+  {
+    "id": 420,
+    "text": "नपाउनेले केरा पायो, चियामा चोपी खायो",
+    "meaning": "One who never gets anything got a banana, dipped it in tea and ate it."
+  },
+  {
+    "id": 421,
+    "text": "नपाउनेले छोरो पायो, खेलाई खेलाई माया",
+    "meaning": "One who never got a son got one, loves him by playing with him."
+  },
+  {
+    "id": 422,
+    "text": "नबिराउने नडराउने",
+    "meaning": "Neither forgets nor fears."
+  },
+  {
+    "id": 423,
+    "text": "नबोलाएको ठाउँमा कुकुर मात्रै जान्छ",
+    "meaning": "Only a dog goes where it's not called."
+  },
+  {
+    "id": 424,
+    "text": "नबोल्नेको कोहि पनि बैरी हुदैन",
+    "meaning": "One who doesn't speak has no enemies."
+  },
+  {
+    "id": 425,
+    "text": "नभएकी स्वास्नी कस्ती कस्ती, भएकी स्वास्नी सस्ती",
+    "meaning": "A wife you don't have, what kind? A wife you have is cheap."
+  },
+  {
+    "id": 426,
+    "text": "नभरेको गाफो छपक्क छिट्टै",
+    "meaning": "An unloaded gun clicks quickly."
+  },
+  {
+    "id": 427,
+    "text": "नभेटुन्जेल उसैको पिरलो, भेटेपछि कुकुर र बिरालो",
+    "meaning": "Worried about him until they meet; after meeting, like dogs and cats."
+  },
+  {
+    "id": 428,
+    "text": "नमच्चने पिडको सय झडका",
+    "meaning": "A hundred jerks for a lump that won't go down."
+  },
+  {
+    "id": 429,
+    "text": "नयाँ जोगी खरानी धेरै घस्ट",
+    "meaning": "A new hermit rubs a lot of ash."
+  },
+  {
+    "id": 430,
+    "text": "नयाँ दुलही चुरा धेरै बजाउँछिन्",
+    "meaning": "A new bride jingles her bangles a lot."
+  },
+  {
+    "id": 431,
+    "text": "नशा भनेको सुतीले पनि दिन्छ",
+    "meaning": "Even cotton gives intoxication."
+  },
+  {
+    "id": 432,
+    "text": "नहुने मामा भन्दा काने मामा जाती",
+    "meaning": "A one-eared uncle is better than an uncle who doesn't exist."
+  },
+  {
+    "id": 433,
+    "text": "नाकमुनि कन्दनी",
+    "meaning": "Chewing under the nose (muttering)."
+  },
+  {
+    "id": 434,
+    "text": "नाच्न नजान्ने आँगन टेढो",
+    "meaning": "One who can't dance says the yard is crooked."
+  },
+  {
+    "id": 435,
+    "text": "नातिनिको कुतर्क सुरुवालमा हजुरआमाको रजाई",
+    "meaning": "Grandmother's quilt in the great-granddaughter's trousers."
+  },
+  {
+    "id": 436,
+    "text": "नानी भन्दा आची ठूलो",
+    "meaning": "The grandmother is bigger than the granddaughter."
+  },
+  {
+    "id": 437,
+    "text": "नाफा भए पेश, घाटा भए दशा",
+    "meaning": "If profit, it's profession; if loss, it's fate."
+  },
+  {
+    "id": 438,
+    "text": "नाम होस् या बदनाम, तर नहोस् गुमनाम",
+    "meaning": "Whether name or bad name, may it not be anonymous."
+  },
+  {
+    "id": 439,
+    "text": "नामदिक जोइ हुनुभन्दा मदिक कमारी हुनु जाति",
+    "meaning": "Being a lowly maidservant is better than being a high-caste wife with a bad name."
+  },
+  {
+    "id": 440,
+    "text": "नामदलाई लुतो",
+    "meaning": "Mange for the nameless."
+  },
+  {
+    "id": 441,
+    "text": "नारीको भाग्य बिहान सोह्र साँझ चौसठ्ठी",
+    "meaning": "A woman's fate: sixteen in the morning, sixty-four in the evening."
+  },
+  {
+    "id": 442,
+    "text": "ननभन लागेको बत्ती चहककिलो बल्छ",
+    "meaning": "A lamp that is not forbidden shines brightly."
+  },
+  {
+    "id": 443,
+    "text": "नेवार इस्ट र बाउ दुष्ट कहिल्यै हुँदैन",
+    "meaning": "A Newar is never a friend, and a father is never evil."
+  },
+  {
+    "id": 444,
+    "text": "नेवार बिग्रियो भोजले, बाहुन बिग्रियो मोजले",
+    "meaning": "A Newar is spoiled by feasts, a Brahmin is spoiled by pleasure."
+  },
+  {
+    "id": 445,
+    "text": "नौलो छँदा नौ पुलाको गाँस, पूरानो भएपछि जगल्टाको नाश",
+    "meaning": "When new, nine pula of food; when old, the destruction of a heap."
+  },
+  {
+    "id": 446,
+    "text": "न्याउरी मारी पछतो",
+    "meaning": "Regret after killing the mongoose."
+  },
+  {
+    "id": 447,
+    "text": "न्याय नपाए गोर्खा जानु",
+    "meaning": "If you don't get justice, go to Gorkha."
+  },
+  {
+    "id": 448,
+    "text": "पटुकामा रुपैया, बटुकामा भात",
+    "meaning": "Money in the waist pouch, rice in the begging bowl."
+  },
+  {
+    "id": 449,
+    "text": "पदिलेखी छैन काम, चम्चागिगरी गरी खायो माम",
+    "meaning": "No work from the office, spooned it and ate."
+  },
+  {
+    "id": 450,
+    "text": "पढेर भन्दा परेर जानिन्छ",
+    "meaning": "One is known by falling rather than by reading."
+  },
+  {
+    "id": 451,
+    "text": "पढ्यो गुन्यो के काम, हलो जोत्यो खायो माम",
+    "meaning": "What's the use of reading and counting? Plowed the field and ate."
+  },
+  {
+    "id": 452,
+    "text": "पानी लागेर माछा मर्दैन",
+    "meaning": "A fish does not die from getting water."
+  },
+  {
+    "id": 453,
+    "text": "पापको घाउ पाक्दैन",
+    "meaning": "The wound of sin never heals."
+  },
+  {
+    "id": 454,
+    "text": "पापलाई पुण्य भन्नु र दिनलाई रात भन्नु एउटै हो",
+    "meaning": "Calling sin virtue and calling day night is the same."
+  },
+  {
+    "id": 455,
+    "text": "पायो पायो खेरायो, लास लिएर डेरायो",
+    "meaning": "Got and lost, camped carrying a corpse."
+  },
+  {
+    "id": 456,
+    "text": "पारी खाल्डो, वारि भीर",
+    "meaning": "A pit on one side, a cliff on the other."
+  },
+  {
+    "id": 457,
+    "text": "पाल्नेले मार्छ भन्दा मार्नेले पाल्छ",
+    "meaning": "Rather than the nourisher killing, the killer nourishes."
+  },
+  {
+    "id": 458,
+    "text": "पासो मार्ने नचाहिँदा, शिकार मर्नु नचाहिँदो",
+    "meaning": "When the trapper doesn't want to kill, the prey doesn't want to die."
+  },
+  {
+    "id": 459,
+    "text": "पिडको सालो, कुसुमे बाह्रै महिना",
+    "meaning": "A lump's brother-in-law, twelve months of Kusume."
+  },
+  {
+    "id": 460,
+    "text": "पिर पर्दा पिर पिर, भात खाँदा मिरमिर",
+    "meaning": "When in trouble, it's pain pain; when eating rice, it's munch munch."
+  },
+  {
+    "id": 461,
+    "text": "पुकार्दा पुकार्दै पुग्छ, तर नपुगी पुग्दैन",
+    "meaning": "Calling and calling, it arrives; but without arriving, it doesn't."
+  },
+  {
+    "id": 462,
+    "text": "पुतलीलाई पुतलीको रोग लाग्दैन",
+    "meaning": "A butterfly does not get a butterfly's disease."
+  },
+  {
+    "id": 463,
+    "text": "पुल तरेर पानी पिउनु",
+    "meaning": "Crossing the bridge to drink water."
+  },
+  {
+    "id": 464,
+    "text": "पूजा गर्न जाँदा ढुंगा फेला पर्नु",
+    "meaning": "Finding a stone while going to worship."
+  },
+  {
+    "id": 465,
+    "text": "पूज्य पुर्खाको बाटो र फोहोर पानीको बाटो एउटै",
+    "meaning": "The path of honorable ancestors and the path of dirty water are the same."
+  },
+  {
+    "id": 466,
+    "text": "पेट छाडेर मुख लाग्नु",
+    "meaning": "Leaving the stomach and attacking the mouth."
+  },
+  {
+    "id": 467,
+    "text": "पेटको आगोले खुट्टा पोल्दैन",
+    "meaning": "The fire in the stomach does not burn the feet."
+  },
+  {
+    "id": 468,
+    "text": "पैंसा र परायो बराबर",
+    "meaning": "Money and others are equal."
+  },
+  {
+    "id": 469,
+    "text": "पोइ गयो नेपाल, बुहारी बनिन् सक्कल",
+    "meaning": "Husband went to Nepal, the daughter-in-law became real."
+  },
+  {
+    "id": 470,
+    "text": "पोइ मरेपछि बुहारी साइली, साइली मरेपछि बुहारी पोइ",
+    "meaning": "After husband dies, daughter-in-law becomes sister; after sister dies, daughter-in-law becomes husband."
+  },
+  {
+    "id": 471,
+    "text": "पोइको मुख हेर्नु र छाती हेर्नु एउटै",
+    "meaning": "Looking at a husband's face and looking at his chest is the same."
+  },
+  {
+    "id": 472,
+    "text": "पोइको मुखमा हेर्दा, आफ्नै खुट्टा तर्फ हेर्नु",
+    "meaning": "When looking at a husband's face, look at your own feet."
+  },
+  {
+    "id": 473,
+    "text": "पोइलाई राँको देखाउनु, आँफै कालो हुनु",
+    "meaning": "Showing a torch to the husband, becoming black oneself."
+  },
+  {
+    "id": 474,
+    "text": "पोते र पिल्ची एउटै थैलीमा",
+    "meaning": "Bead and pliers in the same bag."
+  },
+  {
+    "id": 475,
+    "text": "पोल्टो फोरेको मान्छेलाई कौडी पनि काम लाग्छ",
+    "meaning": "For someone who has burst his bag, even a cowrie shell is useful."
+  },
+  {
+    "id": 476,
+    "text": "पौंला टेकेर उम्लने",
+    "meaning": "To step on the toe and jump."
+  },
+  {
+    "id": 477,
+    "text": "प्याज बिना भात हुँदैन, प्याज बिना खेत हुँदैन",
+    "meaning": "No rice without onion, no field without onion."
+  },
+  {
+    "id": 478,
+    "text": "प्रश्न लिएर ऋणी हुनु, उत्तर लिएर लेनदार हुनु",
+    "meaning": "Become a debtor by taking a question, become a creditor by taking an answer."
+  },
+  {
+    "id": 479,
+    "text": "बक्रको पुच्छर बाह्रै अंगुल",
+    "meaning": "A heron's tail is twelve finger-lengths."
+  },
+  {
+    "id": 480,
+    "text": "बक्रको बच्चा एकै ठाउँ, सर्पको बच्चा वनैभरि",
+    "meaning": "A heron's baby is in one place, a snake's baby is all over the forest."
+  },
+  {
+    "id": 481,
+    "text": "बग्ने पानी बगिहाल्छ, रहने छातीमा रहिहाल्छ",
+    "meaning": "Running water keeps running, what remains stays in the chest."
+  },
+  {
+    "id": 482,
+    "text": "बटुवा छ भने बाटो सजिन्छ",
+    "meaning": "If there is a traveler, the path is decorated."
+  },
+  {
+    "id": 483,
+    "text": "बट्टुले काम नपाएपछि बन्दुकमा बत्ती लगाउने",
+    "meaning": "When BATTU doesn't get work, lights the gun."
+  },
+  {
+    "id": 484,
+    "text": "बदरलाई बोली, बादरलाई चोली",
+    "meaning": "Speech for the monkey, a blouse for the monkey."
+  },
+  {
+    "id": 485,
+    "text": "बनको मूलो, बरीको टूलो",
+    "meaning": "The root of the forest, the stake of the hedge."
+  },
+  {
+    "id": 486,
+    "text": "बनको हात्ती बाह्रै खर्च, पाल्तु हात्ती आधा खर्च",
+    "meaning": "A wild elephant costs twelve, a tamed elephant costs half."
+  },
+  {
+    "id": 487,
+    "text": "बन्जुलीको बाण लक्ष्मणको साथ",
+    "meaning": "The arrow of the wilderness is with Laxman."
+  },
+  {
+    "id": 488,
+    "text": "बन्दुकको गोली एक फन्को, मुखको गोली सय फन्को",
+    "meaning": "A bullet goes one round, a word goes a hundred rounds."
+  },
+  {
+    "id": 489,
+    "text": "बर्ष बर्षमा पोहोर फर्कन्छ, तर कहिल्यै उस्तै हुँदैन",
+    "meaning": "Time returns year after year, but never the same."
+  },
+  {
+    "id": 490,
+    "text": "बर्षभरि रुनेको एउटै दिन हाँस्नु बर्षभरि हाँस्नेको एउटै दिन रुनु",
+    "meaning": "One who cries all year laughs one day; one who laughs all year cries one day."
+  },
+  {
+    "id": 491,
+    "text": "बस्छु भने पशुपति, नबस्छु भने गोश्वारा",
+    "meaning": "If I stay, Pashupati; if I don't stay, Goshwara."
+  },
+  {
+    "id": 492,
+    "text": "बाउ आफू भन्काउने, छोरा भन्काउने काम",
+    "meaning": "Father bends himself, son's job is to bend."
+  },
+  {
+    "id": 493,
+    "text": "बाउ गयो बन बास, छोरो आयो घर बास",
+    "meaning": "Father went to forest exile, son came to home stay."
+  },
+  {
+    "id": 494,
+    "text": "बाउ बन्चरो, छोरो बाउ बन्चरो",
+    "meaning": "Father is a curved knife, son is a father curved knife."
+  },
+  {
+    "id": 495,
+    "text": "बाघ आउँदा भाले बासी, तर्सिने बेला रातो कापी",
+    "meaning": "When the tiger comes, the rooster crows; at the time of fear, a red notebook."
+  },
+  {
+    "id": 496,
+    "text": "बाघ आयो बाघ आयो, भाग्ने अगाडि ढुङ्गा आयो",
+    "meaning": "Tiger came, tiger came; while running away, a stone came in front."
+  },
+  {
+    "id": 497,
+    "text": "बाघ उछाल्न खोजे स्यालै स्याल, बाघ उछाल्न नखोजे स्यालै स्याल",
+    "meaning": "Try to chase the tiger, jackals everywhere; don't try to chase the tiger, jackals everywhere."
+  },
+  {
+    "id": 498,
+    "text": "बाघ बुढो स्याल तन्नेरी एक हुँदैन",
+    "meaning": "Old tiger and young jackal are never the same."
+  },
+  {
+    "id": 499,
+    "text": "बाघ मरेपछि छालाले बाँच्छ, मान्छे नामले",
+    "meaning": "After a tiger dies, its skin lives; a person lives by his name."
+  },
+  {
+    "id": 500,
+    "text": "बाघले सिनो खादैन",
+    "meaning": "A tiger does not eat a sniff."
+  },
+  {
+    "id": 501,
+    "text": "बाघ समाउन गएको, खरायोले खस्र्याक्क गर्दा मुर्छा",
+    "meaning": "Went to catch a tiger, fainted when a rabbit rustled."
+  },
+  {
+    "id": 502,
+    "text": "बाघका सय गोठ",
+    "meaning": "A tiger has a hundred pens."
+  },
+  {
+    "id": 503,
+    "text": "बाघको छालामा स्यालको रजाई",
+    "meaning": "A jackal's quilt in a tiger's skin."
+  },
+  {
+    "id": 504,
+    "text": "बाघको छोरा स्याल",
+    "meaning": "A tiger's son is a jackal."
+  },
+  {
+    "id": 505,
+    "text": "बाघको न्यास्रो लागे बिरालोको अनुहार हेर्नु",
+    "meaning": "When a tiger sneezes, look at the cat's face."
+  },
+  {
+    "id": 506,
+    "text": "बाघको बाटो बाघ हिँड्छ, सर्पको बाटो सर्प",
+    "meaning": "A tiger walks the tiger's path, a snake walks the snake's path."
+  },
+  {
+    "id": 507,
+    "text": "बाघको मुख खाए पनि रातै, नखाए पनि रातै",
+    "meaning": "Whether eaten by a tiger or not, it's night."
+  },
+  {
+    "id": 508,
+    "text": "बाघले निचोरेको वन र वनले निचोरेको बाघ हुँदैन",
+    "meaning": "There is no forest squeezed by a tiger or tiger squeezed by the forest."
+  },
+  {
+    "id": 509,
+    "text": "बाच्छो खाने बाघले पाडोलाई नन बाँकी राख्दैन",
+    "meaning": "A tiger that eats a calf does not leave the buffalo calf uneaten."
+  },
+  {
+    "id": 510,
+    "text": "बाटो न घाटो, दगुछा लाटो",
+    "meaning": "No road or path, the chase is lame."
+  },
+  {
+    "id": 511,
+    "text": "बादरको पुच्छर टाई न इँजार",
+    "meaning": "A monkey's tail is neither a tie nor a belt."
+  },
+  {
+    "id": 512,
+    "text": "बाँदरको पुच्छर, लौरो न हतियार",
+    "meaning": "A monkey's tail is neither a stick nor a weapon."
+  },
+  {
+    "id": 513,
+    "text": "बाँदरको हातमा नरिवल",
+    "meaning": "A coconut in a monkey's hand."
+  },
+  {
+    "id": 514,
+    "text": "बाध दुब्लाएर बिरालो हुँदैन",
+    "meaning": "A cat does not become thin from a barrier."
+  },
+  {
+    "id": 515,
+    "text": "बाबू भन्दा छोरो जान्ने, नाति पेटैबाट मट्याङ्ग्या हान्ने",
+    "meaning": "The son knows more than the father; the grandson hits the mud pie from the womb."
+  },
+  {
+    "id": 516,
+    "text": "बारी न बिक्वा नौ मुरी तोरी",
+    "meaning": "No field or plot, nine muri of mustard."
+  },
+  {
+    "id": 517,
+    "text": "बान्ह छोरा तेन्ह नाति, बूढाको धोक्रो काँधी माथि",
+    "meaning": "The same son, the same grandson; the old man's bundle is on the shoulder."
+  },
+  {
+    "id": 518,
+    "text": "बाह्र छोरा तेन्ह नाति, बूढाको मन तरुनी माथि",
+    "meaning": "Twelve sons, the same grandson; the old man's mind is on young women."
+  },
+  {
+    "id": 519,
+    "text": "बाह्र वर्षमा खोलो पनि फर्कन्छ",
+    "meaning": "Even a river turns back in twelve years."
+  },
+  {
+    "id": 520,
+    "text": "बालब्रह्मचारी, नारी देखे आँखा मारी",
+    "meaning": "A young celibate, winks when he sees a woman."
+  },
+  {
+    "id": 521,
+    "text": "बालुवा निचोरेर तेल आउँदैन",
+    "meaning": "Squeezing sand does not produce oil."
+  },
+  {
+    "id": 522,
+    "text": "बाहिर बाहिर लोकाचार भित्र भित्र पोका पार",
+    "meaning": "Outwardly custom, inwardly separate."
+  },
+  {
+    "id": 523,
+    "text": "बाहुनको चित्त माखाको पित्त",
+    "meaning": "A Brahmin's mind is like a fly's gall."
+  },
+  {
+    "id": 524,
+    "text": "बाहुनको टुप्पी एरियल न एन्टिना",
+    "meaning": "A Brahmin's topknot is neither aerial nor antenna."
+  },
+  {
+    "id": 525,
+    "text": "बाहुनको बित्ता बोकाको मोलमा जान्छ",
+    "meaning": "A Brahmin's property goes for the price of a he-goat."
+  },
+  {
+    "id": 526,
+    "text": "बाहुनको सेखी झाना नेवारले भाँडाको धोती लगाउछ",
+    "meaning": "A Brahmin's boast is fake; a Newar wears a pot's loincloth."
+  },
+  {
+    "id": 527,
+    "text": "बाहुनलाई दिनी, खुदोमाथि चिनी",
+    "meaning": "Give to the Brahmin, sugar on the mud."
+  },
+  {
+    "id": 528,
+    "text": "बाहुनले च्याउ खाओस् न स्वाद पाओस्",
+    "meaning": "Let the Brahmin eat mushrooms, maybe he'll taste it."
+  },
+  {
+    "id": 529,
+    "text": "बाह्र बर्ष बाइबल पढायो, भूकम्प आउँदा राम राम",
+    "meaning": "Taught the Bible for twelve years, when the earthquake came, 'Ram Ram'."
+  },
+  {
+    "id": 530,
+    "text": "बाह्र बर्ष रामायण पढायो, सीता कस्की जोई",
+    "meaning": "Taught the Ramayana for twelve years, whose wife is Sita?"
+  },
+  {
+    "id": 531,
+    "text": "बाह्र बर्षमा पोइ आयो, मै रोइलीलाई ज्वरो आयो",
+    "meaning": "The husband came after twelve years, and I, Roili, got a fever."
+  },
+  {
+    "id": 532,
+    "text": "बिद्या नै धन हो",
+    "meaning": "Education is the real wealth."
+  },
+  {
+    "id": 533,
+    "text": "बिरालोको घाँटीमा सिद्राको माला",
+    "meaning": "A garland of vermilion around a cat's neck."
+  },
+  {
+    "id": 534,
+    "text": "बिहे गर्ने अलमलमा केटी खोज्न बिर्सियो",
+    "meaning": "In the hurry to get married, forgot to look for a girl."
+  },
+  {
+    "id": 535,
+    "text": "बिरालोको हातमा सिद्राको नासो",
+    "meaning": "A vermilion noose in a cat's hand."
+  },
+  {
+    "id": 536,
+    "text": "बुझ्नेलाई श्रीखण्ड, नबुझ्नेलाई खुपीको बिँड",
+    "meaning": "For those who understand, sandalwood; for those who don't, the handle of a ladle."
+  },
+  {
+    "id": 537,
+    "text": "बुढानिलकण्ठ नारानथान, सौता सौता हानाहान",
+    "meaning": "Budhanilkantha, Naranthan, co-wives fighting each other."
+  },
+  {
+    "id": 538,
+    "text": "बुढी मरी भनेर होइन काल पल्क्यो भनेर डराउनु पर्छ",
+    "meaning": "Not that the old woman died, but that bad times have started."
+  },
+  {
+    "id": 539,
+    "text": "बुढेसकालमा पाटीको वास",
+    "meaning": "In old age, living at the rest house."
+  },
+  {
+    "id": 540,
+    "text": "बुढो पोइले हसाउँछ, ठिटो पोइले रुवाउँछ",
+    "meaning": "An old husband makes you laugh, a young husband makes you cry."
+  },
+  {
+    "id": 541,
+    "text": "बुहारीको छाती हेरी गाउँले अघाए, नाति केटो भोके",
+    "meaning": "Villagers were satisfied looking at the daughter-in-law's chest; the grandson boy became a beggar."
+  },
+  {
+    "id": 542,
+    "text": "बूढा मरे भाका सरे",
+    "meaning": "When the old man dies, the promises shift."
+  },
+  {
+    "id": 543,
+    "text": "बूढी मरी काल पल्क्यो",
+    "meaning": "The old woman died, bad times began."
+  },
+  {
+    "id": 544,
+    "text": "बेलामा छोरा छोरीलाई नकुटेपछि आफ्नो छाती पिट्नु पर्छ",
+    "meaning": "If you don't beat your children on time, you'll have to beat your own chest later."
+  },
+  {
+    "id": 545,
+    "text": "बैंक लुट्नेलाई भन्दा समाउन जाने पुलिसलाई लाज",
+    "meaning": "More shame on the police who go to catch than on the bank robber."
+  },
+  {
+    "id": 546,
+    "text": "भाड जुको देवर तन्नेरी",
+    "meaning": "The rented sister-in-law, the young brother-in-law."
+  },
+  {
+    "id": 547,
+    "text": "बैगुनीलाई गुनले मार्यो",
+    "meaning": "The virtuous one was killed by virtue."
+  },
+  {
+    "id": 548,
+    "text": "बैरी हाँसे, पैरी चल्छ",
+    "meaning": "When the enemy smiles, the response works."
+  },
+  {
+    "id": 549,
+    "text": "बोकाको मुखमा कुभिन्डो",
+    "meaning": "A pumpkin in a he-goat's mouth."
+  },
+  {
+    "id": 550,
+    "text": "बोकाले दाइ हुने भए गोरु किन चाहिन्थ्यो",
+    "meaning": "If a he-goat could be an elder brother, why would an ox be needed?"
+  },
+  {
+    "id": 551,
+    "text": "बोकाले रोपाइ हुने भए गोरु किन चाहियो",
+    "meaning": "If a he-goat could do the transplanting, why would an ox be needed?"
+  },
+  {
+    "id": 552,
+    "text": "बोल बोल माछा मुखभरी पानी",
+    "meaning": "Speak, speak, fish, with your mouth full of water."
+  },
+  {
+    "id": 553,
+    "text": "बोली र गोली छुटेपछि फर्कदैन",
+    "meaning": "Once words and bullets are released, they don't come back."
+  },
+  {
+    "id": 554,
+    "text": "बोलेर बाठो र दौडेर छिटो कहिल्यै हुँदैन",
+    "meaning": "Being clever by talking and being fast by running never happens."
+  },
+  {
+    "id": 555,
+    "text": "बोल्नेको पिठो बिक्छ, नबोल्नेको चामल पनि बिक्दैन",
+    "meaning": "The flour of the talker sells, the rice of the non-talker does not."
+  },
+  {
+    "id": 556,
+    "text": "ब्रत बस्ने हामी फलाहार खाने कामी",
+    "meaning": "We observe the fast, the blacksmith eats the fruits."
+  },
+  {
+    "id": 557,
+    "text": "भंगेरो मार्न सजिलो हुन्छ, भुत्ल्याउन गाह्रो",
+    "meaning": "It's easy to kill a mole cricket, hard to untangle."
+  },
+  {
+    "id": 558,
+    "text": "भए अन्त नभए बुढाथोकीको जन्ती",
+    "meaning": "If there is, it's fine; if not, the old man's funeral."
+  },
+  {
+    "id": 559,
+    "text": "भण्डारीले भन्दियो, गोतामेले गोद्दियो",
+    "meaning": "The storekeeper said, the lump stabbed."
+  },
+  {
+    "id": 560,
+    "text": "भन्ने परेपछि भित्तै पुर्याएर भन्नु",
+    "meaning": "When you have to say something, say it after bringing it to the wall."
+  },
+  {
+    "id": 561,
+    "text": "भन्नेलाई के छ र, चिनेर आउँदा खाना छ",
+    "meaning": "What does the speaker have? When you come after recognizing, there is food."
+  },
+  {
+    "id": 562,
+    "text": "भरोसा राखे घर बन्छ, नराखे डेरा पनि बन्दैन",
+    "meaning": "With trust, a house is built; without trust, even a rented place is not built."
+  },
+  {
+    "id": 563,
+    "text": "भाँडा चलाउने सुनार, आगो चलाउने लोहार",
+    "meaning": "The goldsmith handles the pot, the blacksmith handles the fire."
+  },
+  {
+    "id": 564,
+    "text": "भाँडो सुनले के, भनाइ मुनले के",
+    "meaning": "What does a pot matter with gold? What does a saying matter with gem?"
+  },
+  {
+    "id": 565,
+    "text": "भाग्यले पाइन्छ छोरो, धनले पाइन्छ जोई",
+    "meaning": "A son is obtained by fate, a daughter-in-law by wealth."
+  },
+  {
+    "id": 566,
+    "text": "भाग्यले पाउँदा खै के छ, नपाउँदा के छैन",
+    "meaning": "What does one have when fate gives? What does one not have when fate doesn't?"
+  },
+  {
+    "id": 567,
+    "text": "भान्सी र आँसी एउटै डोकोमा",
+    "meaning": "The flute and the tear are in the same basket."
+  },
+  {
+    "id": 568,
+    "text": "भालु कमाउँछ स्याल खान्छ",
+    "meaning": "The bear earns, the jackal eats."
+  },
+  {
+    "id": 569,
+    "text": "भित्र रोग बाहिर सुनको ओखती",
+    "meaning": "Disease inside, gold medicine outside."
+  },
+  {
+    "id": 570,
+    "text": "भुतले पो पुजारी भएर पो बाचेको",
+    "meaning": "Only by becoming a ghost's priest did he survive."
+  },
+  {
+    "id": 571,
+    "text": "भुइँ चुलोको राजा, आफू लुकेर खाजा",
+    "meaning": "The king of the ground stove, hiding and eating snacks."
+  },
+  {
+    "id": 572,
+    "text": "भुइँ लगाउन सजिलो, भुइँ माथि उठाउन गाह्रो",
+    "meaning": "Easy to level to the ground, hard to lift above ground."
+  },
+  {
+    "id": 573,
+    "text": "भुङ्ग्रोलाई आफ्नै गोडाले डुबाउँछ",
+    "meaning": "A whirlpool drowns by its own feet."
+  },
+  {
+    "id": 574,
+    "text": "भुटुनलाई भटुन, पकुनलाई पकुन",
+    "meaning": "Fried is fried, cooked is cooked."
+  },
+  {
+    "id": 575,
+    "text": "भूल त कस्तूरीको मृगलाई पनि लाग्छ",
+    "meaning": "Even the musk deer makes mistakes."
+  },
+  {
+    "id": 576,
+    "text": "भेडाको ऊन पनि उत्तिकै, सबै उत्तिकै",
+    "meaning": "Sheep's wool is all the same, everything is the same."
+  },
+  {
+    "id": 577,
+    "text": "भोकै बस्नु भन्दा बोकेर खानु बेस",
+    "meaning": "Better to carry and eat than to stay hungry."
+  },
+  {
+    "id": 578,
+    "text": "भोकै बसेको भोकै मर्छ, बोलेको बोलेइ मर्छ",
+    "meaning": "The hungry dies hungry, the speaker dies speaking."
+  },
+  {
+    "id": 579,
+    "text": "भोकै सुतेको भोकै उठ्छ, भन्न नजानेको भन्नै जान्दैन",
+    "meaning": "He who sleeps hungry wakes hungry; he who doesn't know how to speak never learns."
+  },
+  {
+    "id": 580,
+    "text": "भोटले पार्यो भोट, राणाले पार्यो राणा",
+    "meaning": "Tibetans made Tibet, Ranas made Rana."
+  },
+  {
+    "id": 581,
+    "text": "भोटेलाई पिँडालु र बोकेलाई बासी भात एउटै",
+    "meaning": "Taro for a Tibetan and stale rice for a carrier are the same."
+  },
+  {
+    "id": 582,
+    "text": "भोत, भन्नु भनेको गोरुलाई सिङ र पुच्छर",
+    "meaning": "'Bhot' means horns and tail for an ox."
+  },
+  {
+    "id": 583,
+    "text": "भोलि भनेको छैन विश्वास, मानिसको के आश्वास",
+    "meaning": "Tomorrow is not trustworthy, what assurance for a person?"
+  },
+  {
+    "id": 584,
+    "text": "भ्रष्टाचार नगर्नलाई सिंहदरबार के काम",
+    "meaning": "What is the use of Singhadurbar for not committing corruption?"
+  },
+  {
+    "id": 585,
+    "text": "भ्वाइ भन्दा स्वाइ ठूलो",
+    "meaning": "'Bhwai' is bigger than 'Swai'."
+  },
+  {
+    "id": 586,
+    "text": "मकैको रोटीमा घिउ हाल्न र माइतको सम्पतिमा जित हाल्न बेकार छ",
+    "meaning": "Putting ghee on corn bread and claiming victory over parental property is useless."
+  },
+  {
+    "id": 587,
+    "text": "मन नपर्ने जेठी बुहारीले पकाएको खिर पनि गनाउँछ, मन पर्ने कान्छी बुहारीको पाद पनि बसाउँछ",
+    "meaning": "Even rice pudding made by the disliked eldest daughter-in-law stinks; even the fart of the liked youngest daughter-in-law stays fragrant."
+  },
+  {
+    "id": 588,
+    "text": "मन परेको केटो जेठाजू",
+    "meaning": "The liked boy is the elder brother-in-law."
+  },
+  {
+    "id": 589,
+    "text": "मन परेको फूल सुकेपनि रसिलो",
+    "meaning": "A liked flower is juicy even after drying."
+  },
+  {
+    "id": 590,
+    "text": "मन पर्ने मान्छेको दुर्गन्ध नै सुगन्ध",
+    "meaning": "For a liked person, even bad smell is fragrance."
+  },
+  {
+    "id": 591,
+    "text": "मनको लड्डु घिउसँग खानु",
+    "meaning": "Eat the heart's laddu with ghee."
+  },
+  {
+    "id": 592,
+    "text": "मनमा चिसो पस्नु",
+    "meaning": "Cold enters the mind."
+  },
+  {
+    "id": 593,
+    "text": "मन्त्री हुनु कहिले कहिले, कमिसन थाप्नु पहिले",
+    "meaning": "Becoming a minister is occasional, taking commission comes first."
+  },
+  {
+    "id": 594,
+    "text": "मरी जाने चोला, उडी जाने सास",
+    "meaning": "The body dies, the breath flies away."
+  },
+  {
+    "id": 595,
+    "text": "मरी लानु केहि छैन",
+    "meaning": "There is nothing to take by dying."
+  },
+  {
+    "id": 596,
+    "text": "मरेको बाघको जुँगा उखेल्ने",
+    "meaning": "Plucking the whiskers of a dead tiger."
+  },
+  {
+    "id": 597,
+    "text": "मरेको बिरालो काखी घ्यापेर ठिमीको उकालो",
+    "meaning": "Holding a dead cat in the lap while climbing Thimi's uphill."
+  },
+  {
+    "id": 598,
+    "text": "मरेपछि डुमै राजा",
+    "meaning": "After death, even a Dumai is a king."
+  },
+  {
+    "id": 599,
+    "text": "मर्दको दश ओटी",
+    "meaning": "A man has ten strengths."
+  },
+  {
+    "id": 600,
+    "text": "मर्दको जुँगासँग आगो पनि हच्किन्छ",
+    "meaning": "Even fire backs away from a man's moustache."
+  },
+  
+  {
+    "id": 601,
+    "text": "मर्नु भन्दा अगाडि आइ तन्काउनु",
+    "meaning": "Before dying, come and stretch out."
+  },
+  {
+    "id": 602,
+    "text": "मर्नु भन्दा बौलाउनु निको",
+    "meaning": "Better to go mad than to die."
+  },
+  {
+    "id": 603,
+    "text": "मर्ने बेला हरियो काँझो",
+    "meaning": "A green bamboo pole at the time of death."
+  },
+  {
+    "id": 604,
+    "text": "मर्नुपरेपछि खुट्टै तानेर मर्ने",
+    "meaning": "When you have to die, die by pulling your own legs."
+  },
+  {
+    "id": 605,
+    "text": "मलाई खाने बाघले तँलाई पनि खान सक्छ",
+    "meaning": "The tiger that eats me can eat you too."
+  },
+  {
+    "id": 606,
+    "text": "महाकालीले हानेका जनता एमसीसी चम्किंदा तर्सिन्छन्",
+    "meaning": "People struck by Mahakali get scared when MCC glitters."
+  },
+  {
+    "id": 607,
+    "text": "माकुराको जाल झिंगाको काल",
+    "meaning": "A spider's web is a fly's doom."
+  },
+  {
+    "id": 608,
+    "text": "मागेको गोरु, चोरेको हलो, बाँच्नु भन्दा मरेकै भलो",
+    "meaning": "A begged ox, a stolen plow; better to die than to live."
+  },
+  {
+    "id": 609,
+    "text": "माग्नेलाई छान्ने अधिकार हुँदैन",
+    "meaning": "A beggar does not have the right to choose."
+  },
+  {
+    "id": 610,
+    "text": "माग्नेको धन दशचोटि गन",
+    "meaning": "Count a beggar's wealth ten times."
+  },
+  {
+    "id": 611,
+    "text": "माग्नेलाई तातो भात",
+    "meaning": "Hot rice for a beggar."
+  },
+  {
+    "id": 612,
+    "text": "माछा देखे दुलो भित्र हात, सर्प देखे दुलो बाहिर हात",
+    "meaning": "When you see a fish, put your hand in the hole; when you see a snake, take your hand out of the hole."
+  },
+  {
+    "id": 613,
+    "text": "माछाको बल पानीसम्म",
+    "meaning": "A fish's strength is only in water."
+  },
+  {
+    "id": 614,
+    "text": "माछो माछो भ्यागुतो",
+    "meaning": "Fish fish, frog."
+  },
+  {
+    "id": 615,
+    "text": "माझीको घर माछा उपहार",
+    "meaning": "Fish as a gift in a fisherman's house."
+  },
+  {
+    "id": 616,
+    "text": "माझीको मतो गर्दा सात गाउँ डुबे",
+    "meaning": "When the fisherman insisted, seven villages drowned."
+  },
+  {
+    "id": 617,
+    "text": "माझीले सल्लाह गर्दागर्दै सात गाउँ डुब्यो",
+    "meaning": "While the fisherman was deliberating, seven villages sank."
+  },
+  {
+    "id": 618,
+    "text": "माटाकाले भाँडालेलाई काठकाले मुङ्गाले",
+    "meaning": "The wooden mug for the clay pot person."
+  },
+  {
+    "id": 619,
+    "text": "मानो रोपेर मुरी फल्ने",
+    "meaning": "Plant one mana and reap a muri."
+  },
+  {
+    "id": 620,
+    "text": "मान्छे खेदाउनु अगाडिबाट, वस्तु खेदाउनु पछाडिबाट",
+    "meaning": "Chase a person from the front, chase a thing from behind."
+  },
+  {
+    "id": 621,
+    "text": "मान्छेमा ईख, सर्पमा विष नभए कोही डराउँदैन",
+    "meaning": "If people had no envy and snakes no venom, no one would be afraid."
+  },
+  {
+    "id": 622,
+    "text": "मामा अगाडि कुलकाले वखान",
+    "meaning": "A Kulaka's praise in front of the maternal uncle."
+  },
+  {
+    "id": 623,
+    "text": "मामा आउँदा केरा पाकेन, केरा पाक्दा मामा आएनन्",
+    "meaning": "When the uncle came, bananas weren't ripe; when bananas ripened, the uncle didn't come."
+  },
+  {
+    "id": 624,
+    "text": "मामाको घोडामा भान्जाको हे हे",
+    "meaning": "On the uncle's horse, the nephew's 'hey hey'."
+  },
+  {
+    "id": 625,
+    "text": "मारे पाप पाले पुण्य",
+    "meaning": "Killing is sin, keeping is virtue."
+  },
+  {
+    "id": 626,
+    "text": "मुखमा राम राम बगलीमा छुरा",
+    "meaning": "Ram Ram in the mouth, a dagger in the collar."
+  },
+  {
+    "id": 627,
+    "text": "मुखमा लगाउन चिलाउनेको गेडो छैन, कुन्नि के जातिमा लगाउन जाइफल",
+    "meaning": "Itching to put on the face has no bead; what caste does one put nutmeg on?"
+  },
+  {
+    "id": 628,
+    "text": "मुखमा सरस्वती हुनेको सधैं वृहस्पति आउँछ",
+    "meaning": "One who has Saraswati in the mouth always has Brihaspati come."
+  },
+  {
+    "id": 629,
+    "text": "मुटु चोरलाई पशुपति न गृहेश्वरी",
+    "meaning": "For a heart-thief, neither Pashupati nor Griheshwari."
+  },
+  {
+    "id": 630,
+    "text": "मूर्ख र पैसा छिट्टै सकिन्छ",
+    "meaning": "A fool and money are soon finished."
+  },
+  {
+    "id": 631,
+    "text": "मूर्खको धन रहँदैन",
+    "meaning": "A fool's wealth does not last."
+  },
+  {
+    "id": 632,
+    "text": "मेरो गोरूको बाटो टक्का",
+    "meaning": "My ox's path is straight."
+  },
+  {
+    "id": 633,
+    "text": "मेहनतको फल मिठो हुन्छ",
+    "meaning": "The fruit of hard work is sweet."
+  },
+  {
+    "id": 634,
+    "text": "मोही माग्नु, ढुंग्रो लुकाउनु",
+    "meaning": "Ask for a tenant, hide the winnowing basket."
+  },
+  {
+    "id": 635,
+    "text": "मौका आउँछ पर्खिँदैन, बगेको खोला फर्किँदैन",
+    "meaning": "Opportunity comes but doesn't wait; a flown river doesn't return."
+  },
+  {
+    "id": 636,
+    "text": "मौकामा चौका हान्न जान्नुपर्छ",
+    "meaning": "You must know how to hit a four when the opportunity comes."
+  },
+  {
+    "id": 637,
+    "text": "मौकामा कोढीको पनि पाउ मोल्नुपर्छ",
+    "meaning": "In opportunity, even a leper's foot must be valued."
+  },
+  {
+    "id": 638,
+    "text": "मौकामा हीरा पनि फोर्न सक्नुपर्छ",
+    "meaning": "You must be able to break even a diamond when the opportunity arises."
+  },
+  {
+    "id": 639,
+    "text": "यता न उता हातमा जुता",
+    "meaning": "Neither here nor there, a shoe in the hand."
+  },
+  {
+    "id": 640,
+    "text": "युद्धको बेलामा बुद्धको पुराण काम लाग्दैन",
+    "meaning": "In times of war, Buddha's Purana is of no use."
+  },
+  {
+    "id": 641,
+    "text": "राजाको अगाडि र घोडाको पछाडि नलाग्नु, लात खाइन्छ",
+    "meaning": "Don't stand before a king or behind a horse; you'll get kicked."
+  },
+  {
+    "id": 642,
+    "text": "राजाको काम चारैतिर बदनाम",
+    "meaning": "The king's work is notorious everywhere."
+  },
+  {
+    "id": 643,
+    "text": "राजाको काम छोडी कामिको देउली",
+    "meaning": "Left the king's work for the blacksmith's doorstep."
+  },
+  {
+    "id": 644,
+    "text": "राजाको घरमा नुनको दुःख",
+    "meaning": "Shortage of salt in the king's house."
+  },
+  {
+    "id": 645,
+    "text": "राजाको धन जान्छ, भण्डारेको पेट पोल्छ",
+    "meaning": "The king's wealth goes, the storekeeper's stomach burns."
+  },
+  {
+    "id": 646,
+    "text": "राजाको मिति बाह्र वर्ष प्रजातन्त्रमा राखे पनि बाङ्गाको बाङ्गै",
+    "meaning": "Even if the king's date is kept in democracy for twelve years, the crooked remains crooked."
+  },
+  {
+    "id": 647,
+    "text": "राडीको घरमा पोइको के खाँचो",
+    "meaning": "What need for a husband in a house of blankets?"
+  },
+  {
+    "id": 648,
+    "text": "रात कि रानी",
+    "meaning": "Night or queen."
+  },
+  {
+    "id": 649,
+    "text": "रात गए अग्रात पलाउँछ",
+    "meaning": "After night passes, the morning dawns."
+  },
+  {
+    "id": 650,
+    "text": "रातभरि करायो, दक्षिणा हरायो",
+    "meaning": "Cried all night, the donation got lost."
+  },
+  {
+    "id": 651,
+    "text": "रात राम्रो जुनले, मान्छे राम्रो गुनले",
+    "meaning": "Night is good for the moon, a person is good for qualities."
+  },
+  {
+    "id": 652,
+    "text": "रातभरि सराप्यो महाजन त जिउँदै",
+    "meaning": "Cursed all night, the moneylender is still alive."
+  },
+  {
+    "id": 653,
+    "text": "रातभरी रामायण पढायो, सीता कस्की जोइ",
+    "meaning": "Taught Ramayana all night, whose wife is Sita?"
+  },
+  {
+    "id": 654,
+    "text": "रातभरी रुँदै बुढी जिउँदै",
+    "meaning": "Old woman crying all night is still alive."
+  },
+  {
+    "id": 655,
+    "text": "राम राम सीता पोइ, मर्ने बेला कोही न कोही",
+    "meaning": "Ram Ram, Sita's husband; at the time of death, someone or no one."
+  },
+  {
+    "id": 656,
+    "text": "रावण मरेर लंका खाली हुँदैन",
+    "meaning": "With Ravan's death, Lanka does not become empty."
+  },
+  {
+    "id": 657,
+    "text": "रिस खा आफू, बुद्धि खा अरु",
+    "meaning": "Eat anger yourself, eat wisdom from others."
+  },
+  {
+    "id": 658,
+    "text": "रिसको झोकमा कसले वेद पढ्छ",
+    "meaning": "Who reads the Vedas in a fit of anger?"
+  },
+  {
+    "id": 659,
+    "text": "रुद्रघण्टी नहुनेको विश्वास नगर्नु",
+    "meaning": "Do not trust one who does not have a bell."
+  },
+  {
+    "id": 660,
+    "text": "रुने आँखालाई गाजलले छेक्दैन",
+    "meaning": "Kajal does not stop crying eyes."
+  },
+  {
+    "id": 661,
+    "text": "रोटी चिल्लो मिठो, कुरा खस्रो मिठो",
+    "meaning": "Bread is smooth and sweet, words are rough and sweet."
+  },
+  {
+    "id": 662,
+    "text": "लक्का छोरोलाई के को धक्का",
+    "meaning": "What push does a lucky son need?"
+  },
+  {
+    "id": 663,
+    "text": "लगनको बेला हगन",
+    "meaning": "Defecation at the time of auspicious moment."
+  },
+  {
+    "id": 664,
+    "text": "लगनपछिको पोते के काम",
+    "meaning": "What use is a bead after the auspicious moment?"
+  },
+  {
+    "id": 665,
+    "text": "लगाँटी च्याती कुसुमे रुमाल",
+    "meaning": "Torn waistband, a embroidered handkerchief."
+  },
+  {
+    "id": 666,
+    "text": "लड्का जित्ने हनुमान जस पाउने ढेडु",
+    "meaning": "Hanuman who wins battles gets praise; the monkey gets the credit."
+  },
+  {
+    "id": 667,
+    "text": "लहरा तान्दा पहरा गर्जिन्छ",
+    "meaning": "When you pull the vine, the mountain roars."
+  },
+  {
+    "id": 668,
+    "text": "लहरा तान्दा पहरा गर्जिन्न",
+    "meaning": "When you pull the vine, the mountain does not roar."
+  },
+  {
+    "id": 669,
+    "text": "लटाको देशमा गाँडा तन्नेरी",
+    "meaning": "In a land of lazy people, the butt is young."
+  },
+  {
+    "id": 670,
+    "text": "लटाको देशमा गाँडा तन्नेर",
+    "meaning": "In a land of lazy people, the butt is young."
+  },
+  {
+    "id": 671,
+    "text": "लाटो लड्छ एक बल्ड्याङ, बाठो लड्छ तीन बल्ड्याङ",
+    "meaning": "A mute falls with one roll, a clever one falls with three rolls."
+  },
+  {
+    "id": 672,
+    "text": "लातको घोडा बातले मान्दैन",
+    "meaning": "A horse of a kick does not obey words."
+  },
+  {
+    "id": 673,
+    "text": "लातको भुत बातले मान्दैन",
+    "meaning": "A ghost of a kick does not obey words."
+  },
+  {
+    "id": 674,
+    "text": "लानेको निधो छैन, जानेको तर्खर",
+    "meaning": "The taker has no decision, the giver is in a hurry."
+  },
+  {
+    "id": 675,
+    "text": "लानेलाई भन्दा जानेलाई हतार",
+    "meaning": "The giver is in more hurry than the taker."
+  },
+  {
+    "id": 676,
+    "text": "लालमायाको त पत्तै छैन, खस्ने कामिको खसखस",
+    "meaning": "No trace of Lalimaya, but the falling blacksmith's poppy."
+  },
+  {
+    "id": 677,
+    "text": "लिखितमको अगाडि बखतम चल्दैन",
+    "meaning": "Written document does not work in front of time."
+  },
+  {
+    "id": 678,
+    "text": "लुटको धन फुफुको श्राद्ध",
+    "meaning": "Looted wealth for the grandfather's shraddha."
+  },
+  {
+    "id": 679,
+    "text": "ले ले बाबु गुलेली, मारिदिउँला जुरेली",
+    "meaning": "Take, take, father, a slingshot; I will kill the mosquito."
+  },
+  {
+    "id": 680,
+    "text": "लोग्ने स्वास्नीको झगडा परालको आगो",
+    "meaning": "A husband-wife quarrel is like a straw fire."
+  },
+  {
+    "id": 681,
+    "text": "लोभले लाभ, लाभले विलाप",
+    "meaning": "Greed leads to gain, gain leads to lament."
+  },
+  {
+    "id": 682,
+    "text": "लोभीको धन छट्टुले खान्छ",
+    "meaning": "A greedy person's wealth is eaten by a youngster."
+  },
+  {
+    "id": 683,
+    "text": "लोभीहरु रहुन्जेल पापीहरु भोकै मर्दैनन्",
+    "meaning": "As long as the greedy live, the sinful do not die hungry."
+  },
+  {
+    "id": 684,
+    "text": "लौरो टेके भर हुन्छ, कान्छी ल्याए घर हुन्छ",
+    "meaning": "Leaning on a stick is enough; bringing a young wife makes a home."
+  },
+  {
+    "id": 685,
+    "text": "ल्हासामा सुन छ, कान मेरो बुच्चै",
+    "meaning": "There is gold in Lhasa, but my ear is pierced."
+  },
+  {
+    "id": 686,
+    "text": "वचन फेनु र बाबु फेनु उस्तै हो",
+    "meaning": "The word 'phenu' and 'father phenu' are the same."
+  },
+  {
+    "id": 687,
+    "text": "वल्लो घरको नरे, पल्लो घरमा सरे",
+    "meaning": "The male of this house moved to the other house."
+  },
+  {
+    "id": 688,
+    "text": "वल्लो घाट न पल्लो तीर",
+    "meaning": "Neither this riverbank nor the other shore."
+  },
+  {
+    "id": 689,
+    "text": "वाणाको घरमा सबै पुजारी",
+    "meaning": "In a merchant's house, everyone is a priest."
+  },
+  {
+    "id": 690,
+    "text": "वारि खाल्डो, पारि भीर",
+    "meaning": "A pit on this side, a cliff on the other side."
+  },
+  {
+    "id": 691,
+    "text": "विनाश काले विपरीत बुद्धि",
+    "meaning": "At the time of destruction, the mind works backwards."
+  },
+  {
+    "id": 692,
+    "text": "विष नभएको सर्प र ईख नभएको मानिस काम लाग्दैन",
+    "meaning": "A snake without poison and a person without envy are useless."
+  },
+  {
+    "id": 693,
+    "text": "विष्टको घरमा भात पाक्दा दमाईको घरमा खलबल",
+    "meaning": "When rice cooks in a Bisht's house, there is chaos in a tailor's house."
+  },
+  {
+    "id": 694,
+    "text": "विसौलीको झिंगा फड्कनु भन्दा धानीको टाउको हल्लाउनु बेस",
+    "meaning": "Better to shake a grain owner's head than to swing a wasp."
+  },
+  {
+    "id": 695,
+    "text": "वैद्यका गलगाँड जैसीका छोरी राँड",
+    "meaning": "A doctor's goiter is like a widow's daughter."
+  },
+  {
+    "id": 696,
+    "text": "शत्रु नदेखे भाइको मुख हेर्नु",
+    "meaning": "If you don't see an enemy, look at your brother's face."
+  },
+  {
+    "id": 697,
+    "text": "शत्रु नलागे आफन्त पाल्नु",
+    "meaning": "If no enemy, raise relatives."
+  },
+  {
+    "id": 698,
+    "text": "शरणको मरण गनु हुँदैन",
+    "meaning": "One should not count the death of a refuge-seeker."
+  },
+  {
+    "id": 699,
+    "text": "शिरमा टोपी छैन, खुट्टामा खोल",
+    "meaning": "No cap on the head, a river on the feet."
+  },
+  {
+    "id": 700,
+    "text": "शिवजीलाई धतुरोले लाग्दैन",
+    "meaning": "Dhaturo does not affect Lord Shiva."
+  },
+  
+  {
+    "id": 701,
+    "text": "शुक्र उदाए, फर्सी कुदाए",
+    "meaning": "Venus rose, the pumpkin ran."
+  },
+  {
+    "id": 702,
+    "text": "शोक न सुतार, भोक न भकारी",
+    "meaning": "No grief for the carpenter, no hunger for the storekeeper."
+  },
+  {
+    "id": 703,
+    "text": "श्रीखण्डलाई कपुर, भांगलाई धतुर",
+    "meaning": "Camphor for sandalwood, dhaturo for hemp."
+  },
+  {
+    "id": 704,
+    "text": "श्रीमती कति बाठी, बोका स्टाईलको केश काटी",
+    "meaning": "No matter how clever the wife, the he-goat cuts the stylish hair."
+  },
+  {
+    "id": 705,
+    "text": "श्रीमतीको पिटाई खाएको लोग्ने चुरा बज्दा तर्सिन्छ",
+    "meaning": "A husband who has been beaten by his wife gets scared when bangles jingle."
+  },
+  {
+    "id": 706,
+    "text": "संगत गुणको फल",
+    "meaning": "Company is the fruit of virtue."
+  },
+  {
+    "id": 707,
+    "text": "संगै बसी सुती सकी, लाज मान्दै घुम्टो कसी",
+    "meaning": "Lived and slept together, then shyly tightened the veil."
+  },
+  {
+    "id": 708,
+    "text": "संगैका साथी सिंहदरबार माथि",
+    "meaning": "Friends together on top of Singhadurbar."
+  },
+  {
+    "id": 709,
+    "text": "सज्जनसंगको मितेरी शिलापत्र, दुर्जनसंगको मितेरी अलपत्र",
+    "meaning": "Friendship with the noble is like a stone inscription; friendship with the wicked leaves one helpless."
+  },
+  {
+    "id": 710,
+    "text": "सत्यको धन रहन्छ, असत्यको धन रहँदैन",
+    "meaning": "Wealth earned through truth remains, wealth through falsehood does not."
+  },
+  {
+    "id": 711,
+    "text": "शत्रु पछ्याउने भाइ, तन्नेरी पछ्याउने बुहारी",
+    "meaning": "A brother who chases an enemy, a daughter-in-law who chases a young man."
+  },
+  {
+    "id": 712,
+    "text": "सपनको तीर्थ जाँदाखेरी चुरोट खानुपर्छ",
+    "meaning": "When going on a dream pilgrimage, you must smoke a cigarette."
+  },
+  {
+    "id": 713,
+    "text": "सब लफडा थुतुन र मुतुनले निम्त्याउँछ",
+    "meaning": "All troubles are caused by the mouth and the urinary organ."
+  },
+  {
+    "id": 714,
+    "text": "सबै कुकुर काशी गए गु कसले खाने",
+    "meaning": "If all dogs go to Kashi, who will eat the feces?"
+  },
+  {
+    "id": 715,
+    "text": "सबै छोडी पुच्छर मुनि हात",
+    "meaning": "Left everything, hand under the tail."
+  },
+  {
+    "id": 716,
+    "text": "सम्धीको निर्हेले मलाई पनि घिउले",
+    "meaning": "My co-father-in-law's stubbornness got me ghee too."
+  },
+  {
+    "id": 717,
+    "text": "सयको लाठी, एकको बोझ",
+    "meaning": "A hundred people's stick, one person's burden."
+  },
+  {
+    "id": 718,
+    "text": "सरकारी काम कहिले जाला घाम",
+    "meaning": "Government work: when will the sun come?"
+  },
+  {
+    "id": 719,
+    "text": "सर्प पनि मरोस्, लट्ठी पनि नभाँचियोस्",
+    "meaning": "May the snake die, but may the stick not break."
+  },
+  {
+    "id": 720,
+    "text": "सर्पको खुट्टा सर्पले देख्छ",
+    "meaning": "A snake sees a snake's feet."
+  },
+  {
+    "id": 721,
+    "text": "ससुरालीको धनमा नामर्दको रजाई",
+    "meaning": "An impotent man's quilt on his in-law's wealth."
+  },
+  {
+    "id": 722,
+    "text": "सस्तो बेसारले पखाला लाग्छ",
+    "meaning": "Cheap turmeric causes diarrhea."
+  },
+  {
+    "id": 723,
+    "text": "साँढेको जुधाई, बाच्छाको मिचाई",
+    "meaning": "The bull's fight, the calf's trampling."
+  },
+  {
+    "id": 724,
+    "text": "साउँको भन्दा ब्याजको माया",
+    "meaning": "Love for interest is greater than love for the principal."
+  },
+  {
+    "id": 725,
+    "text": "साउनको भेललाई बेलामा रोक्न सके बाली राम्रो हुन्छ",
+    "meaning": "If you can stop the Shrawan flood in time, the crop becomes good."
+  },
+  {
+    "id": 726,
+    "text": "साउनमा आँखा फुटेको गोरूले बाह्रै महिना हरियो देख्छ",
+    "meaning": "An ox that loses its eyes in Shrawan sees green all twelve months."
+  },
+  {
+    "id": 727,
+    "text": "सानो चित्तले बोसो पाक्दैन",
+    "meaning": "A small heart does not cook fat."
+  },
+  {
+    "id": 728,
+    "text": "सानो छउन्जेल मर्ला भन्ने पीर, ठूलो भएपछि मार्ला भन्ने पीर",
+    "meaning": "When small, the worry is 'will I die?' When grown, the worry is 'will he kill me?'"
+  },
+  {
+    "id": 729,
+    "text": "सानोलाई ऐना, ठूलोलाई चैन",
+    "meaning": "A mirror for the small, comfort for the big."
+  },
+  {
+    "id": 730,
+    "text": "साकीको सरापले डिँगो मर्दैन",
+    "meaning": "A witness's curse does not kill a frog."
+  },
+  {
+    "id": 731,
+    "text": "सालीको आशमा भिनाजुको बनवास",
+    "meaning": "In hope of the sister-in-law, the brother-in-law's exile."
+  },
+  {
+    "id": 732,
+    "text": "सासूको माया छोरी छउन्जेल, बुहारीको माया छोरा छउन्जेल",
+    "meaning": "Mother-in-law's love lasts as long as the daughter is there; daughter-in-law's love lasts as long as the son is there."
+  },
+  {
+    "id": 733,
+    "text": "सिपाहीको काम छैन, जर्नेलको मान",
+    "meaning": "No work for the soldier, but honor for the general."
+  },
+  {
+    "id": 734,
+    "text": "सिमीका झालमा काउसाको कोसो",
+    "meaning": "A crow's sack in the pod of a bean."
+  },
+  {
+    "id": 735,
+    "text": "सियो बनेर पस्ने, फाली बनेर निस्कने",
+    "meaning": "Enter as a needle, exit as a blade."
+  },
+  {
+    "id": 736,
+    "text": "सियो हराएको दमाइँ जस्तो",
+    "meaning": "Like a tailor who lost his needle."
+  },
+  {
+    "id": 737,
+    "text": "सीतेंमा पाए भट्टिट रीते",
+    "meaning": "Found in Sitem, a dry Bhattit."
+  },
+  {
+    "id": 738,
+    "text": "सुख पाए ससुराली जानु, दुःख पाए मीतकहाँ जानु",
+    "meaning": "In happiness, go to the in-laws; in sorrow, go to a friend."
+  },
+  {
+    "id": 739,
+    "text": "सुगुरलाई स्वर्ग जान्छस् भन्दा त्यहाँ गु खान पाइन्छ भनी उल्टो सोध्छ",
+    "meaning": "Tell a pig 'go to heaven', it asks back 'can I eat feces there?'"
+  },
+  {
+    "id": 740,
+    "text": "सुघरी स्वास्नीको पोइ मोटाउँछ, फोहोरी स्वास्नीको कुकुर मोटाउँछ",
+    "meaning": "A clean wife's husband grows fat; a dirty wife's dog grows fat."
+  },
+  {
+    "id": 741,
+    "text": "सुनलाई खोल लाउनु पर्दैन",
+    "meaning": "Gold does not need to be coated."
+  },
+  {
+    "id": 742,
+    "text": "सुनारको सय चोट, लोहारको एक चोट",
+    "meaning": "A goldsmith's hundred blows, a blacksmith's one blow."
+  },
+  {
+    "id": 743,
+    "text": "सूर्य अस्त चन्द्र मस्त",
+    "meaning": "Sun sets, moon is happy."
+  },
+  {
+    "id": 744,
+    "text": "सूर्यको अगाडि बत्ती",
+    "meaning": "A lamp in front of the sun."
+  },
+  {
+    "id": 745,
+    "text": "सोरुठ साला सत्र",
+    "meaning": "Sorutha sala satra."
+  },
+  {
+    "id": 746,
+    "text": "सौताको रिसले श्रीमानको काखमा पिसाब फेर्नु",
+    "meaning": "Out of anger at the co-wife, urinate in the husband's lap."
+  },
+  {
+    "id": 747,
+    "text": "स्याल कराउनु कुखुरा हराउनु",
+    "meaning": "When the jackal cries, the chicken disappears."
+  },
+  {
+    "id": 748,
+    "text": "स्यालको शिकार गर्न जाँदा बाघको तयारी गर्नुपर्छ",
+    "meaning": "When going to hunt a jackal, you must prepare for a tiger."
+  },
+  {
+    "id": 749,
+    "text": "स्वास्थ राम्रो चेकअपले, केटी राम्रो मेकअपले",
+    "meaning": "Health is good with a checkup, a girl is good with makeup."
+  },
+  {
+    "id": 750,
+    "text": "स्वास्नीको अगाडि किम जोडे पनि बिरालो",
+    "meaning": "Even if you tie a kim in front of a woman, it's a cat."
+  },
+  {
+    "id": 751,
+    "text": "स्वास्नीमान्छेको थर छैन, लोग्ने मान्छेको घर छैन",
+    "meaning": "A woman has no surname, a man has no home."
+  },
+  {
+    "id": 752,
+    "text": "हँसियाको बिहेमा खुपर्को गीत",
+    "meaning": "At the sickle's wedding, a song for the grass."
+  },
+  {
+    "id": 753,
+    "text": "हगाइभन्दा पदाइ ठूलो",
+    "meaning": "Defecation is bigger than walking."
+  },
+  {
+    "id": 754,
+    "text": "हगन गयो कन्डो बिस्यो",
+    "meaning": "Went to defecate, forgot the back."
+  },
+  {
+    "id": 755,
+    "text": "हगे हग मुते काटुला",
+    "meaning": "Defecate, defecate; if you urinate, it will cut."
+  },
+  {
+    "id": 756,
+    "text": "हगेपछि दैलो देख्यो",
+    "meaning": "After defecating, saw the door."
+  },
+  {
+    "id": 757,
+    "text": "हग्नेलाई भन्दा देख्नेलाई लाज",
+    "meaning": "More shame for the watcher than for the defecator."
+  },
+  {
+    "id": 758,
+    "text": "हग्ने बेलामा चक खोज्नु",
+    "meaning": "Looking for a wheel while defecating."
+  },
+  {
+    "id": 759,
+    "text": "हडबडको काम गडबड हुन्छ",
+    "meaning": "Hasty work ends up being messed up."
+  },
+  {
+    "id": 760,
+    "text": "हत्केलामा तोरी उम्रदैन",
+    "meaning": "Mustard does not grow on the palm of the hand."
+  },
+  {
+    "id": 761,
+    "text": "हराएको गाई सूर्यलाई दान",
+    "meaning": "A lost cow is an offering to the sun."
+  },
+  {
+    "id": 762,
+    "text": "हरिप देखेर दैव डराउँछ",
+    "meaning": "Seeing Harip, even fate gets scared."
+  },
+  {
+    "id": 763,
+    "text": "हरेस खाए पनि चरेस नखानु",
+    "meaning": "Even if you lose heart, don't smoke hashish."
+  },
+  {
+    "id": 764,
+    "text": "हराउन नपाउनेलाई जाईफल",
+    "meaning": "Nutmeg for the one who never loses."
+  },
+  {
+    "id": 765,
+    "text": "हराउन नपाउनेले जाईफलको धाक",
+    "meaning": "The one who never loses boasts of nutmeg."
+  },
+  {
+    "id": 766,
+    "text": "हलुवामा बालुवा",
+    "meaning": "Sand in the halwa."
+  },
+  {
+    "id": 767,
+    "text": "हलेदो भन्ने थाहा पाएपछि कोट्याउनु पर्दैन",
+    "meaning": "Once you know it's turmeric, you don't need to scratch."
+  },
+  {
+    "id": 768,
+    "text": "हलो अङ्काएर गोरु चुट्नु",
+    "meaning": "Hugging the plow and beating the ox."
+  },
+  {
+    "id": 769,
+    "text": "हलो काटेर मुड्यो",
+    "meaning": "Cut the plow and twisted it."
+  },
+  {
+    "id": 770,
+    "text": "हलो जोत्दैमा गोरु ब्याउँदैन",
+    "meaning": "An ox does not give birth just by plowing."
+  },
+  {
+    "id": 771,
+    "text": "हल्लिएको दाँत एकदिन फुक्लन्छ",
+    "meaning": "A loose tooth will fall out one day."
+  },
+  {
+    "id": 772,
+    "text": "हाँसी हाँसी कसेको गाँठो रोई रोई फुकाउनुपर्छ",
+    "meaning": "A knot tied laughing must be untied crying."
+  },
+  {
+    "id": 773,
+    "text": "हातमा पुस्तक मनमा दश थोक",
+    "meaning": "A book in hand, ten things in mind."
+  },
+  {
+    "id": 774,
+    "text": "हातीको दुइटा दात हुन्छ, एउटा खाने अर्को देखाउने",
+    "meaning": "An elephant has two tusks: one for eating, one for showing off."
+  },
+  {
+    "id": 775,
+    "text": "हाती आयो हाती आयो फुस्सा",
+    "meaning": "An elephant came, an elephant came... phussa (nothing)."
+  },
+  {
+    "id": 776,
+    "text": "हाती उडाउने बतास आयो पिउरी खोज्छेस् राँड",
+    "meaning": "The wind that flies an elephant came, the widow searches for flattened rice."
+  },
+  {
+    "id": 777,
+    "text": "हाती चढिसकेको मान्छेले गधा चढ्न के रुचाउला",
+    "meaning": "One who has ridden an elephant, why would he like to ride a donkey?"
+  },
+  {
+    "id": 778,
+    "text": "हाती छियो पुच्छर अङ्क्यो",
+    "meaning": "There was an elephant, the tail measured it."
+  },
+  {
+    "id": 779,
+    "text": "हाती लम्कनु घोडा चम्कनु",
+    "meaning": "Elephant walks, horse shines."
+  },
+  {
+    "id": 780,
+    "text": "हातीको मुखमा जीरा",
+    "meaning": "A cumin seed in an elephant's mouth."
+  },
+  {
+    "id": 781,
+    "text": "हातको माछा छोडेर पोखरीको माछा खोज्ने",
+    "meaning": "Leave the fish in hand and search for the fish in the pond."
+  },
+  {
+    "id": 782,
+    "text": "हारेको कुकुरले सधैं दाँत देखाउँछ",
+    "meaning": "A defeated dog always shows its teeth."
+  },
+  {
+    "id": 783,
+    "text": "हाने गोरुको छेनै दाउ",
+    "meaning": "The ox that is hit has only one trick left."
+  },
+  {
+    "id": 784,
+    "text": "हावा नचली पात हल्लिदैन",
+    "meaning": "Without the wind blowing, the leaf does not shake."
+  },
+  {
+    "id": 785,
+    "text": "हिँड्दैछ पाइला मेट्दैछ",
+    "meaning": "Is walking, is wiping the footsteps."
+  },
+  {
+    "id": 786,
+    "text": "हिँड्ने गोरूले चुटाई खान्छ",
+    "meaning": "The walking ox gets beaten."
+  },
+  {
+    "id": 787,
+    "text": "हीराको मोल किराले जान्दैन",
+    "meaning": "A worm does not know the value of a diamond."
+  },
+  {
+    "id": 788,
+    "text": "हिस्स बुढीको खिस्स दाँत",
+    "meaning": "The old woman's share is a tooth."
+  },
+  {
+    "id": 789,
+    "text": "हुने बिरुवाको चिल्लो पात",
+    "meaning": "A plant that will grow has shiny leaves."
+  },
+  {
+    "id": 790,
+    "text": "हुने हार, दैव नटार",
+    "meaning": "The one who will lose loses; fate cannot be stopped."
+  },
+  {
+    "id": 791,
+    "text": "हुलमुलमा जिउ जोगाउनु, अनिकालमा बिउ जोगाउनु",
+    "meaning": "Save your body in the crowd, save your seed in famine."
+  },
+  {
+    "id": 792,
+    "text": "हेरेर मर्नु भन्दा छेरेर मर्नु जाती",
+    "meaning": "Better to die scattering than to die watching."
+  },
+  {
+    "id": 793,
+    "text": "हेदा चरो, पर्दा बन्चरो",
+    "meaning": "While looking, a bird; while falling, a curved knife."
+  },
+  {
+    "id": 794,
+    "text": "हेदाको रामो, दिन खानको चामो",
+    "meaning": "Looking at the shape, a curry to eat for the day."
+  },
+  {
+    "id": 795,
+    "text": "हेराइको र छेराइको भर हुँदैन",
+    "meaning": "There is no reliance on looking and scattering."
+  },
+  {
+    "id": 796,
+    "text": "हैन भने बाटो पनि छैन, छ भने बाटो पनि छ",
+    "meaning": "If not, there is no path; if there is, there is a path."
+  },
+  {
+    "id": 797,
+    "text": "होचो आउँदा घोचो, अग्लो आउँदा अग्लो",
+    "meaning": "When the short comes, a spike; when the tall comes, tall."
+  },
+  {
+    "id": 798,
+    "text": "होसियार आफू, बेहोस अरु",
+    "meaning": "Conscious oneself, unconscious others."
+  },
+  {
+    "id": 799,
+    "text": "होहल्ला भन्दा हल्ला हिँड्दैन",
+    "meaning": "A rumor does not walk without noise."
+  },
+  {
+    "id": 800,
+    "text": "ह्याङ आउँदा खाना छ, ह्याङ जाँदा खाना छैन",
+    "meaning": "When Hyang comes, there is food; when Hyang goes, there is no food."
+  }
+
+
+
+]
+
