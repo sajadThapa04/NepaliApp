@@ -19,18 +19,6 @@ interface Ukhan {
   createdAt?: any;
 }
 
-// Ad component placeholder
-const AdUnit = ({ position }: { position: 'top' | 'bottom' }) => {
-  return (
-    <div className="my-8 p-4 bg-gray-100 dark:bg-gray-800 rounded-xl border border-gray-200 dark:border-gray-700 text-center">
-      <div className="text-xs text-gray-400 dark:text-gray-500 mb-2">Advertisement</div>
-      <div className="h-[90px] md:h-[120px] bg-gray-200 dark:bg-gray-700 rounded-lg flex items-center justify-center text-gray-400 dark:text-gray-500">
-        <span className="text-sm">Ad Space - {position}</span>
-      </div>
-    </div>
-  );
-};
-
 export default function UkhanPage() {
   const [allUkhans, setAllUkhans] = useState<Ukhan[]>([]);
   const [randomProverbs, setRandomProverbs] = useState<Ukhan[]>([]);
@@ -197,9 +185,6 @@ export default function UkhanPage() {
       {/* Main Content */}
       <div className="container mx-auto px-4 py-8">
         
-        {/* Top Ad Slot */}
-        <AdUnit position="top" />
-
         {/* Featured Random Proverbs Section */}
         <div className="mb-16">
           <div className="text-center mb-8">
@@ -306,9 +291,6 @@ export default function UkhanPage() {
             </div>
           </div>
         </div>
-
-        {/* Bottom Ad Slot */}
-        <AdUnit position="bottom" />
       </div>
 
       {/* Back to Top Button */}
