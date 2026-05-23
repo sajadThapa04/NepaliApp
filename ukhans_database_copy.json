@@ -2005,15 +2005,15 @@
     "text": "धेरै बिरालो हुँदा मुसा मर्दैन",
     "meaning": "When there are too many cats, the mice don't die."
   },
-  {
+ {
     "id": 402,
-    "text": "धोबीको कुकुर, घरको न घाटको",
-    "meaning": "A washerman's dog belongs to neither home nor the riverbank."
+    "text": "धोबीको कुकुर, न घरको न घाटको",
+    "meaning": "A washerman's dog belongs neither to the home nor to the riverbank washing station (घाट). (A person who tries to maintain dual loyalties or switch between two places constantly, ending up completely rejected, untrusted, and homeless by both sides)."
   },
-  {
+ {
     "id": 403,
-    "text": "धोबीको कुता यता न उता",
-    "meaning": "A washerman's dog is neither here nor there."
+    "text": "धोबीको कुकुर यता न उता",
+    "meaning": "A washerman's dog is left neither here nor there. (A shorter, conversational variant of ID 402 describing someone completely stranded without a side to lean on)."
   },
   {
     "id": 404,
@@ -2027,38 +2027,38 @@
   },
   {
     "id": 406,
-    "text": "न धुँदा जाने, न रूँदा जाने",
-    "meaning": "Doesn't know how to wash, doesn't know how to cry."
+    "text": "न छुँदा जाने, न रुँदा जाने",
+    "meaning": "It won't budge or go away when you push it, nor will it leave when you weep out of frustration. (An incredibly stubborn, persistent problem, debt, or uninvited guest that cannot be driven away by force or emotional appeals)."
   },
   {
     "id": 407,
-    "text": "नकचरा को ओखति छैन",
-    "meaning": "There is no cure for clumsiness."
+    "text": "नकचराको ओखती छैन",
+    "meaning": "There is absolutely no medical cure or remedy for a completely shameless, thick-skinned person (नकचरा). (You can cure a disease, but you cannot fix someone who has completely lost their sense of honor, decency, and self-respect)."
   },
   {
     "id": 408,
     "text": "नक्कल गर्न पनि अक्कल चाहिन्छ",
     "meaning": "Even to imitate, you need intelligence."
   },
-  {
+ {
     "id": 409,
-    "text": "नखाउँ भने दिन भरीको सिकार, खाउँ भने कान्छा बाउको अनुहार",
-    "meaning": "If I don't eat, it's a day-long hunt; if I eat, it's the face of the youngest father."
+    "text": "नखाऊँ भने दिनभरिको सिकार, खाऊँ भने कान्छाबाउको अनुहार",
+    "meaning": "If I refuse to eat it, it means wasting an entire hard day's hunting catch; but if I do eat it, the meat looks disturbingly like the face of my own paternal uncle (कान्छाबाउ). (Being trapped in a horrific moral dilemma where both choices are equally terrible—wasting precious effort or committing a taboo/painful act)."
   },
-  {
+ {
     "id": 410,
-    "text": "नडले चिमोटे हुनेलाई बन्चरो किन लगाउने",
-    "meaning": "Why use a curved knife on someone who gets pinched without stepping?"
+    "text": "नङले चिमोटेर हुनेलाई बन्चरो किन लगाउने",
+    "meaning": "Why swing a heavy metal woodcutter's axe (बन्चरो) at something that can be easily pinched and resolved with a tiny fingernail (नङ)? (Never use excessive, destructive force or expensive measures to solve a minor issue that can be handled with a simple, quiet conversation)."
   },
   {
     "id": 411,
     "text": "नजाने गाउँको बाटो नसोध्नु",
     "meaning": "Don't ask for the road to a village you don't know."
   },
-  {
+ {
     "id": 412,
-    "text": "नजाने शहरको GPS नलगाउनु",
-    "meaning": "Don't use GPS for a city you don't know."
+    "text": "नजाने सहरको बाटो नसोध्नु",
+    "meaning": "Do not waste time asking directions to a city you have absolutely no intention of visiting. (Do not poke your nose into random affairs, gossips, or business ventures that have nothing to do with your life or future goals)."
   },
   {
     "id": 413,
@@ -2070,15 +2070,15 @@
     "text": "नजानेको लडाइँ नलडेकै राम्रो",
     "meaning": "A battle you don't know is best not fought."
   },
-  {
+ {
     "id": 415,
-    "text": "नदिने बजैले बुधबार बाँछन्",
-    "meaning": "A miserly trader picks Wednesday (an inauspicious day to ask)."
+    "text": "नदिने बजैले बुधबार बार्छिन्",
+    "meaning": "A miserly old grandmother (बजै) who has no intention of giving you a gift will conveniently invent a religious excuse, claiming she must rigidly observe Wednesday rules (बुधबार बार्ने). (People who don't want to help you will always manufacture petty, calculated excuses to delay or deny your requests)."
   },
-  {
+ {
     "id": 416,
     "text": "नदुखेको कपाल डोरी लगाई लगाई किन दुखाउनु",
-    "meaning": "Why hurt hair that doesn't hurt by putting a rope on it again and again?"
+    "meaning": "Why deliberately bind a perfectly healthy, ache-free head with a tight rope just to induce a massive headache? (A strong warning against poking your nose into other people's messes or manufacturing unnecessary drama and liabilities for yourself when your life is currently peaceful)."
   },
   {
     "id": 417,
@@ -2087,8 +2087,8 @@
   },
   {
     "id": 418,
-    "text": "नपाउनेले केरा पायो बियर संगै खायो",
-    "meaning": "One who never gets anything got a banana and ate it with beer."
+    "text": "नपाउनेले केरा पायो, बोक्रैसित खायो",
+    "meaning": "A wretched person who had never seen luxury in their entire life suddenly stumbled upon a banana, and out of sheer primitive greed, swallowed it whole along with the bitter peel. (An uncultured, deprived person overindulging comically and making a complete fool of themselves the moment they get a taste of wealth or power)."
   },
   {
     "id": 419,
@@ -2097,18 +2097,18 @@
   },
   {
     "id": 420,
-    "text": "नपाउनेले केरा पायो, चियामा चोपी खायो",
-    "meaning": "One who never gets anything got a banana, dipped it in tea and ate it."
+    "text": "नपाउनेले केरा पायो, चियामा चोपेर खायो",
+    "meaning": "A deprived person finally got a banana and comically dipped it into hot tea before eating it. (Another variation of ID 418, mocking someone who doesn't know how to handle or enjoy a newly acquired privilege or asset appropriately)."
   },
   {
     "id": 421,
     "text": "नपाउनेले छोरो पायो, खेलाई खेलाई माया",
     "meaning": "One who never got a son got one, loves him by playing with him."
   },
-  {
+ {
     "id": 422,
-    "text": "नबिराउने नडराउने",
-    "meaning": "Neither forgets nor fears."
+    "text": "नबिराउनु, नडराउनु",
+    "meaning": "Do no wrong, and you will have absolutely no reason to fear anyone. (A clean conscience is the ultimate shield; if you haven't broken any laws or ethical codes, you can face any authority or crisis with absolute confidence)."
   },
   {
     "id": 423,
@@ -2120,15 +2120,15 @@
     "text": "नबोल्नेको कोहि पनि बैरी हुदैन",
     "meaning": "One who doesn't speak has no enemies."
   },
-  {
+ {
     "id": 425,
     "text": "नभएकी स्वास्नी कस्ती कस्ती, भएकी स्वास्नी सस्ती",
-    "meaning": "A wife you don't have, what kind? A wife you have is cheap."
+    "meaning": "An imaginary, unattainable wife seems incredibly perfect and mesmerizing, while the real wife living right at home is treated as cheap and ordinary. (The grass is always greener on the other side; people constantly romanticize what they don't have while completely devaluing the reliable assets and partners they already possess)."
   },
-  {
+ {
     "id": 426,
-    "text": "नभरेको गाफो छपक्क छिट्टै",
-    "meaning": "An unloaded gun clicks quickly."
+    "text": "नभरेको गाग्रो छपक्क छिट्छ",
+    "meaning": "A half-empty water clay-pot (गाग्रो) sloshes around violently and splashes water everywhere while being carried, whereas a completely full pot remains steady and silent. (Empty vessels make the most noise; people with shallow knowledge brag constantly, while truly wise and wealthy individuals remain quiet and grounded)."
   },
   {
     "id": 427,
@@ -2137,13 +2137,13 @@
   },
   {
     "id": 428,
-    "text": "नमच्चने पिडको सय झडका",
-    "meaning": "A hundred jerks for a lump that won't go down."
+    "text": "नमच्चिने पिङको सय झट्का",
+    "meaning": "A heavy traditional festival swing (पिङ) that completely lacks momentum and refuses to soar high will just jerk back and forth a hundred times causing immense friction. (A highly incompetent, untalented person who makes an exhausting amount of noise, fuss, and dramatic effort but fails to deliver any actual results)."
   },
-  {
+ {
     "id": 429,
-    "text": "नयाँ जोगी खरानी धेरै घस्ट",
-    "meaning": "A new hermit rubs a lot of ash."
+    "text": "नयाँ जोगीले खरानी धेरै घस्छ",
+    "meaning": "A newly initiated hermit (जोगी) covers his entire body in excessive, thick layers of holy ash just to desperately show off his piety. (An absolute amateur or newly appointed official overdoing their duties and acting overly aggressive to artificially prove their authority or dedication)."
   },
   {
     "id": 430,
@@ -2152,33 +2152,33 @@
   },
   {
     "id": 431,
-    "text": "नशा भनेको सुतीले पनि दिन्छ",
-    "meaning": "Even cotton gives intoxication."
+    "text": "नसा भनेको सुईले पनि दिन्छ",
+    "meaning": "Intoxication and addiction can be delivered even by a small medical needle (सुई). (A warning that destructive habits or dangerous addictions can enter your life through innocent-looking doors or small, seemingly clinical beginnings)."
   },
   {
     "id": 432,
-    "text": "नहुने मामा भन्दा काने मामा जाती",
-    "meaning": "A one-eared uncle is better than an uncle who doesn't exist."
+    "text": "नहुनु मामाभन्दा काने मामा जाती",
+    "meaning": "Having a maternal uncle who is partially deaf or has a deformed ear (काने मामा) is infinitely better than having no maternal uncle at all. (Something is better than nothing; a flawed, imperfect resource or helper is far more useful than being completely stranded with zero support)."
   },
-  {
+ {
     "id": 433,
     "text": "नाकमुनि कन्दनी",
-    "meaning": "Chewing under the nose (muttering)."
+    "meaning": "Tying a traditional waist-string (कन्दनी) right under the nose instead of around the waist. (A highly ridiculous, backward, and upside-down way of doing things that completely defies logic and common sense)."
   },
   {
     "id": 434,
     "text": "नाच्न नजान्ने आँगन टेढो",
     "meaning": "One who can't dance says the yard is crooked."
   },
-  {
+ {
     "id": 435,
-    "text": "नातिनिको कुतर्क सुरुवालमा हजुरआमाको रजाई",
-    "meaning": "Grandmother's quilt in the great-granddaughter's trousers."
+    "text": "नातिनीको कुर्कुच्चामा हजुरआमाको रजाईं",
+    "meaning": "A grandmother trying to rule and exercise absolute authority over her modern granddaughter's heels (lifestyle choices). (Older generations trying to strictly dictate, micromanage, or impose their ancient rules onto the fast-moving, modern lives of the youth)."
   },
   {
     "id": 436,
-    "text": "नानी भन्दा आची ठूलो",
-    "meaning": "The grandmother is bigger than the granddaughter."
+    "text": "नानीभन्दा आची ठूलो",
+    "meaning": "The little baby's poop (आची) turns out to be significantly larger than the actual baby (नानी) itself! (A hilarious, rustic proverb describing a situation where the side-effects, secondary costs, or problems of a project end up being vastly bigger and more overwhelming than the core project itself)."
   },
   {
     "id": 437,
@@ -2192,13 +2192,13 @@
   },
   {
     "id": 439,
-    "text": "नामदिक जोइ हुनुभन्दा मदिक कमारी हुनु जाति",
-    "meaning": "Being a lowly maidservant is better than being a high-caste wife with a bad name."
+    "text": "नामूद जोई हुनुभन्दा नामूद कमारी हुनु जाति",
+    "meaning": "It is far better to be known as a highly notorious, famous maidservant (कमारी) than to be a notorious, ill-reputed wife (जोई). (In traditional contexts, a warning that losing one's core family reputation and honor carries a permanent social stigma far worse than having a low-ranking job)."
   },
-  {
+ {
     "id": 440,
-    "text": "नामदलाई लुतो",
-    "meaning": "Mange for the nameless."
+    "text": "नामूदलाई लुतो",
+    "meaning": "A highly famous or notorious person getting hit with a severe, embarrassing skin itch/mange (लुतो). (When a prominent public figure suffers a highly visible, embarrassing personal scandal, it becomes the talk of the entire town)."
   },
   {
     "id": 441,
@@ -2207,13 +2207,13 @@
   },
   {
     "id": 442,
-    "text": "ननभन लागेको बत्ती चहककिलो बल्छ",
-    "meaning": "A lamp that is not forbidden shines brightly."
+    "text": "निभ्न लागेको बत्ती चहकिलो बल्छ",
+    "meaning": "An oil lamp flares up with a sudden, unusually bright flash of light right before its fuel completely runs out and it goes dark forever. (A dying entity, failing business, or losing opponent showing a sudden, desperate burst of high energy or aggression right before their ultimate collapse)."
   },
-  {
+ {
     "id": 443,
-    "text": "नेवार इस्ट र बाउ दुष्ट कहिल्यै हुँदैन",
-    "meaning": "A Newar is never a friend, and a father is never evil."
+    "text": "नेवार इष्ट र बाहुन दुष्ट कहिल्यै हुँदैन",
+    "meaning": "A traditional, old-school stereotype claiming a Newar merchant will never fully become your trusted insider best friend, and an educated Brahmin will rarely act purely evil without a calculated motive. (An old cultural saying regarding social dynamics and taking caution with community alliances)."
   },
   {
     "id": 444,
@@ -2222,8 +2222,8 @@
   },
   {
     "id": 445,
-    "text": "नौलो छँदा नौ पुलाको गाँस, पूरानो भएपछि जगल्टाको नाश",
-    "meaning": "When new, nine pula of food; when old, the destruction of a heap."
+    "text": "नौलो छँदा नौ पुलाको गाँस, पुरानो भएपछि जगल्टाको नाश",
+    "meaning": "When an item or relationship is brand new, it is showered with nine bundles (पुला) of excessive care and pampering; but the moment it grows old, it is neglected to the point that its hair (जगल्टा) gets pulled out. (People treat new things or new employees with immense excitement and luxury, but treat them like dirt once the novelty wears off)."
   },
   {
     "id": 446,
@@ -2240,20 +2240,20 @@
     "text": "पटुकामा रुपैया, बटुकामा भात",
     "meaning": "Money in the waist pouch, rice in the begging bowl."
   },
-  {
+ {
     "id": 449,
-    "text": "पदिलेखी छैन काम, चम्चागिगरी गरी खायो माम",
-    "meaning": "No work from the office, spooned it and ate."
+    "text": "पढेलेखेको छैन काम, चम्चागिरी गरी खायो माम",
+    "meaning": "Having absolutely zero education, skills, or honest labor capacity, but surviving luxuriously purely by sycophancy and flattering powerful bosses (चम्चागिरी). (A modern satirical jab at corporate or political bootlickers who secure their livelihood purely by sucking up to the leadership)."
   },
   {
     "id": 450,
     "text": "पढेर भन्दा परेर जानिन्छ",
-    "meaning": "One is known by falling rather than by reading."
+    "meaning": "Real wisdom is acquired far more by actually experiencing hardships and falling into crises (परेर) than by simply reading dry text in school textbooks. (Experience is the absolute best teacher; practical street-smarts beat theoretical book knowledge every single time)."
   },
-  {
+{
     "id": 451,
     "text": "पढ्यो गुन्यो के काम, हलो जोत्यो खायो माम",
-    "meaning": "What's the use of reading and counting? Plowed the field and ate."
+    "meaning": "What on earth was the point of all that intense studying and contemplation if we ultimately have to end up plowing fields (हलो जोत्ने) just to secure a basic meal? (A historic, cynical commentary on the lack of specialized professional opportunities, where even educated folks had to return to manual farming to survive)."
   },
   {
     "id": 452,
@@ -2270,20 +2270,20 @@
     "text": "पापलाई पुण्य भन्नु र दिनलाई रात भन्नु एउटै हो",
     "meaning": "Calling sin virtue and calling day night is the same."
   },
-  {
+ {
     "id": 455,
-    "text": "पायो पायो खेरायो, लास लिएर डेरायो",
-    "meaning": "Got and lost, camped carrying a corpse."
+    "text": "पायो पायो फेला पार्यो, लास लिएर डेरा सार्यो",
+    "meaning": "He bragged about finding an amazing, free asset, but it turned out to be a heavy corpse that forced him to desperately move his entire rented apartment (डेरा) just to escape the liability. (A warning against greedily accepting free things that turn out to be massive, disastrous legal or financial burdens in disguise)."
   },
   {
     "id": 456,
     "text": "पारी खाल्डो, वारि भीर",
     "meaning": "A pit on one side, a cliff on the other."
   },
-  {
+ {
     "id": 457,
     "text": "पाल्नेले मार्छ भन्दा मार्नेले पाल्छ",
-    "meaning": "Rather than the nourisher killing, the killer nourishes."
+    "meaning": "The ultimate creator/protector holds the true power of life; even if the entire world tries to destroy you, if your true protector wills your survival, you will thrive. (Divine or systemic protection easily overrides the malicious intents of petty enemies)."
   },
   {
     "id": 458,
@@ -2292,13 +2292,13 @@
   },
   {
     "id": 459,
-    "text": "पिडको सालो, कुसुमे बाह्रै महिना",
-    "meaning": "A lump's brother-in-law, twelve months of Kusume."
+    "text": "पिँडालुको सालो, कुभिन्डो बाह्रै महिना",
+    "meaning": "The wild taro root's (पिँडालु) self-proclaimed brother-in-law is the ash gourd (कुभिन्डो), hanging around bragging all twelve months of the year. (Mocking a complete outsider who desperately invents a fake family relationship or high-status connection with a prominent person just to boost their own social standing)."
   },
   {
     "id": 460,
-    "text": "पिर पर्दा पिर पिर, भात खाँदा मिरमिर",
-    "meaning": "When in trouble, it's pain pain; when eating rice, it's munch munch."
+    "text": "पिर पर्दा पिरपिर, भात खाँदा मिरमिर",
+    "meaning": "When it's time to handle a crisis or do hard work, they whine and cry about pain; but the exact second dinner is served, their eyes light up and they eat like absolute royalty. (A lazy, highly selfish person who vanishes during tough times but shows up first in line to enjoy the rewards)."
   },
   {
     "id": 461,
@@ -2320,10 +2320,10 @@
     "text": "पूजा गर्न जाँदा ढुंगा फेला पर्नु",
     "meaning": "Finding a stone while going to worship."
   },
-  {
+ {
     "id": 465,
-    "text": "पूज्य पुर्खाको बाटो र फोहोर पानीको बाटो एउटै",
-    "meaning": "The path of honorable ancestors and the path of dirty water are the same."
+    "text": "पूज्य पुर्खाको बाटो र कुलोको पानीको बाटो एउटै",
+    "meaning": "The established traditions of honorable ancestors and the flow of irrigation canal water both follow the natural path of least resistance and proven historical channels. (Respecting structural engineering and proven traditional workflows yields the smoothest results)."
   },
   {
     "id": 466,
@@ -2342,13 +2342,13 @@
   },
   {
     "id": 469,
-    "text": "पोइ गयो नेपाल, बुहारी बनिन् सक्कल",
-    "meaning": "Husband went to Nepal, the daughter-in-law became real."
+    "text": "पोइ गयो मगलान, बुहारी भइन् सक्कलान",
+    "meaning": "The husband left the country for foreign labor (मगलान), and back home, the daughter-in-law suddenly turned into a stylish, independent queen putting on extreme airs. (Someone letting loose and living a lavish, unchecked lifestyle the absolute second their supervisor or authority figure leaves the premises)."
   },
-  {
+ {
     "id": 470,
-    "text": "पोइ मरेपछि बुहारी साइली, साइली मरेपछि बुहारी पोइ",
-    "meaning": "After husband dies, daughter-in-law becomes sister; after sister dies, daughter-in-law becomes husband."
+    "text": "पोइ मरेपछि बुहारी साइली, सासू मरेपछि बुहारी पोइ",
+    "meaning": "When the husband dies, the daughter-in-law is reduced to an ordinary family member; but the moment the controlling mother-in-law dies, she takes over the entire house like a dominant boss. (The shifting dynamics of power inside a household or organization as old leaders depart)."
   },
   {
     "id": 471,
@@ -2367,8 +2367,8 @@
   },
   {
     "id": 474,
-    "text": "पोते र पिल्ची एउटै थैलीमा",
-    "meaning": "Bead and pliers in the same bag."
+    "text": "पोते र फुली एउटै थैलीमा",
+    "meaning": "An expensive glass-bead wedding necklace (पोते) and a gold nose-ring (फुली) kept safely in the exact same velvet pouch. (Two highly valuable, complementary, and beautifully matched assets or people kept together harmoniously)."
   },
   {
     "id": 475,
@@ -2377,8 +2377,8 @@
   },
   {
     "id": 476,
-    "text": "पौंला टेकेर उम्लने",
-    "meaning": "To step on the toe and jump."
+    "text": "औंला टेकेर उम्लने",
+    "meaning": "Standing frantically on one's tiptoes out of explosive rage or extreme impatience. (A person who completely loses their temper or composure over a small matter, boiling over instantly)."
   },
   {
     "id": 477,
@@ -2390,15 +2390,15 @@
     "text": "प्रश्न लिएर ऋणी हुनु, उत्तर लिएर लेनदार हुनु",
     "meaning": "Become a debtor by taking a question, become a creditor by taking an answer."
   },
-  {
+ {
     "id": 479,
-    "text": "बक्रको पुच्छर बाह्रै अंगुल",
-    "meaning": "A heron's tail is twelve finger-lengths."
+    "text": "बाङ्गो पुच्छर बाह्र वर्ष ढुङ्ग्रोमा राखे पनि जस्ताको तस्तै",
+    "meaning": "Even if you keep a dog's crooked tail inside a straight wooden pipe (ढुङ्ग्रो) for twelve long years, the exact second you take it out, it curls right back up. (A person with a fundamentally corrupt nature, bad habits, or toxic personality cannot be reformed, no matter how much training or corrective discipline you give them)."
   },
-  {
+ {
     "id": 480,
-    "text": "बक्रको बच्चा एकै ठाउँ, सर्पको बच्चा वनैभरि",
-    "meaning": "A heron's baby is in one place, a snake's baby is all over the forest."
+    "text": "बाघको बच्चा एकै ठाउँ, सर्पको बच्चा वनैभरि",
+    "meaning": "A magnificent tiger raises just one or two elite cubs in a single secure den, while a common snake lays cheap eggs that scatter pests all over the forest. (Quality beats quantity; a single highly capable, premium asset or leader is worth far more than a hundred low-skilled, chaotic followers)."
   },
   {
     "id": 481,
@@ -2410,20 +2410,20 @@
     "text": "बटुवा छ भने बाटो सजिन्छ",
     "meaning": "If there is a traveler, the path is decorated."
   },
-  {
+ {
     "id": 483,
-    "text": "बट्टुले काम नपाएपछि बन्दुकमा बत्ती लगाउने",
-    "meaning": "When BATTU doesn't get work, lights the gun."
+    "text": "बुढोले काम नपाएपछि बन्दुकमा बत्ती लगाउने",
+    "meaning": "When an old, retired person has absolutely no productive daily tasks left to do, they start foolishly trying to light an oil lamp inside a dangerous gunpowder barrel. (An idle mind is a devil's workshop; people who have nothing constructive to do will engage in highly disruptive, counterproductive, or dangerous meddling)."
   },
   {
     "id": 484,
-    "text": "बदरलाई बोली, बादरलाई चोली",
-    "meaning": "Speech for the monkey, a blouse for the monkey."
+    "text": "बाँदरलाई कली, बादरलाई चोली",
+    "meaning": "Gifting an expensive metal anklet (कली) and a fine silk blouse (चोली) to a wild monkey. (Casting pearls before swine; wasting premium assets, high authority, or sophisticated tools on a completely uncivilized person who has zero capacity to appreciate or use them)."
   },
   {
     "id": 485,
-    "text": "बनको मूलो, बरीको टूलो",
-    "meaning": "The root of the forest, the stake of the hedge."
+    "text": "बनको मूलो, बारीको थाक्रो",
+    "meaning": "A wild forest radish (बनको मूलो) paired up as a support stake (थाक्रो) for garden vines. (A completely mismatched, crude combination of resources that do not naturally belong together)."
   },
   {
     "id": 486,
@@ -2432,8 +2432,8 @@
   },
   {
     "id": 487,
-    "text": "बन्जुलीको बाण लक्ष्मणको साथ",
-    "meaning": "The arrow of the wilderness is with Laxman."
+    "text": "बन्चरोको बिँड आफ्नै जात",
+    "meaning": "The wooden handle (बिँड) of a metal axe is made from the exact same tree trunk that the axe is about to chop down. (The enemy within; an insider or close family member betraying their own people to help an external force destroy them)."
   },
   {
     "id": 488,
@@ -2450,30 +2450,30 @@
     "text": "बर्षभरि रुनेको एउटै दिन हाँस्नु बर्षभरि हाँस्नेको एउटै दिन रुनु",
     "meaning": "One who cries all year laughs one day; one who laughs all year cries one day."
   },
-  {
+{
     "id": 491,
     "text": "बस्छु भने पशुपति, नबस्छु भने गोश्वारा",
-    "meaning": "If I stay, Pashupati; if I don't stay, Goshwara."
+    "meaning": "If I choose a spiritual life, I will stay at the sacred Pashupati temple; if I choose administrative power, I will work at the central government headquarters (गोश्वारा). (Having clear, uncompromising clarity about your ambitions—either going fully spiritual or fully corporate/political, without lukewarm compromises)."
   },
-  {
+ {
     "id": 492,
-    "text": "बाउ आफू भन्काउने, छोरा भन्काउने काम",
-    "meaning": "Father bends himself, son's job is to bend."
+    "text": "बाउ आफू भत्काउने, छोरा भत्काउने काम",
+    "meaning": "The father spends his entire life breaking down and destroying things, and the son follows the exact same destructive blueprint. (Bad generational habits and toxic patterns being passed down directly from parent to child)."
   },
   {
     "id": 493,
     "text": "बाउ गयो बन बास, छोरो आयो घर बास",
     "meaning": "Father went to forest exile, son came to home stay."
   },
-  {
+ {
     "id": 494,
-    "text": "बाउ बन्चरो, छोरो बाउ बन्चरो",
-    "meaning": "Father is a curved knife, son is a father curved knife."
+    "text": "बाउ बन्चरो, छोरो कुल्हाडो",
+    "meaning": "The father is a sharp wood-cutter's axe, and the son turns out to be a massive, heavy iron cleaver (कुल्हाडो). (Like father, like son; the child growing up to be just as sharp, aggressive, or capable as the parent)."
   },
   {
     "id": 495,
-    "text": "बाघ आउँदा भाले बासी, तर्सिने बेला रातो कापी",
-    "meaning": "When the tiger comes, the rooster crows; at the time of fear, a red notebook."
+    "text": "बाघ आउँदा भाले बास्ने",
+    "meaning": "A clueless rooster loudly crowing to show off its presence at the exact moment a deadly tiger enters the yard. (Incredibly foolish, ill-timed bragging that directly alerts a dangerous enemy or predator to your exact location)."
   },
   {
     "id": 496,
@@ -2497,8 +2497,8 @@
   },
   {
     "id": 500,
-    "text": "बाघले सिनो खादैन",
-    "meaning": "A tiger does not eat a sniff."
+    "text": "बाघले सिनो खाँदैन",
+    "meaning": "A majestic, proud tiger will never stoop down to eating rotting, dead carrion/carcasses (सिनो)—it only eats fresh prey it hunts itself. (A highly principled, self-respecting person or top-tier professional will never compromise their core dignity or accept low-life bribes/cheap handouts, no matter how desperate or broke they are)."
   },
   {
     "id": 501,
@@ -2523,17 +2523,17 @@
   {
     "id": 505,
     "text": "बाघको न्यास्रो लागे बिरालोको अनुहार हेर्नु",
-    "meaning": "When a tiger sneezes, look at the cat's face."
+    "meaning": "If you miss or feel a deep longing (न्यास्रो) for a magnificent tiger, settle for looking at the face of a common house cat. (If a premium, high-status asset or a legendary leader is completely unavailable, you must compromise and comfort yourself with a small, ordinary alternative that looks vaguely similar)."
   },
   {
     "id": 506,
     "text": "बाघको बाटो बाघ हिँड्छ, सर्पको बाटो सर्प",
     "meaning": "A tiger walks the tiger's path, a snake walks the snake's path."
   },
-  {
+ {
     "id": 507,
-    "text": "बाघको मुख खाए पनि रातै, नखाए पनि रातै",
-    "meaning": "Whether eaten by a tiger or not, it's night."
+    "text": "बाघको मुख परे पनि रातै, नपरे पनि रातै",
+    "meaning": "Whether you fall directly into a deadly tiger's mouth or manage to escape it, the dark night remains pitch black. (When trapped in an absolute disaster or extreme crisis, the surrounding reality remains equally terrifying and grim regardless of small, minor survival details)."
   },
   {
     "id": 508,
@@ -2545,50 +2545,50 @@
     "text": "बाच्छो खाने बाघले पाडोलाई बाँकी राख्दैन",
     "meaning": "A tiger that eats a calf does not leave the buffalo calf uneaten."
   },
-  {
+{
     "id": 510,
-    "text": "बाटो न घाटो, दगुछा लाटो",
-    "meaning": "No road or path, the chase is lame."
+    "text": "न बाटो न घाटो, दगुर्छ लाटो",
+    "meaning": "With absolutely no clear road or river crossing (घाट) in sight, the fool just keeps running blindly. (A clueless, impulsive person sprinting ahead or investing heavily without planning a strategic path or understanding the destination)."
   },
-  {
+ {
     "id": 511,
-    "text": "बादरको पुच्छर टाई न इँजार",
-    "meaning": "A monkey's tail is neither a tie nor a belt."
+    "text": "बाँदरको पुच्छर, न टाई न इँजार",
+    "meaning": "A monkey's tail can neither be worn as a formal necktie nor used as a drawstring (इँजार) to hold up trousers. (Something completely useless and impractical that serves no constructive purpose in daily life)."
   },
   {
     "id": 512,
-    "text": "बाँदरको पुच्छर, लौरो न हतियार",
-    "meaning": "A monkey's tail is neither a stick nor a weapon."
+    "text": "बाँदरको पुच्छर, न लौरो न हतियार",
+    "meaning": "A monkey's tail can neither be used as a solid walking stick (लौरो) for support nor swung as a weapon to defend oneself. (A variation of ID 511; an asset or a helper that looks flexible but offers absolutely zero structural utility or protection during a crisis)."
   },
   {
     "id": 513,
     "text": "बाँदरको हातमा नरिवल",
     "meaning": "A coconut in a monkey's hand."
   },
-  {
+{
     "id": 514,
-    "text": "बाध दुब्लाएर बिरालो हुँदैन",
-    "meaning": "A cat does not become thin from a barrier."
+    "text": "बाघ दुब्लाएर बिरालो हुँदैन",
+    "meaning": "A majestic tiger might get sick, thin, and starved, but it will never shrink down to become a pathetic house cat. (A powerful leader, massive corporation, or highly skilled expert might suffer temporary financial losses, but they still retain their core strength, dignity, and elite status)."
   },
   {
     "id": 515,
-    "text": "बाबू भन्दा छोरो जान्ने, नाति पेटैबाट मट्याङ्ग्या हान्ने",
-    "meaning": "The son knows more than the father; the grandson hits the mud pie from the womb."
+    "text": "बाउभन्दा छोरो जान्ने, नाति पेटैबाट मट्याङ्ग्रा हान्ने",
+    "meaning": "The son claims to be far wiser than the father, while the grandson tries to shoot clay pellets (मट्याङ्ग्रा) using a slingshot from inside the mother's womb! (A humorous, sarcastic commentary on younger generations acting overly clever and pretending to know everything before they have even gained basic real-world experience)."
   },
   {
     "id": 516,
-    "text": "बारी न बिक्वा नौ मुरी तोरी",
-    "meaning": "No field or plot, nine muri of mustard."
+    "text": "बारी न बित्ता, नौ मुरी तोरी",
+    "meaning": "Owning not even a tiny span of land (बित्ता), yet bragging about harvesting a massive haul of nine Muris of mustard seeds. (Making wild, impossible exaggerations about profits or assets when you don't even own the basic infrastructure to produce them)."
   },
-  {
+ {
     "id": 517,
-    "text": "बान्ह छोरा तेन्ह नाति, बूढाको धोक्रो काँधी माथि",
-    "meaning": "The same son, the same grandson; the old man's bundle is on the shoulder."
+    "text": "बाह्र छोरा तेह्र नाति, बूढाको धोक्रो काँधैमाथि",
+    "meaning": "Despite having twelve sons and thirteen grandsons, the poor old man is still forced to carry his heavy woven sack (धोक्रो) on his own hunched shoulders. (Having a massive team or a huge family of dependents who are completely useless, forcing the senior leader to do all the heavy lifting alone)."
   },
-  {
+ {
     "id": 518,
-    "text": "बाह्र छोरा तेन्ह नाति, बूढाको मन तरुनी माथि",
-    "meaning": "Twelve sons, the same grandson; the old man's mind is on young women."
+    "text": "बाह्र छोरा तेह्र नाति, बूढाको मन तरुनीमाथि",
+    "meaning": "Having twelve sons and thirteen grandsons already filling the house, yet the old man's wandering mind is still obsessing over young women. (A humorous jab at an elderly person who refuses to act their age and harbors inappropriate, youthful desires instead of focusing on their senior responsibilities)."
   },
   {
     "id": 519,
@@ -2613,32 +2613,32 @@
   {
     "id": 523,
     "text": "बाहुनको चित्त माखाको पित्त",
-    "meaning": "A Brahmin's mind is like a fly's gall."
+    "meaning": "The mood or patience of an orthodox priest is as fragile and minuscule as the gallbladder (पित्त) of a tiny housefly. (Someone who is incredibly touchy, overly sensitive, and gets instantly offended or triggered over petty, minor details)."
   },
   {
     "id": 524,
     "text": "बाहुनको टुप्पी एरियल न एन्टिना",
     "meaning": "A Brahmin's topknot is neither aerial nor antenna."
   },
-  {
+ {
     "id": 525,
     "text": "बाहुनको बित्ता बोकाको मोलमा जान्छ",
-    "meaning": "A Brahmin's property goes for the price of a he-goat."
+    "meaning": "An entire span of a priest's measured land gets bartered away for the cheap price of a single male goat. (Desperately selling off highly valuable, permanent assets for a fraction of their worth during a chaotic emergency or due to poor business skills)."
   },
-  {
+ {
     "id": 526,
-    "text": "बाहुनको सेखी झाना नेवारले भाँडाको धोती लगाउछ",
-    "meaning": "A Brahmin's boast is fake; a Newar wears a pot's loincloth."
+    "text": "बाहुनको सेखी झरे नेवारले भाँडाको धोती लगाउँछ",
+    "meaning": "If a proud Brahmin completely loses his high social status and pride, a Newar potter might as well start wearing a storage vessel as a loincloth. (A historical, sarcastic remark about a total, chaotic collapse of traditional social hierarchies and customs where everything turns upside down)."
   },
   {
     "id": 527,
-    "text": "बाहुनलाई दिनी, खुदोमाथि चिनी",
-    "meaning": "Give to the Brahmin, sugar on the mud."
+    "text": "बाहुनलाई दिने, खुदोमाथि चिनी",
+    "meaning": "Gifting sweet sugar piled on top of already sweet molasses (खुदो) to a pampered priest. (Overindulging or showering excessive, redundant gifts and privileges onto someone who is already wealthy and heavily favored by the system)."
   },
-  {
+ {
     "id": 528,
     "text": "बाहुनले च्याउ खाओस् न स्वाद पाओस्",
-    "meaning": "Let the Brahmin eat mushrooms, maybe he'll taste it."
+    "meaning": "A conservative priest who textually forbade mushrooms will neither bring himself to eat them nor ever understand their rich flavor. (An overly rigid, close-minded person missing out on great opportunities or modern innovations purely because of their stubborn, outdated prejudices)."
   },
   {
     "id": 529,
@@ -2663,32 +2663,32 @@
   {
     "id": 533,
     "text": "बिरालोको घाँटीमा सिद्राको माला",
-    "meaning": "A garland of vermilion around a cat's neck."
+    "meaning": "Hanging a garland of dried tiny fish (सिद्रा) around the neck of a predatory house cat. (Placing an absolute, irresistible temptation directly in front of someone who is hardwired to consume it; an incredibly foolish security arrangement)."
   },
   {
     "id": 534,
     "text": "बिहे गर्ने अलमलमा केटी खोज्न बिर्सियो",
     "meaning": "In the hurry to get married, forgot to look for a girl."
   },
-  {
+ {
     "id": 535,
     "text": "बिरालोको हातमा सिद्राको नासो",
-    "meaning": "A vermilion noose in a cat's hand."
-  },
-  {
+    "meaning": "Leaving a precious stash of dried tiny fish as a trusted deposit (नासो) in the custody of a hungry cat. (A variation of ID 533; handing over valuable funds or vulnerable assets to a known corrupt official or thief and expecting them to guard it safely)."
+  },  
+ {
     "id": 536,
-    "text": "बुझ्नेलाई श्रीखण्ड, नबुझ्नेलाई खुपीको बिँड",
-    "meaning": "For those who understand, sandalwood; for those who don't, the handle of a ladle."
+    "text": "बुझ्नेलाई श्रीखण्ड, नबुझ्नेलाई खुर्पीको बिँड",
+    "meaning": "To a person of refined understanding, it is precious, fragrant sandalwood (श्रीखण्ड); to an ignorant fool, it is treated as nothing more than a cheap wooden handle for a weeding knife (खुर्पी). (A sophisticated idea, high art, or premium asset is completely wasted on an uncultured person who has zero capacity to appreciate its true value)."
   },
-  {
+ {
     "id": 537,
-    "text": "बुढानिलकण्ठ नारानथान, सौता सौता हानाहान",
-    "meaning": "Budhanilkantha, Naranthan, co-wives fighting each other."
+    "text": "बुढानीलकण्ठ नारायणथान, सौता सौता हानाहान",
+    "meaning": "Right in the sacred vicinity of Budhanilkantha (Nayanthan), co-wives are violently brawling with each other. (A chaotic, unholy, and embarrassing domestic conflict breaking out in a place that demands supreme peace, dignity, and respect)."
   },
-  {
+ {
     "id": 538,
-    "text": "बुढी मरी भनेर होइन काल पल्क्यो भनेर डराउनु पर्छ",
-    "meaning": "Not that the old woman died, but that bad times have started."
+    "text": "बुढी मरी भनेर होइन, काल पल्क्यो भनेर डराउनु पर्छ",
+    "meaning": "The true terror isn't simply that one old woman passed away, but that death (काल) has now found the path to our doorstep and formed a habit of visiting. (Do not ignore a minor initial loss or a small cyber-breach; the real danger is that a dangerous precedent has been set, and enemies now know exactly how to exploit your weakness repeatedly)."
   },
   {
     "id": 539,
@@ -2700,10 +2700,10 @@
     "text": "बुढो पोइले हसाउँछ, ठिटो पोइले रुवाउँछ",
     "meaning": "An old husband makes you laugh, a young husband makes you cry."
   },
-  {
+ {
     "id": 541,
-    "text": "बुहारीको छाती हेरी गाउँले अघाए, नाति केटो भोके",
-    "meaning": "Villagers were satisfied looking at the daughter-in-law's chest; the grandson boy became a beggar."
+    "text": "बुहारीको गाला हेरी गाउँले अघाए, नाति केटो भोकै",
+    "meaning": "The villagers stuffed themselves full just by staring at the beautiful daughter-in-law's face, while the actual little grandson was left starved in the corner. (A family or business spending all its resources putting on an expensive, glamorous external show for outsiders while completely neglecting the core needs of its own internal members)."
   },
   {
     "id": 542,
@@ -2712,48 +2712,48 @@
   },
   {
     "id": 543,
-    "text": "बूढी मरी काल पल्क्यो",
-    "meaning": "The old woman died, bad times began."
-  },
-  {
+    "text": "बुढी मरी काल पल्क्यो",
+    "meaning": "The old woman died, and now death has learned the way to our house. (A shorter conversational version of ID 538; a warning that an initial misfortune paves the way for recurring troubles)."
+  },  
+{
     "id": 544,
-    "text": "बेलामा छोरा छोरीलाई नकुटेपछि आफ्नो छाती पिट्नु पर्छ",
-    "meaning": "If you don't beat your children on time, you'll have to beat your own chest later."
+    "text": "बेलामा छोराछोरीलाई नसारेपछि आफ्नो छाती पिट्नुपर्छ",
+    "meaning": "If you fail to guide, discipline, or correct your children at the appropriate time, you will inevitably end up beating your own chest in deep regret later in life. (Neglecting critical early course-corrections in parenting or project management guarantees a massive disaster down the road)."
   },
   {
     "id": 545,
     "text": "बैंक लुट्नेलाई भन्दा समाउन जाने पुलिसलाई लाज",
     "meaning": "More shame on the police who go to catch than on the bank robber."
   },
-  {
+ {
     "id": 546,
-    "text": "भाड जुको देवर तन्नेरी",
-    "meaning": "The rented sister-in-law, the young brother-in-law."
+    "text": "भाडभैलोको देवर तन्नेरी",
+    "meaning": "Amidst absolute chaos, domestic rioting, and a collapsing household (भाडभैलो), the young brother-in-law is busy acting carefree and putting on youthful airs. (A completely irresponsible, detached person focusing on personal vanity and having fun while their organization or family is actively burning down around them)."
   },
   {
     "id": 547,
     "text": "बैगुनीलाई गुनले मार्यो",
     "meaning": "The virtuous one was killed by virtue."
   },
-  {
+{
     "id": 548,
-    "text": "बैरी हाँसे, पैरी चल्छ",
-    "meaning": "When the enemy smiles, the response works."
+    "text": "बैरी हाँस्छ, पहिरो चल्छ",
+    "meaning": "The moment your bitter enemy smiles with satisfaction, it means a devastating landslide (पहिरो) of trouble is already shifting under your feet. (Never celebrate an enemy's sudden politeness or happiness; it usually means their hidden plot to ruin you is succeeding)."
   },
-  {
+ {
     "id": 549,
     "text": "बोकाको मुखमा कुभिन्डो",
-    "meaning": "A pumpkin in a he-goat's mouth."
+    "meaning": "Shoving a massive, giant ash gourd (कुभिन्डो) directly into the tiny mouth of a male goat. (Overloading a low-capacity employee or a small system with an overwhelmingly massive task that they cannot physically digest or handle)."
   },
-  {
+ {
     "id": 550,
-    "text": "बोकाले दाइ हुने भए गोरु किन चाहिन्थ्यो",
-    "meaning": "If a he-goat could be an elder brother, why would an ox be needed?"
+    "text": "बोकाले दाइँ हुने भए गोरु किन चाहिन्थ्यो",
+    "meaning": "If tiny male goats were capable of performing the heavy threshing of grain (दाइँ), why on earth would farmers ever go through the immense expense of maintaining powerful oxen? (Low-skilled, cheap labor or basic software tools can never replace high-grade professionals and heavy enterprise infrastructure when it comes to massive, high-volume operations)."
   },
   {
     "id": 551,
-    "text": "बोकाले रोपाइ हुने भए गोरु किन चाहियो",
-    "meaning": "If a he-goat could do the transplanting, why would an ox be needed?"
+    "text": "बोकाले रोपाइँ हुने भए गोरु किन चाहियो",
+    "meaning": "If goats could successfully plow mud fields for rice transplanting (रोपाइँ), oxen would be completely redundant. (A common conversational variation of ID 550; emphasizing that heavy-duty tasks require heavy-duty tools)."
   },
   {
     "id": 552,
@@ -2775,25 +2775,25 @@
     "text": "बोल्नेको पिठो बिक्छ, नबोल्नेको चामल पनि बिक्दैन",
     "meaning": "The flour of the talker sells, the rice of the non-talker does not."
   },
-  {
+ {
     "id": 556,
-    "text": "ब्रत बस्ने हामी फलाहार खाने कामी",
-    "meaning": "We observe the fast, the blacksmith eats the fruits."
+    "text": "व्रत बस्ने हामी, फलाहार खाने कामी",
+    "meaning": "We are the ones enduring the painful religious fast, yet the iron-smith helper (कामी) is the one walking away eating all the premium ritual fruits (फलाहार). (A frustrating situation where one team does all the rigorous, exhausting work, while a detached bystander or a clever contractor swoops in and enjoys all the sweet perks and profits)."
   },
   {
     "id": 557,
-    "text": "भंगेरो मार्न सजिलो हुन्छ, भुत्ल्याउन गाह्रो",
-    "meaning": "It's easy to kill a mole cricket, hard to untangle."
+    "text": "भँगेरो मार्न सजिलो, भुत्ल्याउन गाह्रो",
+    "meaning": "Killing a tiny sparrow (भँगेरो) with a slingshot is incredibly easy, but spending hours plucking its microscopic feathers (भुत्ल्याउन) is an exhausting nightmare. (An action or business deal that seems quick and effortless to initiate, but sorting out its endless micro-level complications and paperwork turns out to be a massive headache)."
   },
   {
     "id": 558,
     "text": "भए अन्त नभए बुढाथोकीको जन्ती",
     "meaning": "If there is, it's fine; if not, the old man's funeral."
   },
-  {
+ {
     "id": 559,
-    "text": "भण्डारीले भन्दियो, गोतामेले गोद्दियो",
-    "meaning": "The storekeeper said, the lump stabbed."
+    "text": "भण्डारीले भन्दियो, गोतामेले गोद्द्यो",
+    "meaning": "The Bhandari manager casually pointed his finger or leaked the gossip, and the hot-headed Gotame stepped up and mercilessly thrashed the target. (How instigators or corporate manipulators safely stay in the background while tricking a gullible person into doing their dirty work and taking the blame)."
   },
   {
     "id": 560,
@@ -2815,10 +2815,10 @@
     "text": "भाँडा चलाउने सुनार, आगो चलाउने लोहार",
     "meaning": "The goldsmith handles the pot, the blacksmith handles the fire."
   },
-  {
+ {
     "id": 564,
-    "text": "भाँडो सुनले के, भनाइ मुनले के",
-    "meaning": "What does a pot matter with gold? What does a saying matter with gem?"
+    "text": "भाँडो सुनको के काम, भनाइ मुटु फुटाउने",
+    "meaning": "What is the point of owning luxury kitchen vessels crafted from pure gold if your daily words are toxic enough to shatter someone's heart? (Material wealth and luxury assets are completely worthless if a person possesses a cruel, abusive personality)."
   },
   {
     "id": 565,
@@ -2830,10 +2830,10 @@
     "text": "भाग्यले पाउँदा खै के छ, नपाउँदा के छैन",
     "meaning": "What does one have when fate gives? What does one not have when fate doesn't?"
   },
-  {
+ {
     "id": 567,
-    "text": "भान्सी र आँसी एउटै डोकोमा",
-    "meaning": "The flute and the tear are in the same basket."
+    "text": "भान्से र आँसी एउटै डोकोमा",
+    "meaning": "Packing the kitchen head chef (भान्से) and a sharp sickle (आँसी) into the exact same carrying basket. (A highly dangerous, volatile combination of conflicting elements or people kept in close quarters that will inevitably lead to an accident)."
   },
   {
     "id": 568,
@@ -2847,8 +2847,8 @@
   },
   {
     "id": 570,
-    "text": "भुतले पो पुजारी भएर पो बाचेको",
-    "meaning": "Only by becoming a ghost's priest did he survive."
+    "text": "भूतको पुजारी भएर बाँचेको",
+    "meaning": "Surviving in life purely by acting as an obedient priest to a terrifying malevolent ghost. (Earning a living by constantly placating, serving, and kissing up to a highly toxic, abusive, or corrupt boss out of sheer survival necessity)."
   },
   {
     "id": 571,
@@ -2862,13 +2862,13 @@
   },
   {
     "id": 573,
-    "text": "भुङ्ग्रोलाई आफ्नै गोडाले डुबाउँछ",
-    "meaning": "A whirlpool drowns by its own feet."
+    "text": "भुङ्ग्रोमा आफ्नै गोडाले टेक्नु",
+    "meaning": "Deliberately stepping onto a pile of red-hot burning embers (भुङ्ग्रो) with your own bare feet. (Stupidity or self-sabotage; knowingly walking directly into a dangerous trap, legal disaster, or financial ruin out of sheer stubbornness)."
   },
   {
     "id": 574,
     "text": "भुटुनलाई भटुन, पकुनलाई पकुन",
-    "meaning": "Fried is fried, cooked is cooked."
+    "meaning": "When it's time to add cooking oil or fat (भुटुन), they go completely missing; but when it's time to sit down and overeat cooked delicacies, they are first in line. (A lazy leech who sneaks away when it's time to invest capital or do hard labor, but aggressively shows up to consume the final profits)."
   },
   {
     "id": 575,
@@ -2900,15 +2900,15 @@
     "text": "भोटले पार्यो भोट, राणाले पार्यो राणा",
     "meaning": "Tibetans made Tibet, Ranas made Rana."
   },
-  {
+ {
     "id": 581,
-    "text": "भोटेलाई पिँडालु र बोकेलाई बासी भात एउटै",
-    "meaning": "Taro for a Tibetan and stale rice for a carrier are the same."
+    "text": "भोटेलाई पिँडालु र बोकेलाई बासी भात",
+    "meaning": "Feeding wild taro roots to a mountain trader or serving stale rice to a goat-herder/carrier—they will happily accept it as a feast. (An item that looks cheap and ordinary to an elite person might be highly valued and appreciated by someone who genuinely needs it)."
   },
   {
     "id": 582,
-    "text": "भोत, भन्नु भनेको गोरुलाई सिङ र पुच्छर",
-    "meaning": "'Bhot' means horns and tail for an ox."
+    "text": "भोट भन्नु र गोरुलाई सिङ भन्नु एउटै",
+    "meaning": "Uttering the word 'Tibet' (high mountains) is just as natural and obvious as pointing out that an ox possesses a pair of sharp horns. (Stating a completely obvious, undeniable, and universally known fact that requires absolutely no complex proof)."
   },
   {
     "id": 583,
@@ -2920,10 +2920,10 @@
     "text": "भ्रष्टाचार नगर्नलाई सिंहदरबार के काम",
     "meaning": "What is the use of Singhadurbar for not committing corruption?"
   },
-  {
+ {
     "id": 585,
-    "text": "भ्वाइ भन्दा स्वाइ ठूलो",
-    "meaning": "'Bhwai' is bigger than 'Swai'."
+    "text": "भ्वाइँभन्दा स्वाइँ ठूलो",
+    "meaning": "The shallow, dramatic swooshing sound (स्वाइँ) of showing off is far louder than the actual substance or ground reality (भ्वाइँ). (An empty vessel putting on a highly dramatic, pretentious performance to hide their complete lack of actual wealth, talent, or authority)."
   },
   {
     "id": 586,
@@ -2980,10 +2980,10 @@
     "text": "मरेको बाघको जुँगा उखेल्ने",
     "meaning": "Plucking the whiskers of a dead tiger."
   },
-  {
+ {
     "id": 597,
-    "text": "मरेको बिरालो काखी घ्यापेर ठिमीको उकालो",
-    "meaning": "Holding a dead cat in the lap while climbing Thimi's uphill."
+    "text": "मरेको बिरालो काखी च्यापेर ठिमीको उकालो",
+    "meaning": "Tucking a rotting, foul-smelling dead cat firmly under one's arm (काखी च्यापेर) while exhausting oneself climbing up the steep hill of Thimi. (Stubbornly dragging along a completely dead project, a failed business strategy, or a highly toxic liability that smells terrible to the public, purely out of blind pride)."
   },
   {
     "id": 598,
@@ -2992,8 +2992,8 @@
   },
   {
     "id": 599,
-    "text": "मर्दको दश ओटी",
-    "meaning": "A man has ten strengths."
+    "text": "मर्दको एउटै कुरा, नामर्दको दश थरी",
+    "meaning": "A true man of honor stands firmly by a single, solid word, whereas a coward or untrustworthy person changes his tune into ten different stories. (Integrity vs. deceit; a reliable person keeps their promises, while a fraud constantly changes their excuses)."
   },
   {
     "id": 600,
@@ -3003,113 +3003,113 @@
   
   {
     "id": 601,
-    "text": "मर्नु भन्दा अगाडि आइ तन्काउनु",
-    "meaning": "Before dying, come and stretch out."
+    "text": "मर्नु भन्दा अगाडि लाम तन्काउनु",
+    "meaning": "Stretching out one's limbs (लाम तन्काउनु) or yawning excessively right before death takes over. (Making futile, dramatic, or desperate final movements/adjustments when a total collapse, business bankruptcy, or defeat is already completely inevitable)."
   },
   {
     "id": 602,
     "text": "मर्नु भन्दा बौलाउनु निको",
     "meaning": "Better to go mad than to die."
   },
-  {
+ {
     "id": 603,
-    "text": "मर्ने बेला हरियो काँझो",
-    "meaning": "A green bamboo pole at the time of death."
+    "text": "मर्ने बेलामा हरियो काँझो",
+    "meaning": "Craving a piece of fresh, green bamboo split (काँझो) or an impossible, unusual taste right on one's deathbed. (Developing a sudden, absurd desire for luxurious assets, new projects, or erratic pleasures at the absolute end of a career or lifetime when it no longer matters)."
   },
-  {
+ {
     "id": 604,
-    "text": "मर्नुपरेपछि खुट्टै तानेर मर्ने",
-    "meaning": "When you have to die, die by pulling your own legs."
+    "text": "मर्नुपरेपछि खुट्टा तानेर मर्ने",
+    "meaning": "If one is absolutely destined to go down or die, they will intentionally kick and drag others down by their legs along with them. (A toxic, vindictive action where a failing employee or bankrupt business owner maliciously tries to ruin their partners or competitors on their way out)."
   },
   {
     "id": 605,
     "text": "मलाई खाने बाघले तँलाई पनि खान सक्छ",
     "meaning": "The tiger that eats me can eat you too."
   },
-  {
+ {
     "id": 606,
-    "text": "महाकालीले हानेका जनता एमसीसी चम्किंदा तर्सिन्छन्",
-    "meaning": "People struck by Mahakali get scared when MCC glitters."
+    "text": "महाकालीले हानेका जनता बिजुली चम्किँदा तर्सिन्छन्",
+    "meaning": "People who have been severely traumatized by the roaring floods of the Mahakali River will panic and tremble even at a simple flash of lightning. (A variation of 'once bitten, twice shy'; a person or economy that has faced a massive financial disaster will panic at the slightest sign of market volatility)."
   },
   {
     "id": 607,
     "text": "माकुराको जाल झिंगाको काल",
     "meaning": "A spider's web is a fly's doom."
   },
-  {
+ {
     "id": 608,
-    "text": "मागेको गोरु, चोरेको हलो, बाँच्नु भन्दा मरेकै भलो",
-    "meaning": "A begged ox, a stolen plow; better to die than to live."
+    "text": "मागेको गोरु, चोरेको हलो; बाँच्नु भन्दा मरेकै भलो",
+    "meaning": "Trying to run a farm using a begged ox and a stolen plow; it is more honorable to die than to live in such dependency and shame. (Relying entirely on borrowed capital, rented software, and stolen ideas to run a business, which ultimately strips away all your self-respect and operational control)."
   },
   {
     "id": 609,
     "text": "माग्नेलाई छान्ने अधिकार हुँदैन",
     "meaning": "A beggar does not have the right to choose."
   },
-  {
+ {
     "id": 610,
-    "text": "माग्नेको धन दशचोटि गन",
-    "meaning": "Count a beggar's wealth ten times."
+    "text": "माग्नेको धन, टपरी गन",
+    "meaning": "A beggar's entire net worth can be accurately calculated just by counting their collection of disposable leaf plates (टपरी). (A sarcastic remark about small-time talkers who brag about wealth, when their actual assets consist of low-value, temporary items)."
   },
   {
     "id": 611,
     "text": "माग्नेलाई तातो भात",
     "meaning": "Hot rice for a beggar."
   },
-  {
+ {
     "id": 612,
-    "text": "माछा देखे दुलो भित्र हात, सर्प देखे दुलो बाहिर हात",
-    "meaning": "When you see a fish, put your hand in the hole; when you see a snake, take your hand out of the hole."
+    "text": "माछा देखे दुला भित्र हात, सर्प देखे दुला बाहिर हात",
+    "meaning": "Shoving your hand deep inside a dark hole the moment you spot a delicious fish, but instantly yanking it back out if a venomous snake appears. (An ultimate opportunist who aggressively runs forward to claim easy profits, but completely deserts the team and flees the moment risks or liabilities arise)."
   },
   {
     "id": 613,
     "text": "माछाको बल पानीसम्म",
     "meaning": "A fish's strength is only in water."
   },
-  {
+ {
     "id": 614,
     "text": "माछो माछो भ्यागुतो",
-    "meaning": "Fish fish, frog."
+    "meaning": "Chasing after what clearly looked like a prize fish, only to lift the net and find a useless, ordinary frog. (Experiencing immense disappointment after investing heavy time and effort into a lead or project that promised high returns but turned out to be completely worthless)."
   },
   {
     "id": 615,
     "text": "माझीको घर माछा उपहार",
     "meaning": "Fish as a gift in a fisherman's house."
   },
-  {
+ {
     "id": 616,
-    "text": "माझीको मतो गर्दा सात गाउँ डुबे",
-    "meaning": "When the fisherman insisted, seven villages drowned."
+    "text": "माझीको मतो गर्दा सात गाउँ डुब्यो",
+    "meaning": "While the indecisive ferrymen (माझी) were busy arguing and holding endless meetings, seven entire coastal villages were completely submerged by the floodwaters. (A severe warning against 'analysis paralysis'; a business or government failing to take prompt action during an emergency because leaders are stuck in endless committee debates)."
   },
   {
     "id": 617,
     "text": "माझीले सल्लाह गर्दागर्दै सात गाउँ डुब्यो",
-    "meaning": "While the fisherman was deliberating, seven villages sank."
+    "meaning": "While the boatmen kept debating their strategic options, seven villages drowned. (A direct conversational variation of ID 616; highlighting how bureaucratic delays cause absolute ruin during time-sensitive crises)."
   },
   {
     "id": 618,
-    "text": "माटाकाले भाँडालेलाई काठकाले मुङ्गाले",
-    "meaning": "The wooden mug for the clay pot person."
+    "text": "माटाको भाँडालाई काठको मुङ्ग्रो",
+    "meaning": "Smashing a fragile clay pot using a heavy wooden mallet (मुङ्ग्रो). (Applying completely disproportionate force or using an aggressively heavy-handed approach to solve a very minor, delicate problem)."
   },
   {
     "id": 619,
     "text": "मानो रोपेर मुरी फल्ने",
     "meaning": "Plant one mana and reap a muri."
   },
-  {
+ {
     "id": 620,
     "text": "मान्छे खेदाउनु अगाडिबाट, वस्तु खेदाउनु पछाडिबाट",
-    "meaning": "Chase a person from the front, chase a thing from behind."
+    "meaning": "To guide or corner a person, you must confront them from the front; to herd livestock (वस्तु), you must drive them from behind. (A management lesson; human beings require direct, face-to-face communication and clear leadership, whereas inanimate tasks or livestock simply need to be pushed from the rear)."
   },
-  {
+ {
     "id": 621,
-    "text": "मान्छेमा ईख, सर्पमा विष नभए कोही डराउँदैन",
-    "meaning": "If people had no envy and snakes no venom, no one would be afraid."
+    "text": "मान्छेमा ईख, सर्पमा विष नभए कसैले गन्दैन",
+    "meaning": "If a human lacks fierce determination/pride (ईख) and a snake lacks venom, absolutely no one will respect or fear them. (Without core strength, a competitive drive, or the power to enforce consequences, a person or business will be walked all over by everyone in the market)."
   },
   {
     "id": 622,
-    "text": "मामा अगाडि कुलकाले वखान",
-    "meaning": "A Kulaka's praise in front of the maternal uncle."
+    "text": "मामाका अगाडि कुलघरानको बखान",
+    "meaning": "Boasting about your glorious family lineage and ancestors directly in front of your own maternal uncle (मामा). (Silly and redundant bragging; trying to show off your background to someone who already knows your entire history inside and out)."
   },
   {
     "id": 623,
@@ -3126,25 +3126,25 @@
     "text": "मारे पाप पाले पुण्य",
     "meaning": "Killing is sin, keeping is virtue."
   },
-  {
+ {
     "id": 626,
-    "text": "मुखमा राम राम बगलीमा छुरा",
-    "meaning": "Ram Ram in the mouth, a dagger in the collar."
+    "text": "मुखमा राम राम, बगलीमा छुरा",
+    "meaning": "Chanting the holy name of Ram with your mouth while keeping a sharp dagger hidden away in your pocket (बगली). (Extreme hypocrisy and deceit; someone who acts incredibly polite, sweet, and supportive to your face while actively plotting your corporate sabotage or personal ruin)."
   },
-  {
+ {
     "id": 627,
-    "text": "मुखमा लगाउन चिलाउनेको गेडो छैन, कुन्नि के जातिमा लगाउन जाइफल",
-    "meaning": "Itching to put on the face has no bead; what caste does one put nutmeg on?"
+    "text": "मुखमा लगाउन चिलाउनेको गेडो छैन, मलद्वारमा लगाउन जाइफल",
+    "meaning": "Not owning even a cheap wild seed (चिलाउनेको गेडो) to treat one's face, yet hunting for premium, expensive nutmeg (जाइफल) to apply as a remedy to one's rear end. (Having completely backward priorities; spending heavily on superficial luxuries or low-priority areas while failing to fund basic, essential survival needs)."
   },
   {
     "id": 628,
-    "text": "मुखमा सरस्वती हुनेको सधैं वृहस्पति आउँछ",
-    "meaning": "One who has Saraswati in the mouth always has Brihaspati come."
+    "text": "मुखमा सरस्वती हुनेको सधैँ बृहस्पति आउँछ",
+    "meaning": "One whose speech is blessed with truth, wisdom, and grace (Saraswati) will naturally attract supreme intelligence, wealth, and good fortune (Brahस्पति/Jupiter). (Excellent communication skills, honesty, and diplomacy naturally pave the way for massive professional success)."
   },
   {
     "id": 629,
-    "text": "मुटु चोरलाई पशुपति न गृहेश्वरी",
-    "meaning": "For a heart-thief, neither Pashupati nor Griheshwari."
+    "text": "मूतको न्यानो",
+    "meaning": "The fleeting, deceptive warmth obtained by urinating inside one's own clothing during a freezing winter night. (An incredibly short-sighted, desperate fix or temporary solution—like taking high-interest short-term loans—that offers instant comfort but makes your actual crisis significantly worse very quickly)."
   },
   {
     "id": 630,
@@ -3158,18 +3158,18 @@
   },
   {
     "id": 632,
-    "text": "मेरो गोरूको बाटो टक्का",
-    "meaning": "My ox's path is straight."
+    "text": "मेरो गोरुको बाह्रै टक्का",
+    "meaning": "Stubbornly insisting that my specific ox is worth exactly twelve Takka coins, completely ignoring the expert market valuation. (An incredibly stubborn, close-minded person who refuses to accept objective data, logic, or market feedback because they are obsessed with being right)."
   },
   {
     "id": 633,
     "text": "मेहनतको फल मिठो हुन्छ",
     "meaning": "The fruit of hard work is sweet."
   },
-  {
+ {
     "id": 634,
-    "text": "मोही माग्नु, ढुंग्रो लुकाउनु",
-    "meaning": "Ask for a tenant, hide the winnowing basket."
+    "text": "मोही माग्नु, ढुङ्ग्रो लुकाउनु",
+    "meaning": "Coming over to beg for buttermilk (मोही) while actively trying to hide the wooden container (ढुङ्ग्रो) behind your back. (Being deeply hesitant, embarrassed, or indirect about what you actually want; trying to negotiate a business deal or ask for help without being transparent about your true intentions)."
   },
   {
     "id": 635,
@@ -3181,10 +3181,10 @@
     "text": "मौकामा चौका हान्न जान्नुपर्छ",
     "meaning": "You must know how to hit a four when the opportunity comes."
   },
-  {
+ {
     "id": 637,
     "text": "मौकामा कोढीको पनि पाउ मोल्नुपर्छ",
-    "meaning": "In opportunity, even a leper's foot must be valued."
+    "meaning": "When an absolute crisis hits or a vital opportunity arises, you must be humble enough to massage even a leper's feet if they hold the key to your survival. (Sallowing your pride, ego, and personal biases to flatter or cooperate with someone you dislike because they hold absolute leverage over your project)."
   },
   {
     "id": 638,
@@ -3213,8 +3213,8 @@
   },
   {
     "id": 643,
-    "text": "राजाको काम छोडी कामिको देउली",
-    "meaning": "Left the king's work for the blacksmith's doorstep."
+    "text": "राजाको काम छोडी कामीको देउसी",
+    "meaning": "Abandoning a prestigious, high-status assignment for the King just to go sing Deusi festival songs at a local blacksmith's doorstep. (Leaving a highly lucrative, stable career or essential core project to chase after petty, minor distractions and low-value activities)."
   },
   {
     "id": 644,
@@ -3224,17 +3224,17 @@
   {
     "id": 645,
     "text": "राजाको धन जान्छ, भण्डारेको पेट पोल्छ",
-    "meaning": "The king's wealth goes, the storekeeper's stomach burns."
+    "meaning": "The wealthy King is losing his gold, yet it is the lowly storekeeper (भण्डारे) whose stomach burns with anxiety. (An unnecessary display of stress by a middle-manager or third party over financial losses that belong entirely to the billionaire owner who doesn't even care)."
   },
-  {
+{
     "id": 646,
-    "text": "राजाको मिति बाह्र वर्ष प्रजातन्त्रमा राखे पनि बाङ्गाको बाङ्गै",
-    "meaning": "Even if the king's date is kept in democracy for twelve years, the crooked remains crooked."
+    "text": "कुकुरको पुच्छर बाह्र वर्ष ढुङ्ग्रोमा राखे पनि बाङ्गाको बाङ्गै",
+    "meaning": "Even if you keep a dog's crooked tail trapped inside a straight wooden pipe (ढुङ्ग्रो) for twelve long years, it will instantly curl right back to its original shape the moment it is released. (A deeply corrupt person, a bad habit, or poorly written unoptimized legacy code that can never be permanently corrected, no matter how much training or restructuring you attempt)."
   },
-  {
+ {
     "id": 647,
-    "text": "राडीको घरमा पोइको के खाँचो",
-    "meaning": "What need for a husband in a house of blankets?"
+    "text": "राँडीको घरमा पोइको के खाँचो",
+    "meaning": "A loose, fiercely independent woman who lives by her own rules has absolutely no actual need or respect for a permanent husband. (A self-sufficient, aggressive operator who refuses to adhere to traditional partnerships or corporate oversight because they prefer absolute freedom)."
   },
   {
     "id": 648,
@@ -3244,22 +3244,22 @@
   {
     "id": 649,
     "text": "रात गए अग्रात पलाउँछ",
-    "meaning": "After night passes, the morning dawns."
+    "meaning": "As the deep dark night finally rolls away, a fresh, clear dawn begins to emerge. (A comforting reminder that absolute despair, severe financial crises, and hard times are temporary and will eventually give way to new opportunities and growth)."
   },
-  {
+ {
     "id": 650,
     "text": "रातभरि करायो, दक्षिणा हरायो",
-    "meaning": "Cried all night, the donation got lost."
+    "meaning": "Chanting religious prayers at the top of your lungs all night long, only to find out in the morning that your ritual fee (दक्षिणा) was lost or forgotten. (Performing intense, exhausting labor or working overtime on a major tech project, only to receive zero compensation, recognition, or payout due to an error)."
   },
   {
     "id": 651,
     "text": "रात राम्रो जुनले, मान्छे राम्रो गुनले",
     "meaning": "Night is good for the moon, a person is good for qualities."
   },
-  {
+ {
     "id": 652,
-    "text": "रातभरि सराप्यो महाजन त जिउँदै",
-    "meaning": "Cursed all night, the moneylender is still alive."
+    "text": "रातभरि सराप्यो, महाजन त जिउँदै",
+    "meaning": "Spending the entire night bitterly cursing the wealthy moneylender, yet he wakes up perfectly healthy and alive in the morning. (Venting useless, passive-aggressive anger and whining about market monopolies or rich corporate bosses achieves absolutely nothing; it doesn't alter reality)."
   },
   {
     "id": 653,
@@ -3273,28 +3273,28 @@
   },
   {
     "id": 655,
-    "text": "राम राम सीता पोइ, मर्ने बेला कोही न कोही",
-    "meaning": "Ram Ram, Sita's husband; at the time of death, someone or no one."
+    "text": "राम राम भन्यो, जोई पर्यो पोइ",
+    "meaning": "Chanting the name of God for a peaceful life, but ending up trapped with a completely incompatible, chaotic spouse. (Hoping for a smooth, easy business venture but getting stuck with an absolute nightmare of a partner or a messy legal contract)."
   },
   {
     "id": 656,
     "text": "रावण मरेर लंका खाली हुँदैन",
     "meaning": "With Ravan's death, Lanka does not become empty."
   },
-  {
+ {
     "id": 657,
-    "text": "रिस खा आफू, बुद्धि खा अरु",
-    "meaning": "Eat anger yourself, eat wisdom from others."
+    "text": "रिस खा आफू, बुद्धि खा अरू",
+    "meaning": "Swallow and consume your own anger internally, but use your sharp intellect to outsmart and handle others. (A supreme lesson in emotional intelligence; letting anger explode destroys your own assets, whereas remaining calm lets you outmaneuver opponents strategically)."
   },
   {
     "id": 658,
     "text": "रिसको झोकमा कसले वेद पढ्छ",
     "meaning": "Who reads the Vedas in a fit of anger?"
   },
-  {
+ {
     "id": 659,
-    "text": "रुद्रघण्टी नहुनेको विश्वास नगर्नु",
-    "meaning": "Do not trust one who does not have a bell."
+    "text": "रुद्रघण्टी (घाँटीको हाड) नहुनेको विश्वास नगर्नु",
+    "meaning": "Never place your full trust in a smooth-talking person who completely lacks a visible Adam's apple (रुद्रघण्टी). (A traditional, symbolic warning to be highly cautious around slick, overly polished, or deceptive charlatans who hide their true identity and intentions)."
   },
   {
     "id": 660,
@@ -3306,45 +3306,45 @@
     "text": "रोटी चिल्लो मिठो, कुरा खस्रो मिठो",
     "meaning": "Bread is smooth and sweet, words are rough and sweet."
   },
-  {
+{
     "id": 662,
-    "text": "लक्का छोरोलाई के को धक्का",
-    "meaning": "What push does a lucky son need?"
+    "text": "लक्का जवान छोरोलाई के को धक्का",
+    "meaning": "A strong, energetic, and highly capable young man (लक्का जवान) can easily withstand any sudden physical blow, financial shock, or setback. (A highly resilient, heavily funded startup or a skilled professional can easily absorb temporary market losses and bounce back stronger)."
   },
-  {
+ {
     "id": 663,
-    "text": "लगनको बेला हगन",
-    "meaning": "Defecation at the time of auspicious moment."
+    "text": "लगनको बेलामा हगन",
+    "meaning": "Getting a sudden, uncontrollable urge to defecate at the exact, highly critical second of an auspicious wedding ritual (लगन). (Experiencing a ridiculous, self-inflicted distraction or system crash at the absolute peak moment of a major product launch or client presentation)."
   },
   {
     "id": 664,
     "text": "लगनपछिको पोते के काम",
-    "meaning": "What use is a bead after the auspicious moment?"
+    "meaning": "What on earth is the use of bringing the sacred glass-bead wedding necklace (पोते) after the entire marriage ceremony is already finished? (An action or delivery that is completely useless because it arrived too late; submitting a feature or a financial bid after the strict deadline has already passed)."
   },
   {
     "id": 665,
-    "text": "लगाँटी च्याती कुसुमे रुमाल",
-    "meaning": "Torn waistband, a embroidered handkerchief."
+    "text": "लङ्गाटी च्याती कुसुमे रुमाल",
+    "meaning": "Tearing up your basic, essential loincloth (लङ्गाटी) just to proudly wave a decorative, embroidered floral handkerchief (कुसुमे रुमाल). (Compromising your core infrastructure, basic living savings, or backend security just to show off a flashy, superficial frontend feature to the public)."
   },
-  {
+ {
     "id": 666,
-    "text": "लड्का जित्ने हनुमान जस पाउने ढेडु",
-    "meaning": "Hanuman who wins battles gets praise; the monkey gets the credit."
+    "text": "लङ्का जित्ने हनुमान, जस पाउने ढेडु",
+    "meaning": "It was the mighty warrior Hanuman who fought the brutal battles and burned down Lanka, yet it is the lazy, ordinary langur monkeys (ढेडु) back home who take all the credit and praise. (A common corporate tragedy where a brilliant junior developer does 100% of the hard coding, but the lazy manager takes all the bonuses and spotlight)."
   },
-  {
+ {
     "id": 667,
     "text": "लहरा तान्दा पहरा गर्जिन्छ",
-    "meaning": "When you pull the vine, the mountain roars."
+    "meaning": "When you pull tightly on a single hanging forest vine (लहरा), the entire massive rocky cliffside (पहरा) begins to shake and rumble. (A warning about interconnected risks; touching or auditing one minor aspect of a corrupt system or code library can trigger a massive avalanche of hidden problems and powerful legal consequences)."
   },
   {
     "id": 668,
-    "text": "लहरा तान्दा पहरा गर्जिन्न",
-    "meaning": "When you pull the vine, the mountain does not roar."
+    "text": "लहरा तान्दा पहरा थर्कन्छ",
+    "meaning": "Pulling a small vine causes the entire mountain cliff to vibrate. (The standard linguistic variation of ID 667; a reminder that minor actions can trigger massive, systemic chain reactions)."
   },
   {
     "id": 669,
     "text": "लटाको देशमा गाँडा तन्नेरी",
-    "meaning": "In a land of lazy people, the butt is young."
+    "meaning": "In a land populated entirely by unkempt, simple-minded fools (लटा), a man who merely possesses a visible throat goiter (गाँडा) is praised as an elite, handsome youth. (In a highly low-skilled market or an uneducated community, even a person with mediocre talent or flawed knowledge easily passes off as an absolute genius)."
   },
   {
     "id": 670,
@@ -3354,47 +3354,47 @@
   {
     "id": 671,
     "text": "लाटो लड्छ एक बल्ड्याङ, बाठो लड्छ तीन बल्ड्याङ",
-    "meaning": "A mute falls with one roll, a clever one falls with three rolls."
+    "meaning": "A simple-minded person slips and falls down just once, but an overly clever, arrogant smart-alec trips and flips over three times in a spectacular crash. (An ordinary person makes simple mistakes, but an overconfident 'expert' who tries to cheat the system ends up facing a massive, multi-layered financial or legal disaster)."
   },
-  {
+ {
     "id": 672,
     "text": "लातको घोडा बातले मान्दैन",
-    "meaning": "A horse of a kick does not obey words."
+    "meaning": "A stubborn horse that responds only to heavy whips and kicks will never listen to soft, polite words. (A highly undisciplined or rogue actor who will never fix their behavior through polite warnings; they require strict legal action or immediate penalties)."
   },
-  {
+{
     "id": 673,
-    "text": "लातको भुत बातले मान्दैन",
-    "meaning": "A ghost of a kick does not obey words."
+    "text": "लातको भूत बातले मान्दैन",
+    "meaning": "A stubborn ghost that responds only to physical blows will never listen to polite conversation. (The classic conversational version of ID 672; emphasizing that hardened criminals, trolls, or toxic contractors only understand tough, enforceable consequences)."
   },
-  {
+ {
     "id": 674,
     "text": "लानेको निधो छैन, जानेको तर्खर",
-    "meaning": "The taker has no decision, the giver is in a hurry."
+    "meaning": "The ultimate taker (Death or an investor) hasn't even finalized the decision to acquire, yet the anxious person is already packed up and rushing out the door. (Panicking prematurely or making frantic preparations for a business exit or transition before the formal terms have even been proposed)."
   },
   {
     "id": 675,
     "text": "लानेलाई भन्दा जानेलाई हतार",
     "meaning": "The giver is in more hurry than the taker."
   },
-  {
+ {
     "id": 676,
-    "text": "लालमायाको त पत्तै छैन, खस्ने कामिको खसखस",
-    "meaning": "No trace of Lalimaya, but the falling blacksmith's poppy."
+    "text": "लैलैमा लाग्नेको पत्तै छैन, खस्ने कामिको खसखस",
+    "meaning": "The person directly involved or affected remains entirely calm and unbothered, while an irrelevant, meddling bystander is burning up with frantic anxiety. (A third-party contractor or nosy relative stressing out over a business negotiation far more than the actual owners who are completely relaxed)."
   },
   {
     "id": 677,
-    "text": "लिखितमको अगाडि बखतम चल्दैन",
-    "meaning": "Written document does not work in front of time."
+    "text": "लिखितमको अगाडि बकतम् चल्दैन",
+    "meaning": "A solid, legally binding written contract (लिखितम) completely obliterates any verbal promises or spoken explanations (बकतम्). (A vital business rule; never rely on casual spoken assurances. Always get every agreement, feature specification, and payment terms down in a formal written contract)."
   },
   {
     "id": 678,
-    "text": "लुटको धन फुफुको श्राद्ध",
-    "meaning": "Looted wealth for the grandfather's shraddha."
+    "text": "लुटको धन, फुपूको श्राद्ध",
+    "meaning": "Using completely looted, stolen wealth to fund a lavish, generous holy ritual for one's paternal aunt (फुपू). (Generously spending illegally acquired funds, corporate bribes, or venture capital money on high-end perks and public charities because it didn't cost you any hard personal labor)."
   },
   {
     "id": 679,
     "text": "ले ले बाबु गुलेली, मारिदिउँला जुरेली",
-    "meaning": "Take, take, father, a slingshot; I will kill the mosquito."
+    "meaning": "Handing a child a toy slingshot (गुलेली) and sweet-talking them by promising to go hunt a red-whiskered bulbul bird (जुरेली). (Placating, distracting, or pacifying an angry client or child with cheap, temporary toys and unrealistic promises just to keep them quiet for a moment)."
   },
   {
     "id": 680,
@@ -3408,43 +3408,43 @@
   },
   {
     "id": 682,
-    "text": "लोभीको धन छट्टुले खान्छ",
-    "meaning": "A greedy person's wealth is eaten by a youngster."
+    "text": "लोभीको धन चठुले खान्छ",
+    "meaning": "The hoarded wealth of a miserable, tight-fisted miser (लोभी) is destined to be swept away and consumed by a clever, smooth-talking scammer (चठु/छट्टु). (When a business owner hoards cash and refuses to pay fair market rates for real talent, they inevitably get conned by a smooth-talking fraudster promising cheap miracles)."
   },
   {
     "id": 683,
     "text": "लोभीहरु रहुन्जेल पापीहरु भोकै मर्दैनन्",
     "meaning": "As long as the greedy live, the sinful do not die hungry."
   },
-  {
+ {
     "id": 684,
     "text": "लौरो टेके भर हुन्छ, कान्छी ल्याए घर हुन्छ",
-    "meaning": "Leaning on a stick is enough; bringing a young wife makes a home."
+    "meaning": "Leaning on a walking stick provides physical support, and marrying a young second wife supposedly completes a household. (A traditional, ironical old saying about old men seeking comfort or attempting to secure their domestic future through risky choices)."
   },
-  {
+ {
     "id": 685,
     "text": "ल्हासामा सुन छ, कान मेरो बुच्चै",
-    "meaning": "There is gold in Lhasa, but my ear is pierced."
+    "meaning": "There may be massive mountains of pure gold sitting over in Lhasa, Tibet, but my own ears remain completely bare and empty. (A frustrating disconnect; hearing massive news about global economic booms, high-paying tech fields, or billionaire profits that mean absolutely nothing to your current personal bank account)."
   },
-  {
+ {
     "id": 686,
-    "text": "वचन फेनु र बाबु फेनु उस्तै हो",
-    "meaning": "The word 'phenu' and 'father phenu' are the same."
+    "text": "वचन फेर्नु र बाबु फेर्नु उस्तै हो",
+    "meaning": "Going back on your solemn, given word is just as dishonorable and shameful as trying to change your own biological father. (An extreme cultural statement emphasizing that a person of true integrity must stand firmly by their promises, contracts, and business commitments no matter what)."
   },
-  {
+ {
     "id": 687,
     "text": "वल्लो घरको नरे, पल्लो घरमा सरे",
-    "meaning": "The male of this house moved to the other house."
+    "meaning": "Nare, the ordinary worker from this house, simply packed up and shifted over to the neighbor's house. (A completely status-quo change; a lateral career move or software migration that offers absolutely zero actual progress, upgrades, or noticeable difference in quality)."
   },
   {
     "id": 688,
     "text": "वल्लो घाट न पल्लो तीर",
     "meaning": "Neither this riverbank nor the other shore."
   },
-  {
+ {
     "id": 689,
-    "text": "वाणाको घरमा सबै पुजारी",
-    "meaning": "In a merchant's house, everyone is a priest."
+    "text": "बाँडाको घरमा सबै पुजारी",
+    "meaning": "In a goldsmith's or craftsman's house (बाँडा), every single member acts like an elite priest. (A chaotic scenario where every single employee in a tech team tries to act like the head system architect or boss, leading to a total lack of execution)."
   },
   {
     "id": 690,
@@ -3461,20 +3461,20 @@
     "text": "विष नभएको सर्प र ईख नभएको मानिस काम लाग्दैन",
     "meaning": "A snake without poison and a person without envy are useless."
   },
-  {
+ {
     "id": 693,
     "text": "विष्टको घरमा भात पाक्दा दमाईको घरमा खलबल",
-    "meaning": "When rice cooks in a Bisht's house, there is chaos in a tailor's house."
+    "meaning": "When a lavish feast of rice begins cooking in the high-caste patron's (विष्ट) house, it triggers a joyful flurry of musical preparation in the traditional tailor/musician's (दमाई) house. (A classic economic dependency; when a major corporate client or industry leader secures massive funding, it naturally creates a flurry of lucrative freelance contracts and jobs down the supply chain)."
   },
   {
     "id": 694,
-    "text": "विसौलीको झिंगा फड्कनु भन्दा धानीको टाउको हल्लाउनु बेस",
-    "meaning": "Better to shake a grain owner's head than to swing a wasp."
+    "text": "बिसौलीको झिँगा फड्कनु भन्दा धार्नीको टाउको हल्लाउनु बेस",
+    "meaning": "Instead of watching a tiny, low-weight fly buzz around frantically, it is far more significant when a massive, heavy-weight standard (धार्नी) gently nods its head. (The chaotic, noisy marketing campaigns of a tiny startup mean nothing compared to a single, quiet strategic move or nod from a massive, multi-million dollar market leader)."
   },
-  {
+ {
     "id": 695,
-    "text": "वैद्यका गलगाँड जैसीका छोरी राँड",
-    "meaning": "A doctor's goiter is like a widow's daughter."
+    "text": "वैद्यका गलगाँड, जैसीका छोरी राँड",
+    "meaning": "The great traditional physician is suffering from a massive throat goiter, and the elite astrologer's own daughter tragically ends up a widow. (An ironical situation where an expert or professional is highly capable of solving the entire world's problems, yet remains completely powerless to fix the exact same issues inside their own household)."
   },
   {
     "id": 696,
@@ -3493,8 +3493,8 @@
   },
   {
     "id": 699,
-    "text": "शिरमा टोपी छैन, खुट्टामा खोल",
-    "meaning": "No cap on the head, a river on the feet."
+    "text": "शिरमा टोपी छैन, खुट्टामा छालाको जुत्ता",
+    "meaning": "Not owning a basic traditional cap (टोपी) to cover one's bare head, yet wearing expensive, premium leather shoes on one's feet. (A hilarious display of imbalanced finances; someone who can barely afford basic monthly groceries or rent, yet walks around carrying the latest premium flagship smartphone)."
   },
   {
     "id": 700,
@@ -3502,25 +3502,25 @@
     "meaning": "Dhaturo does not affect Lord Shiva."
   },
   
-  {
+ {
     "id": 701,
-    "text": "शुक्र उदाए, फर्सी कुदाए",
-    "meaning": "Venus rose, the pumpkin ran."
+    "text": "शुक्र उदाए, फर्सी कुहाए",
+    "meaning": "When the star Venus rises during late autumn, the neglected pumpkins left out in the fields begin to rot (कुहाए). (A severe warning against missing the strict seasonal deadline; procrastinating on harvesting assets or deploying a software feature until the market window completely closes and the opportunity goes bad)."
   },
-  {
+ {
     "id": 702,
-    "text": "शोक न सुतार, भोक न भकारी",
-    "meaning": "No grief for the carpenter, no hunger for the storekeeper."
+    "text": "शोक न सुर्ता, भोक न भकारी",
+    "meaning": "Having neither a single grief or anxiety (सुर्ता) in the mind, nor a single grain left inside the storage bin (भकारी) to satisfy hunger. (An incredibly carefree, reckless, and deeply irresponsible person who is completely broke and facing ruin, yet doesn't care or take life seriously)."
   },
   {
     "id": 703,
-    "text": "श्रीखण्डलाई कपुर, भांगलाई धतुर",
-    "meaning": "Camphor for sandalwood, dhaturo for hemp."
+    "text": "श्रीखण्डलाई कपुर, भाङलाई धतुर",
+    "meaning": "Pairing precious sandalwood with sweet camphor, while matching intoxicating hemp (भाङ) with toxic, poisonous dhaturo. (Like pairs with like; high-quality assets and brilliant developers should be paired with excellent infrastructure, while toxic, chaotic elements naturally clump together)."
   },
-  {
+{
     "id": 704,
-    "text": "श्रीमती कति बाठी, बोका स्टाईलको केश काटी",
-    "meaning": "No matter how clever the wife, the he-goat cuts the stylish hair."
+    "text": "श्रीमती कति बाठी, बोका स्टाइलको केश काटी",
+    "meaning": "Look how overly modern and 'clever' the wife tries to act, cutting her hair into a ridiculous, rugged punk/he-goat style! (A humorous, sarcastic modern jab at someone blindly following eccentric, bizarre trends and calling it fashion or sophistication)."
   },
   {
     "id": 705,
@@ -3534,8 +3534,8 @@
   },
   {
     "id": 707,
-    "text": "संगै बसी सुती सकी, लाज मान्दै घुम्टो कसी",
-    "meaning": "Lived and slept together, then shyly tightened the veil."
+    "text": "सङ्गै बसी सुती सकी, लाज मान्दै घुम्टो कसी",
+    "meaning": "After already living and sleeping together for years, she suddenly puts on an act of extreme shyness and tightly draws her bridal veil (घुम्टो). (An absolute hypocrite pretending to be innocent, modest, or deeply strict about rules after they have already broken every single protocol behind closed doors)."
   },
   {
     "id": 708,
@@ -3552,40 +3552,40 @@
     "text": "सत्यको धन रहन्छ, असत्यको धन रहँदैन",
     "meaning": "Wealth earned through truth remains, wealth through falsehood does not."
   },
-  {
+ {
     "id": 711,
     "text": "शत्रु पछ्याउने भाइ, तन्नेरी पछ्याउने बुहारी",
-    "meaning": "A brother who chases an enemy, a daughter-in-law who chases a young man."
+    "meaning": "A loyal brother who actively hunts down your enemies, and a vibrant daughter-in-law who brings youthful energy and prosperity to the lineage. (Valuable, ideal family dynamics where core members fulfill their exact protective and constructive roles flawlessly)."
   },
-  {
+{
     "id": 712,
-    "text": "सपनको तीर्थ जाँदाखेरी चुरोट खानुपर्छ",
-    "meaning": "When going on a dream pilgrimage, you must smoke a cigarette."
+    "text": "साँखुको तीर्थ जाँदाखेरि चुरोट खानुपर्छ",
+    "meaning": "The humorous local myth that one must smoke a cigarette to withstand the biting winter cold when traveling on a holy pilgrimage to Salinadi, Sankhu. (A playful excuse used by people to justify a bad habit or an unnecessary indulgence during a rigorous, difficult task)."
   },
-  {
+ {
     "id": 713,
-    "text": "सब लफडा थुतुन र मुतुनले निम्त्याउँछ",
-    "meaning": "All troubles are caused by the mouth and the urinary organ."
+    "text": "सबै लफडा थुतुन र मुतुनले निम्त्याउँछ",
+    "meaning": "Absolutely every single disaster and legal mess in life is triggered either by a loose tongue (थुतुन/mouth) or unrestrained sexual/sensory desires. (A stark reminder that failing to control your speech and basic impulses guarantees total personal and professional ruin)."
   },
   {
     "id": 714,
     "text": "सबै कुकुर काशी गए गु कसले खाने",
     "meaning": "If all dogs go to Kashi, who will eat the feces?"
   },
-  {
+ {
     "id": 715,
-    "text": "सबै छोडी पुच्छर मुनि हात",
-    "meaning": "Left everything, hand under the tail."
+    "text": "सबै छोडी पुच्छरमुनि हात",
+    "meaning": "Letting go of every single reliable asset, only to end up holding empty air right under a beast's tail. (Dropping a stable, secure job or core project to chase after reckless, high-risk illusions, leaving you with absolutely nothing in the end)."
   },
-  {
+ {
     "id": 716,
-    "text": "सम्धीको निर्हेले मलाई पनि घिउले",
-    "meaning": "My co-father-in-law's stubbornness got me ghee too."
+    "text": "सम्धीको निहुँले मलाई पनि घिउले",
+    "meaning": "Thanks entirely to the special hospitality being thrown for the visiting co-father-in-law (सम्धी), I automatically got to enjoy a lavish meal dripping with pure ghee too. (Basking in reflected glory; unexpectedly getting premium perks, bonuses, or high-end treatment just because you happened to accompany a VIP client or investor)."
   },
   {
     "id": 717,
     "text": "सयको लाठी, एकको बोझ",
-    "meaning": "A hundred people's stick, one person's burden."
+    "meaning": "A single wooden stick contributed by a hundred different community members combines to form a massive, overwhelming bundle of support for one needy individual. (The immense power of crowdfunding, open-source collaboration, and community teamwork; a task that crushes one person becomes effortless when distributed among many)."
   },
   {
     "id": 718,
@@ -3605,12 +3605,12 @@
   {
     "id": 721,
     "text": "ससुरालीको धनमा नामर्दको रजाई",
-    "meaning": "An impotent man's quilt on his in-law's wealth."
+    "meaning": "A lazy, spineless man living like an absolute king and exercising supreme authority entirely on his wealthy in-laws' money. (A critique of an incompetent manager or operator who puts on massive airs of success while running a project funded entirely by inherited wealth or effortless handouts)."
   },
-  {
+ {
     "id": 722,
-    "text": "सस्तो बेसारले पखाला लाग्छ",
-    "meaning": "Cheap turmeric causes diarrhea."
+    "text": "सस्तो बेसारले पनि पखाला लाग्छ र?",
+    "meaning": "Does using cheap turmeric ever cause diarrhea? Of course not, it just lacks premium flavor. (A counter-perspective to ID 722; implying that a budget-friendly, basic software tool or cheap option still performs its core fundamental job perfectly fine without breaking the system)."
   },
   {
     "id": 723,
@@ -3624,8 +3624,8 @@
   },
   {
     "id": 725,
-    "text": "साउनको भेललाई बेलामा रोक्न सके बाली राम्रो हुन्छ",
-    "meaning": "If you can stop the Shrawan flood in time, the crop becomes good."
+    "text": "साउनको भेललाई बेलैमा रोक्न नसके बाली नास हुन्छ",
+    "meaning": "If you fail to dam and control the raging monsoon floods of Shrawan at the very beginning, your entire agricultural crop will be completely destroyed. (Failing to address a critical system bug or financial leak at the early stage guarantees the absolute wipeout of the entire enterprise later)."
   },
   {
     "id": 726,
@@ -3635,7 +3635,7 @@
   {
     "id": 727,
     "text": "सानो चित्तले बोसो पाक्दैन",
-    "meaning": "A small heart does not cook fat."
+    "meaning": "You can never successfully render and cook rich animal fat (बोसो) if you possess a stingy, narrow-minded, or timid heart. (To pull off massive business deals, high-yielding investments, or large-scale construction, you must have the courage to spend heavily and take bold risks; small-minded penny-pinching won't work)."
   },
   {
     "id": 728,
@@ -3645,12 +3645,12 @@
   {
     "id": 729,
     "text": "सानोलाई ऐना, ठूलोलाई चैन",
-    "meaning": "A mirror for the small, comfort for the big."
+    "meaning": "A tiny mirror is an absolute luxury for a poor child, while uninterrupted comfort (चैन) belongs to the wealthy. (The stark economic divide where minor things bring deep satisfaction to ordinary people, while elites demand systemic, high-end comfort)."
   },
-  {
+ {
     "id": 730,
-    "text": "साकीको सरापले डिँगो मर्दैन",
-    "meaning": "A witness's curse does not kill a frog."
+    "text": "सातीको सरापले डिङ्गो मर्दैन",
+    "meaning": "The bitter curses of a tiny, harmless water bird (साती) will never cause the death of a massive wild bull or large steer (डिङ्गो). (The noisy complaints, jealous trolling, or online hate from completely powerless critics cannot cause a single bit of harm to a powerful, established market leader)."
   },
   {
     "id": 731,
@@ -3667,10 +3667,10 @@
     "text": "सिपाहीको काम छैन, जर्नेलको मान",
     "meaning": "No work for the soldier, but honor for the general."
   },
-  {
+ {
     "id": 734,
-    "text": "सिमीका झालमा काउसाको कोसो",
-    "meaning": "A crow's sack in the pod of a bean."
+    "text": "सिमीको झालमा काउसाको कोसो",
+    "meaning": "Discovering a hyper-allergenic, intensely itchy velvet bean pod (काउसो) hiding right inside a pleasant patch of common garden beans (सिमी). (A dangerous, toxic liability or a highly malicious employee hiding inside an otherwise peaceful, productive team)."
   },
   {
     "id": 735,
@@ -3682,10 +3682,10 @@
     "text": "सियो हराएको दमाइँ जस्तो",
     "meaning": "Like a tailor who lost his needle."
   },
-  {
+{
     "id": 737,
-    "text": "सीतेंमा पाए भट्टिट रीते",
-    "meaning": "Found in Sitem, a dry Bhattit."
+    "text": "सित्तैमा पाए भट्टी रित्तै",
+    "meaning": "If alcohol were to be handed out absolutely free of charge (सित्तैमा), the local tavern (भट्टी) would be drunk completely dry within minutes. (When a software feature, service, or asset is offered for free, the public will aggressively exploit and drain the resources instantly, showing zero restraint)."
   },
   {
     "id": 738,
@@ -3714,18 +3714,18 @@
   },
   {
     "id": 743,
-    "text": "सूर्य अस्त चन्द्र मस्त",
-    "meaning": "Sun sets, moon is happy."
+    "text": "सूर्य अस्त, चन्द्रमस्त",
+    "meaning": "The moment the sun sets, the local alcohol enthusiasts and nightlife lovers wake up and get blissfully drunk (मस्त). (A humorous slang reference to the evening party culture starting up the exact second official working hours end)."
   },
   {
     "id": 744,
     "text": "सूर्यको अगाडि बत्ती",
     "meaning": "A lamp in front of the sun."
   },
-  {
+ {
     "id": 745,
-    "text": "सोरुठ साला सत्र",
-    "meaning": "Sorutha sala satra."
+    "text": "सोरुठी साला सत्र",
+    "meaning": "A traditional programmatic expression or rhythm used in Sorathi folk dance cues where calculations align perfectly. (A task, formula, or code block aligning exactly with expectations)."
   },
   {
     "id": 746,
@@ -3747,50 +3747,50 @@
     "text": "स्वास्थ राम्रो चेकअपले, केटी राम्रो मेकअपले",
     "meaning": "Health is good with a checkup, a girl is good with makeup."
   },
-  {
+ {
     "id": 750,
-    "text": "स्वास्नीको अगाडि किम जोडे पनि बिरालो",
-    "meaning": "Even if you tie a kim in front of a woman, it's a cat."
+    "text": "स्वास्नीको अगाडि सिँह जोडिए पनि बिरालो",
+    "meaning": "Even if you prefix the word 'Lion' (सिंह) to a husband's name, he still shrinks down to a quiet, submissive house cat right in front of his wife. (The classic, humorous cultural trope of a fierce, powerful public leader being completely meek and obedient at home under domestic authority)."
   },
   {
     "id": 751,
     "text": "स्वास्नीमान्छेको थर छैन, लोग्ने मान्छेको घर छैन",
     "meaning": "A woman has no surname, a man has no home."
   },
-  {
+ {
     "id": 752,
-    "text": "हँसियाको बिहेमा खुपर्को गीत",
-    "meaning": "At the sickle's wedding, a song for the grass."
+    "text": "हँसियको बिहेमा खुर्पीको गीत",
+    "meaning": "Singing songs exclusively about a small weeding knife (खुर्पी) at the formal wedding ceremony of a large sickle (हँसिया). (Talking about completely irrelevant, off-topic side issues during a highly critical corporate board meeting or project presentation)."
   },
-  {
+ {
     "id": 753,
-    "text": "हगाइभन्दा पदाइ ठूलो",
-    "meaning": "Defecation is bigger than walking."
+    "text": "हगाइभन्दा पादाइ ठूलो",
+    "meaning": "The loud, dramatic sound of flatulence (पादाइ) is far greater than the actual substance passed. (A massive over-exaggeration; a tiny startup making a massive, deafening marketing noise over an incredibly minor, basic product upgrade)."
   },
-  {
+ {
     "id": 754,
-    "text": "हगन गयो कन्डो बिस्यो",
-    "meaning": "Went to defecate, forgot the back."
+    "text": "हग्न गयो, ढुङ्ग्रो बिर्सियो",
+    "meaning": "Running off in a frantic hurry to relieve oneself, but completely forgetting to bring along the essential water container (ढुङ्ग्रो) for cleaning up. (Sprinting ahead to launch a software product or close a client deal without preparing the core backend infrastructure or essential paperwork)."
   },
-  {
+ {
     "id": 755,
-    "text": "हगे हग मुते काटुला",
-    "meaning": "Defecate, defecate; if you urinate, it will cut."
+    "text": "हगे हग, मुते काटुँला",
+    "meaning": "An extreme, aggressive ultimatum: 'Go ahead and defecate if you must, but the second you try to urinate, I will cut you down!' (An incredibly rigid, hyper-controlling authority or boss imposing absurdly strict limitations and impossible conditions on a team)."
   },
-  {
+ {
     "id": 756,
     "text": "हगेपछि दैलो देख्यो",
-    "meaning": "After defecating, saw the door."
+    "meaning": "Only noticing the bathroom door or realizing the solution after you have already soiled yourself. (An absolute lack of foresight; coming up with a brilliant security plan or backup strategy only after the database has already been hacked and ruined)."
   },
   {
     "id": 757,
     "text": "हग्नेलाई भन्दा देख्नेलाई लाज",
     "meaning": "More shame for the watcher than for the defecator."
   },
-  {
+ {
     "id": 758,
     "text": "हग्ने बेलामा चक खोज्नु",
-    "meaning": "Looking for a wheel while defecating."
+    "meaning": "Frantically searching for a clean toilet spot or wiping material at the absolute last emergency second when nature is already violently calling. (Procrastinating on vital preparations and running around in a panic only when the strict deadline is actively crashing down on your head)."
   },
   {
     "id": 759,
@@ -3802,30 +3802,30 @@
     "text": "हत्केलामा तोरी उम्रदैन",
     "meaning": "Mustard does not grow on the palm of the hand."
   },
-  {
+ {
     "id": 761,
     "text": "हराएको गाई सूर्यलाई दान",
-    "meaning": "A lost cow is an offering to the sun."
+    "meaning": "Generously donating a cow that went missing in the jungle days ago as a 'sacred offering' to the Sun God. (Making a grand, pretentious show of charity by gifting an asset, corrupted code library, or broken equipment that was already completely lost, useless, or write-off property anyway)."
+  },
+ {
+    "id": 762,
+    "text": "हरिप देखेर दैव डराउँछ",
+    "meaning": "When encountering a pathologically clever, cunning rogue (हरिप), even Almighty Fate steps back in caution. (An incredibly slick, hyper-smart operator or negotiator who manages to manipulate every loophole and outsmart every system block)."
   },
   {
     "id": 762,
     "text": "हरिप देखेर दैव डराउँछ",
-    "meaning": "Seeing Harip, even fate gets scared."
+    "meaning": "When encountering a pathologically clever, cunning rogue (हरिप), even Almighty Fate steps back in caution. (An incredibly slick, hyper-smart operator or negotiator who manages to manipulate every loophole and outsmart every system block)."
   },
-  {
-    "id": 763,
-    "text": "हरेस खाए पनि चरेस नखानु",
-    "meaning": "Even if you lose heart, don't smoke hashish."
-  },
-  {
+ {
     "id": 764,
-    "text": "हराउन नपाउनेलाई जाईफल",
-    "meaning": "Nutmeg for the one who never loses."
+    "text": "हराउन नपाउनेलाई जाइफल",
+    "meaning": "Handing an expensive, rare nutmeg (जाइफल) to a reckless person who is guaranteed to drop and lose it in the grass within minutes. (Entrusting a premium, high-value account or sensitive server access to an incredibly sloppy, irresponsible junior developer)."
   },
-  {
+ {
     "id": 765,
-    "text": "हराउन नपाउनेले जाईफलको धाक",
-    "meaning": "The one who never loses boasts of nutmeg."
+    "text": "हराउन नपाउनेले जाइफलको धाक",
+    "meaning": "A completely incompetent person who can't even hold onto an object bragging loudly about owning a rare nutmeg. (An empty talker who lacks basic execution skills boasting about their high-level strategies or prestigious certificates)."
   },
   {
     "id": 766,
@@ -3839,13 +3839,13 @@
   },
   {
     "id": 768,
-    "text": "हलो अङ्काएर गोरु चुट्नु",
-    "meaning": "Hugging the plow and beating the ox."
+    "text": "हलो अड्काएर गोरु चुट्नु",
+    "meaning": "Deliberately causing the plow to get stuck deep in a rock (हलो अड्काएर), and then mercilessly beating the innocent oxen for not moving forward. (An abusive, toxic manager who sets up an impossible system bottleneck or fails to provide the required budget, then severely penalizes the junior developers for missing the deployment target)."
   },
-  {
+ {
     "id": 769,
-    "text": "हलो काटेर मुड्यो",
-    "meaning": "Cut the plow and twisted it."
+    "text": "हलो काटेर मुङ्ग्रो",
+    "meaning": "Chopping up a perfectly functional, highly valuable wooden farm plow just to carve a crude, low-value mallet (मुङ्ग्रो) out of it. (An act of supreme corporate stupidity; destroying a massive, profitable core system or permanent asset just to fulfill a tiny, short-term temporary requirement)."
   },
   {
     "id": 770,
@@ -3877,20 +3877,20 @@
     "text": "हाती आयो हाती आयो फुस्सा",
     "meaning": "An elephant came, an elephant came... phussa (nothing)."
   },
-  {
+ {
     "id": 776,
-    "text": "हाती उडाउने बतास आयो पिउरी खोज्छेस् राँड",
-    "meaning": "The wind that flies an elephant came, the widow searches for flattened rice."
+    "text": "हात्ती उडाउने बतास आयो, पिउरी खोज्छेस् राँड",
+    "meaning": "A terrifying, cataclysmic hurricane capable of sweeping massive elephants up into the sky has arrived, yet this foolish person is obsessing over finding a microscopic cotton wick (पिउरी) for a lamp! (A severe critique of someone losing their mind over petty, micro-penny details while the entire company is facing a massive, existential macro-level financial meltdown)."
   },
   {
     "id": 777,
     "text": "हाती चढिसकेको मान्छेले गधा चढ्न के रुचाउला",
     "meaning": "One who has ridden an elephant, why would he like to ride a donkey?"
   },
-  {
+ {
     "id": 778,
-    "text": "हाती छियो पुच्छर अङ्क्यो",
-    "meaning": "There was an elephant, the tail measured it."
+    "text": "हात्ती छिर्यो, पुच्छर अड्क्यो",
+    "meaning": "The entire massive body of the giant elephant successfully squeezed through the narrow gate, but its tiny tail got completely stuck at the very end. (Completing 99% of an incredibly massive, complex enterprise project perfectly, only to get completely blocked at the final inches by a tiny, trivial administrative detail or a missing signature)."
   },
   {
     "id": 779,
@@ -3912,10 +3912,10 @@
     "text": "हारेको कुकुरले सधैं दाँत देखाउँछ",
     "meaning": "A defeated dog always shows its teeth."
   },
-  {
+ {
     "id": 783,
-    "text": "हाने गोरुको छेनै दाउ",
-    "meaning": "The ox that is hit has only one trick left."
+    "text": "हान्ने गोरुको छेनै दाउ",
+    "meaning": "A notoriously violent, charging bull (हान्ने गोरु) doesn't wait for a strategic opportunity; it lunges and attacks randomly at every single turn. (A highly aggressive, toxic competitor or volatile person who acts purely on destructive impulse, attacking everyone around them without any logic)."
   },
   {
     "id": 784,
@@ -3937,10 +3937,10 @@
     "text": "हीराको मोल किराले जान्दैन",
     "meaning": "A worm does not know the value of a diamond."
   },
-  {
+ {
     "id": 788,
-    "text": "हिस्स बुढीको खिस्स दाँत",
-    "meaning": "The old woman's share is a tooth."
+    "text": "हिस्स बुढीको खिस दाँत",
+    "meaning": "An old woman who has been completely embarrassed or left empty-handed awkwardly grinning (खिस दाँत) to hide her deep shame. (The forced, sheepish smile a contractor or developer gives when their grand bluff is thoroughly exposed by raw technical data)."
   },
   {
     "id": 789,
@@ -3950,32 +3950,32 @@
   {
     "id": 790,
     "text": "हुने हार, दैव नटार",
-    "meaning": "The one who will lose loses; fate cannot be stopped."
+    "meaning": "When an absolute catastrophe or destined downfall (हार) is set in motion, even the gods themselves cannot intervene to divert it. (When a fundamentally flawed, unvetted project architecture is deployed, a total crash is mathematically guaranteed; no amount of wishing will save it)."
   },
   {
     "id": 791,
     "text": "हुलमुलमा जिउ जोगाउनु, अनिकालमा बिउ जोगाउनु",
     "meaning": "Save your body in the crowd, save your seed in famine."
   },
-  {
+ {
     "id": 792,
     "text": "हेरेर मर्नु भन्दा छेरेर मर्नु जाती",
-    "meaning": "Better to die scattering than to die watching."
+    "meaning": "Instead of sitting back meekly, freezing up, and watching your own destruction unfold, it is better to go down fighting fiercely, emptying out every last resource you have. (When a startup or project is failing, don't just paralyze yourself with fear; take aggressive, messy, desperate action and go out swinging)."
   },
   {
     "id": 793,
-    "text": "हेदा चरो, पर्दा बन्चरो",
-    "meaning": "While looking, a bird; while falling, a curved knife."
+    "text": "हेर्दा चरो, पर्दा बन्चरो",
+    "meaning": "Looking from afar it appeared to be a harmless, gentle bird, but the moment it landed, it struck like a heavy, devastating iron axe (बन्चरो). (An investment or a client that looked completely simple and easy on paper, but turned out to be an absolute nightmare of liabilities once the contract was signed)."
   },
-  {
+ {
     "id": 794,
-    "text": "हेदाको रामो, दिन खानको चामो",
-    "meaning": "Looking at the shape, a curry to eat for the day."
+    "text": "हेर्दाको राम्रो, मकै खानको चाम्रो",
+    "meaning": "Looking exceptionally beautiful and golden to the eyes, but turns out to be incredibly tough, stale, and painful to chew when you bite into the corn. (A beautifully designed, gorgeous user interface that looks premium, but has a backend code so horribly written that the application is completely slow and unusable)."
   },
-  {
+ {
     "id": 795,
     "text": "हेराइको र छेराइको भर हुँदैन",
-    "meaning": "There is no reliance on looking and scattering."
+    "meaning": "You can never place your trust or bank your finances on casual, passing glances or erratic, uncontrolled bursts of action. (A business reminder to ignore superficial looks, erratic hype trends, and verbal promises; rely strictly on stable metrics and data)."
   },
   {
     "id": 796,
@@ -3987,22 +3987,21 @@
     "text": "होचो आउँदा घोचो, अग्लो आउँदा अग्लो",
     "meaning": "When the short comes, a spike; when the tall comes, tall."
   },
-  {
-    "id": 798,
-    "text": "होसियार आफू, बेहोस अरु",
-    "meaning": "Conscious oneself, unconscious others."
-  },
+ {
+  "id": 798,
+  "text": "होसियार आफू, बेहोस अरू",
+  "meaning": "Keeping oneself fiercely alert, cautious, and calculating while completely ignoring, neglecting, or remaining indifferent to the chaotic, reckless state of others. (A hyper-individualistic approach where an operator ensures their own legal and financial assets are 100% secure and backed up, while letting their careless partners or competitors ride straight into a disaster because it's not their problem)."
+},
   {
     "id": 799,
     "text": "होहल्ला भन्दा हल्ला हिँड्दैन",
     "meaning": "A rumor does not walk without noise."
   },
-  {
-    "id": 800,
-    "text": "ह्याङ आउँदा खाना छ, ह्याङ जाँदा खाना छैन",
-    "meaning": "When Hyang comes, there is food; when Hyang goes, there is no food."
-  }
-
+{
+  "id": 800,
+  "text": "ह्याङ आउँदा खाना छ, ह्याङ जाँदा खाना छैन",
+  "meaning": "When the honored family priest (ह्याङ) visits, a lavish, delicious feast is automatically prepared; the moment the priest departs, the household returns to ordinary, sparse meals. (A commentary on conditional hospitality and temporary prosperity; enjoying premium perks, high budgets, or excellent treatment only while a VIP client, investor, or external auditor is physically present around the office)."
+}
 
 
 ]
